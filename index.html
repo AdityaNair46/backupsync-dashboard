@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Backup Sync Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --bg:#ffffff;--bg2:#f6f6f4;--bg3:#efefed;
+  --text:#1a1a18;--text2:#5f5e5a;--text3:#888780;
+  --border:rgba(0,0,0,.1);--border2:rgba(0,0,0,.18);
+  --green:#1d9e75;--green-bg:#e1f5ee;--green-text:#085041;
+  --amber:#ef9f27;--amber-bg:#faeeda;--amber-text:#633806;
+  --red:#e24b4a;--red-bg:#fcebeb;--red-text:#501313;
+  --radius:10px;--radius-lg:14px;
+}
+@media(prefers-color-scheme:dark){
+  :root{
+    --bg:#1c1c1a;--bg2:#252523;--bg3:#2e2e2b;
+    --text:#f0efe8;--text2:#b4b2a9;--text3:#888780;
+    --border:rgba(255,255,255,.1);--border2:rgba(255,255,255,.18);
+    --green:#5dcaa5;--green-bg:#04342c;--green-text:#9fe1cb;
+    --amber:#ef9f27;--amber-bg:#412402;--amber-text:#fac775;
+    --red:#f09595;--red-bg:#501313;--red-text:#f7c1c1;
+  }
+}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg3);color:var(--text);min-height:100vh;}
+.topbar{background:var(--bg);border-bottom:0.5px solid var(--border);padding:0 2rem;height:56px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:10;}
+.topbar-left{display:flex;align-items:center;gap:12px;}
+.logo{width:28px;height:28px;background:var(--green);border-radius:7px;display:flex;align-items:center;justify-content:center;}
+.logo svg{width:16px;height:16px;fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round;}
+.topbar h1{font-size:15px;font-weight:500;}
+.last-updated{font-size:12px;color:var(--text3);}
+.content{max-width:1100px;margin:0 auto;padding:1.5rem 1.5rem 3rem;}
+.metric-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:1.5rem;}
+.metric{background:var(--bg);border:0.5px solid var(--border);border-radius:var(--radius-lg);padding:1rem 1.1rem;}
+.metric-label{font-size:11px;color:var(--text3);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+.metric-value{font-size:24px;font-weight:500;}
+.metric-value.ok{color:var(--green);}
+.metric-value.warn{color:var(--red);}
+.card{background:var(--bg);border:0.5px solid var(--border);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin-bottom:1.25rem;}
+.card-title{font-size:13px;font-weight:500;color:var(--text2);text-transform:uppercase;letter-spacing:.06em;margin-bottom:1.1rem;}
+.tabs{display:flex;gap:2px;margin-bottom:1.25rem;}
+.tab{padding:8px 18px;font-size:13px;cursor:pointer;border:0.5px solid var(--border);background:var(--bg2);color:var(--text2);border-radius:20px;transition:all .15s;}
+.tab.active{background:var(--text);color:var(--bg);border-color:var(--text);}
+.filter-row{display:flex;gap:10px;align-items:center;margin-bottom:1.1rem;flex-wrap:wrap;}
+.filter-row label{font-size:12px;color:var(--text3);}
+.filter-row select,.filter-row input{font-size:13px;padding:6px 10px;border:0.5px solid var(--border2);border-radius:var(--radius);background:var(--bg2);color:var(--text);}
+.loc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px;}
+.loc-card{background:var(--bg2);border:0.5px solid var(--border);border-radius:var(--radius);padding:0.85rem 1rem;}
+.loc-card-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:7px;}
+.loc-name{font-size:13px;font-weight:500;}
+.loc-pct{font-size:13px;font-weight:500;}
+.loc-pct.high{color:var(--green);}
+.loc-pct.mid{color:var(--amber);}
+.loc-pct.low{color:var(--red);}
+.bar-bg{height:4px;background:var(--bg3);border-radius:2px;overflow:hidden;}
+.bar-fill{height:100%;border-radius:2px;}
+.bar-fill.high{background:var(--green);}
+.bar-fill.mid{background:var(--amber);}
+.bar-fill.low{background:var(--red);}
+.loc-meta{font-size:11px;color:var(--text3);margin-top:5px;}
+table{width:100%;border-collapse:collapse;font-size:13px;}
+th{text-align:left;padding:8px 10px;font-size:11px;font-weight:500;color:var(--text3);text-transform:uppercase;letter-spacing:.06em;border-bottom:0.5px solid var(--border);}
+td{padding:10px 10px;border-bottom:0.5px solid var(--border);}
+tr:last-child td{border-bottom:none;}
+.badge{display:inline-flex;align-items:center;font-size:11px;padding:3px 9px;border-radius:20px;font-weight:500;}
+.badge.danger{background:var(--red-bg);color:var(--red-text);}
+.badge.warn{background:var(--amber-bg);color:var(--amber-text);}
+.badge.ok{background:var(--green-bg);color:var(--green-text);}
+.loading{text-align:center;padding:4rem 2rem;color:var(--text3);}
+.loading .spinner{width:32px;height:32px;border:2px solid var(--border2);border-top-color:var(--green);border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 1rem;}
+@keyframes spin{to{transform:rotate(360deg);}}
+.tab-panel{display:none;}
+.tab-panel.active{display:block;}
+.chart-wrap{position:relative;width:100%;height:260px;}
+.empty{text-align:center;padding:2rem;color:var(--text3);font-size:14px;}
+.legend{display:flex;gap:16px;margin-bottom:12px;font-size:12px;color:var(--text2);}
+.legend span{display:flex;align-items:center;gap:5px;}
+.legend-dot{width:10px;height:10px;border-radius:2px;}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-left">
+    <div class="logo">
+      <svg viewBox="0 0 16 16"><polyline points="2,11 6,7 9,10 14,4"/></svg>
+    </div>
+    <h1>Backup Sync Dashboard</h1>
+  </div>
+  <span class="last-updated" id="lastUpdated">Loading…</span>
+</div>
+
+<div class="content">
+  <div id="loadingState" class="loading">
+    <div class="spinner"></div>
+    <p>Fetching latest backup data…</p>
+  </div>
+
+  <div id="mainContent" style="display:none;">
+    <div class="metric-grid" id="metricGrid"></div>
+
+    <div class="tabs">
+      <button class="tab active" onclick="switchTab('daily',this)">Daily completion</button>
+      <button class="tab" onclick="switchTab('locations',this)">Per-location history</button>
+      <button class="tab" onclick="switchTab('failing',this)">Consistently failing</button>
+    </div>
+
+    <div id="daily" class="tab-panel active">
+      <div class="card">
+        <div class="card-title">Daily completion rate</div>
+        <div class="legend">
+          <span><span class="legend-dot" style="background:#1d9e75;"></span>Completion %</span>
+        </div>
+        <div class="chart-wrap"><canvas id="dailyChart" role="img" aria-label="Line chart of daily backup sync completion rate over time"></canvas></div>
+      </div>
+    </div>
+
+    <div id="locations" class="tab-panel">
+      <div class="card">
+        <div class="card-title">Per-location history</div>
+        <div class="filter-row">
+          <label>Sort by</label>
+          <select id="locSort" onchange="renderLocations()">
+            <option value="rate-asc">Completion rate ↑ (worst first)</option>
+            <option value="rate-desc">Completion rate ↓ (best first)</option>
+            <option value="alpha">Alphabetical</option>
+          </select>
+          <input type="text" id="locSearch" placeholder="Search location…" oninput="renderLocations()" style="width:180px;">
+        </div>
+        <div class="loc-grid" id="locGrid"></div>
+      </div>
+    </div>
+
+    <div id="failing" class="tab-panel">
+      <div class="card">
+        <div class="card-title">Consistently failing locations</div>
+        <div class="filter-row">
+          <label>Show locations below</label>
+          <select id="failThreshold" onchange="renderFailing()">
+            <option value="80">80% completion</option>
+            <option value="60">60% completion</option>
+            <option value="50">50% completion</option>
+            <option value="40">40% completion</option>
+          </select>
+        </div>
+        <table>
+          <thead><tr><th>Location</th><th>Completion</th><th>Days failed</th><th>Last failure</th><th>Status</th></tr></thead>
+          <tbody id="failBody"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const GITHUB_USER = 'AdityaNair46';
+const GITHUB_REPO = 'backupsync-dashboard';
+const CSV_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/backupsync_historic.csv`;
+
+let allRecords = [];
+let locationStats = {};
+let dailyStats = {};
+let dailyChartInst = null;
+
+async function loadData() {
+  try {
+    const res = await fetch(CSV_URL + '?t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const text = await res.text();
+    const parsed = Papa.parse(text, { header: true, skipEmptyLines: true });
+
+    allRecords = parsed.data.map(r => ({
+      date:      (r.date || '').trim(),
+      location:  (r.location || '').trim(),
+      completed: (r.completed || '').trim().toUpperCase() === 'TRUE'
+    })).filter(r => r.date && r.location);
+
+    if (!allRecords.length) throw new Error('CSV is empty or malformed');
+
+    buildStats();
+    renderMetrics();
+    renderDailyChart();
+    renderLocations();
+    renderFailing();
+
+    const dates = Object.keys(dailyStats).sort();
+    document.getElementById('lastUpdated').textContent =
+      `Data through ${dates[dates.length - 1]} · ${allRecords.length.toLocaleString()} records`;
+
+    document.getElementById('loadingState').style.display = 'none';
+    document.getElementById('mainContent').style.display = 'block';
+
+  } catch (err) {
+    document.getElementById('loadingState').innerHTML =
+      `<p style="color:var(--red)">Could not load data.<br><small>${err.message}</small><br><br>
+       <small>Make sure the CSV has been pushed to GitHub and GitHub Pages is enabled.</small></p>`;
+  }
+}
+
+function buildStats() {
+  locationStats = {};
+  dailyStats = {};
+  for (const r of allRecords) {
+    if (!locationStats[r.location]) locationStats[r.location] = { total:0, done:0, failDates:[] };
+    locationStats[r.location].total++;
+    if (r.completed) locationStats[r.location].done++;
+    else locationStats[r.location].failDates.push(r.date);
+
+    if (!dailyStats[r.date]) dailyStats[r.date] = { total:0, done:0 };
+    dailyStats[r.date].total++;
+    if (r.completed) dailyStats[r.date].done++;
+  }
+}
+
+function renderMetrics() {
+  const dates  = Object.keys(dailyStats).sort();
+  const locs   = Object.keys(locationStats);
+  const total  = allRecords.length;
+  const done   = allRecords.filter(r => r.completed).length;
+  const pct    = total ? Math.round(100 * done / total) : 0;
+  const failing = locs.filter(l => locationStats[l].done / locationStats[l].total < 0.8).length;
+  const last   = dates[dates.length - 1] || '—';
+  const ls     = dailyStats[last] || { done:0, total:1 };
+  const lastPct = Math.round(100 * ls.done / ls.total);
+
+  document.getElementById('metricGrid').innerHTML = `
+    <div class="metric"><div class="metric-label">Overall completion</div><div class="metric-value ok">${pct}%</div></div>
+    <div class="metric"><div class="metric-label">Dates tracked</div><div class="metric-value">${dates.length}</div></div>
+    <div class="metric"><div class="metric-label">Locations</div><div class="metric-value">${locs.length}</div></div>
+    <div class="metric"><div class="metric-label">Latest day (${last})</div><div class="metric-value ${lastPct >= 80 ? 'ok' : 'warn'}">${lastPct}%</div></div>
+    <div class="metric"><div class="metric-label">Below 80% threshold</div><div class="metric-value warn">${failing}</div></div>
+  `;
+}
+
+function renderDailyChart() {
+  const dates = Object.keys(dailyStats).sort();
+  const pcts  = dates.map(d => Math.round(100 * dailyStats[d].done / dailyStats[d].total));
+  const isDark = matchMedia('(prefers-color-scheme: dark)').matches;
+
+  if (dailyChartInst) dailyChartInst.destroy();
+
+  dailyChartInst = new Chart(document.getElementById('dailyChart').getContext('2d'), {
+    type: 'line',
+    data: {
+      labels: dates,
+      datasets: [{
+        label: 'Completion %',
+        data: pcts,
+        borderColor: '#1d9e75',
+        backgroundColor: isDark ? 'rgba(29,158,117,0.12)' : 'rgba(29,158,117,0.07)',
+        borderWidth: 2,
+        pointRadius: dates.length > 30 ? 2 : 4,
+        pointBackgroundColor: '#1d9e75',
+        fill: true,
+        tension: 0.3
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      scales: {
+        y: {
+          min: 0, max: 100,
+          ticks: { callback: v => v + '%', font:{ size:11 }, color: isDark ? '#888' : '#888' },
+          grid: { color: isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)' },
+          border: { display: false }
+        },
+        x: {
+          ticks: { font:{ size:11 }, color:'#888', maxTicksLimit:12, autoSkip:true },
+          grid: { display: false }
+        }
+      },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: ctx => {
+              const d = dates[ctx.dataIndex];
+              const s = dailyStats[d];
+              return ` ${ctx.parsed.y}%  (${s.done}/${s.total} locations synced)`;
+            }
+          }
+        }
+      }
+    }
+  });
+}
+
+function renderLocations() {
+  const sort   = document.getElementById('locSort').value;
+  const search = document.getElementById('locSearch').value.toLowerCase().trim();
+  let locs = Object.keys(locationStats).filter(l => !search || l.toLowerCase().includes(search));
+
+  if (sort === 'rate-asc')  locs.sort((a,b) => (locationStats[a].done/locationStats[a].total) - (locationStats[b].done/locationStats[b].total));
+  else if (sort === 'rate-desc') locs.sort((a,b) => (locationStats[b].done/locationStats[b].total) - (locationStats[a].done/locationStats[a].total));
+  else locs.sort((a,b) => a.localeCompare(b));
+
+  if (!locs.length) { document.getElementById('locGrid').innerHTML='<div class="empty">No locations match.</div>'; return; }
+
+  document.getElementById('locGrid').innerHTML = locs.map(l => {
+    const s    = locationStats[l];
+    const pct  = Math.round(100 * s.done / s.total);
+    const tier = pct >= 80 ? 'high' : pct >= 50 ? 'mid' : 'low';
+    const last = s.failDates.sort().reverse()[0] || null;
+    const fails = s.total - s.done;
+    return `<div class="loc-card">
+      <div class="loc-card-top"><span class="loc-name">${l}</span><span class="loc-pct ${tier}">${pct}%</span></div>
+      <div class="bar-bg"><div class="bar-fill ${tier}" style="width:${pct}%"></div></div>
+      <div class="loc-meta">${s.done}/${s.total} days synced${fails ? ' · last fail: ' + last : ' · no failures'}</div>
+    </div>`;
+  }).join('');
+}
+
+function renderFailing() {
+  const thresh = parseInt(document.getElementById('failThreshold').value);
+  const rows = Object.entries(locationStats)
+    .map(([loc, s]) => ({
+      loc, pct: Math.round(100 * s.done / s.total),
+      fails: s.total - s.done, total: s.total,
+      lastFail: s.failDates.sort().reverse()[0] || '—'
+    }))
+    .filter(r => r.pct < thresh)
+    .sort((a,b) => a.pct - b.pct);
+
+  if (!rows.length) {
+    document.getElementById('failBody').innerHTML =
+      `<tr><td colspan="5" class="empty">No locations below ${thresh}% — all looking good!</td></tr>`;
+    return;
+  }
+
+  document.getElementById('failBody').innerHTML = rows.map(r => {
+    const tier  = r.pct < 40 ? 'danger' : r.pct < 60 ? 'warn' : 'ok';
+    const label = r.pct < 40 ? 'Critical' : r.pct < 60 ? 'High risk' : 'At risk';
+    return `<tr>
+      <td style="font-weight:500">${r.loc}</td>
+      <td><strong>${r.pct}%</strong> <span style="font-size:11px;color:var(--text3)">(${r.fails}/${r.total} days)</span></td>
+      <td>${r.fails}</td>
+      <td style="font-size:12px;color:var(--text3)">${r.lastFail}</td>
+      <td><span class="badge ${tier}">${label}</span></td>
+    </tr>`;
+  }).join('');
+}
+
+function switchTab(id, btn) {
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  btn.classList.add('active');
+}
+
+loadData();
+setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>
