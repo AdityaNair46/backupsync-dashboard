@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Backup Sync Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --bg:#ffffff;--bg2:#f6f6f4;--bg3:#efefed;
+  --text:#1a1a18;--text2:#5f5e5a;--text3:#888780;
+  --border:rgba(0,0,0,.1);--border2:rgba(0,0,0,.2);
+  --green:#1d9e75;--green-bg:#e1f5ee;--green-text:#085041;
+  --amber:#ef9f27;--amber-bg:#faeeda;--amber-text:#633806;
+  --red:#e24b4a;--red-bg:#fcebeb;--red-text:#791f1f;
+  --radius:10px;--radius-lg:14px;
+}
+@media(prefers-color-scheme:dark){
+  :root{
+    --bg:#1c1c1a;--bg2:#252523;--bg3:#2e2e2b;
+    --text:#f0efe8;--text2:#b4b2a9;--text3:#888780;
+    --border:rgba(255,255,255,.1);--border2:rgba(255,255,255,.2);
+    --green:#5dcaa5;--green-bg:#04342c;--green-text:#9fe1cb;
+    --amber:#ef9f27;--amber-bg:#412402;--amber-text:#fac775;
+    --red:#f09595;--red-bg:#501313;--red-text:#f7c1c1;
+  }
+}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg3);color:var(--text);min-height:100vh;}
+
+/* topbar */
+.topbar{background:var(--bg);border-bottom:0.5px solid var(--border);padding:0 2rem;height:56px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100;}
+.topbar-left{display:flex;align-items:center;gap:12px;}
+.logo{width:28px;height:28px;background:var(--green);border-radius:7px;display:flex;align-items:center;justify-content:center;}
+.logo svg{width:16px;height:16px;fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+.topbar h1{font-size:15px;font-weight:500;}
+.last-updated{font-size:12px;color:var(--text3);}
+
+/* layout */
+.content{max-width:1100px;margin:0 auto;padding:1.5rem 1.5rem 3rem;}
+.metric-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:1.25rem;}
+.metric{background:var(--bg);border:0.5px solid var(--border);border-radius:var(--radius-lg);padding:1rem 1.1rem;}
+.metric-label{font-size:11px;color:var(--text3);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+.metric-value{font-size:24px;font-weight:500;}
+.metric-value.ok{color:var(--green);}
+.metric-value.warn{color:var(--red);}
+
+/* filter bar */
+.filter-bar{background:var(--bg);border:0.5px solid var(--border);border-radius:var(--radius-lg);padding:1rem 1.25rem;margin-bottom:1.25rem;display:flex;gap:16px;align-items:flex-end;flex-wrap:wrap;}
+.filter-group{display:flex;flex-direction:column;gap:5px;}
+.filter-group label{font-size:11px;color:var(--text3);text-transform:uppercase;letter-spacing:.06em;}
+.filter-group select,.filter-group input{font-size:13px;padding:7px 10px;border:0.5px solid var(--border2);border-radius:var(--radius);background:var(--bg2);color:var(--text);min-width:140px;}
+.filter-group input[type=date]{min-width:130px;}
+.btn-reset{font-size:12px;padding:7px 14px;border:0.5px solid var(--border2);border-radius:var(--radius);background:transparent;color:var(--text2);cursor:pointer;white-space:nowrap;align-self:flex-end;}
+.btn-reset:hover{background:var(--bg2);}
+
+/* tabs */
+.tabs{display:flex;gap:2px;margin-bottom:1.25rem;}
+.tab{padding:8px 18px;font-size:13px;cursor:pointer;border:0.5px solid var(--border);background:var(--bg2);color:var(--text2);border-radius:20px;transition:all .15s;}
+.tab.active{background:var(--text);color:var(--bg);border-color:var(--text);}
+.tab-panel{display:none;}
+.tab-panel.active{display:block;}
+
+/* card */
+.card{background:var(--bg);border:0.5px solid var(--border);border-radius:var(--radius-lg);padding:1.25rem 1.5rem;margin-bottom:1.25rem;}
+.card-title{font-size:13px;font-weight:500;color:var(--text2);text-transform:uppercase;letter-spacing:.06em;margin-bottom:1.1rem;}
+
+/* location cards */
+.loc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:8px;}
+.loc-card{background:var(--bg2);border:0.5px solid var(--border);border-radius:var(--radius);padding:0.9rem 1rem;cursor:pointer;transition:border-color .15s,box-shadow .15s;}
+.loc-card:hover{border-color:var(--border2);box-shadow:0 2px 8px rgba(0,0,0,.06);}
+.loc-card-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:7px;}
+.loc-name{font-size:13px;font-weight:500;}
+.loc-pct{font-size:13px;font-weight:500;}
+.loc-pct.high{color:var(--green);}
+.loc-pct.mid{color:var(--amber);}
+.loc-pct.low{color:var(--red);}
+.bar-bg{height:4px;background:var(--bg3);border-radius:2px;overflow:hidden;}
+.bar-fill{height:100%;border-radius:2px;transition:width .4s;}
+.bar-fill.high{background:var(--green);}
+.bar-fill.mid{background:var(--amber);}
+.bar-fill.low{background:var(--red);}
+.loc-meta{font-size:11px;color:var(--text3);margin-top:5px;}
+.loc-hint{font-size:11px;color:var(--text3);margin-top:3px;font-style:italic;}
+
+/* failing table */
+table{width:100%;border-collapse:collapse;font-size:13px;}
+th{text-align:left;padding:8px 10px;font-size:11px;font-weight:500;color:var(--text3);text-transform:uppercase;letter-spacing:.06em;border-bottom:0.5px solid var(--border);}
+td{padding:10px 10px;border-bottom:0.5px solid var(--border);}
+tr:last-child td{border-bottom:none;}
+tr.clickable{cursor:pointer;}
+tr.clickable:hover td{background:var(--bg2);}
+.badge{display:inline-flex;align-items:center;font-size:11px;padding:3px 9px;border-radius:20px;font-weight:500;}
+.badge.danger{background:var(--red-bg);color:var(--red-text);}
+.badge.warn{background:var(--amber-bg);color:var(--amber-text);}
+.badge.ok{background:var(--green-bg);color:var(--green-text);}
+
+/* location detail modal */
+.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:200;display:flex;align-items:center;justify-content:center;padding:1.5rem;}
+.modal{background:var(--bg);border-radius:var(--radius-lg);width:100%;max-width:680px;max-height:85vh;display:flex;flex-direction:column;overflow:hidden;}
+.modal-header{padding:1.25rem 1.5rem;border-bottom:0.5px solid var(--border);display:flex;justify-content:space-between;align-items:flex-start;gap:1rem;flex-shrink:0;}
+.modal-title{font-size:16px;font-weight:500;}
+.modal-subtitle{font-size:12px;color:var(--text3);margin-top:3px;}
+.modal-close{background:none;border:0.5px solid var(--border);border-radius:var(--radius);padding:6px 12px;font-size:13px;color:var(--text2);cursor:pointer;white-space:nowrap;flex-shrink:0;}
+.modal-close:hover{background:var(--bg2);}
+.modal-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;padding:1rem 1.5rem;border-bottom:0.5px solid var(--border);flex-shrink:0;}
+.modal-stat{text-align:center;}
+.modal-stat-val{font-size:20px;font-weight:500;}
+.modal-stat-val.ok{color:var(--green);}
+.modal-stat-val.warn{color:var(--red);}
+.modal-stat-label{font-size:11px;color:var(--text3);margin-top:3px;}
+.modal-body{overflow-y:auto;padding:1rem 1.5rem;}
+.modal-section-title{font-size:11px;font-weight:500;color:var(--text3);text-transform:uppercase;letter-spacing:.06em;margin:1rem 0 0.6rem;}
+.modal-section-title:first-child{margin-top:0;}
+.date-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:6px;}
+.date-pill{display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:var(--radius);font-size:12px;border:0.5px solid var(--border);}
+.date-pill.done{background:var(--green-bg);border-color:transparent;}
+.date-pill.done .dot{width:7px;height:7px;border-radius:50%;background:var(--green);flex-shrink:0;}
+.date-pill.fail{background:var(--red-bg);border-color:transparent;}
+.date-pill.fail .dot{width:7px;height:7px;border-radius:50%;background:var(--red);flex-shrink:0;}
+.date-pill.done span{color:var(--green-text);}
+.date-pill.fail span{color:var(--red-text);}
+
+/* misc */
+.loading{text-align:center;padding:4rem 2rem;color:var(--text3);}
+.spinner{width:32px;height:32px;border:2px solid var(--border2);border-top-color:var(--green);border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 1rem;}
+@keyframes spin{to{transform:rotate(360deg);}}
+.empty{text-align:center;padding:2rem;color:var(--text3);font-size:14px;}
+.inner-filter{display:flex;gap:10px;align-items:center;margin-bottom:1rem;flex-wrap:wrap;}
+.inner-filter select,.inner-filter input{font-size:13px;padding:6px 10px;border:0.5px solid var(--border2);border-radius:var(--radius);background:var(--bg2);color:var(--text);}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-left">
+    <div class="logo">
+      <svg viewBox="0 0 16 16"><polyline points="2,11 6,7 9,10 14,4"/></svg>
+    </div>
+    <h1>Backup Sync Dashboard</h1>
+  </div>
+  <span class="last-updated" id="lastUpdated">Loading…</span>
+</div>
+
+<div class="content">
+  <div id="loadingState" class="loading">
+    <div class="spinner"></div>
+    <p>Fetching latest backup data…</p>
+  </div>
+
+  <div id="mainContent" style="display:none;">
+
+    <div class="metric-grid" id="metricGrid"></div>
+
+    <!-- Global date filter -->
+    <div class="filter-bar">
+      <div class="filter-group">
+        <label>From date</label>
+        <input type="date" id="filterFrom" onchange="applyFilters()">
+      </div>
+      <div class="filter-group">
+        <label>To date</label>
+        <input type="date" id="filterTo" onchange="applyFilters()">
+      </div>
+      <div class="filter-group">
+        <label>Quick range</label>
+        <select id="quickRange" onchange="applyQuickRange()">
+          <option value="">Custom</option>
+          <option value="7">Last 7 days</option>
+          <option value="14">Last 14 days</option>
+          <option value="30" selected>Last 30 days</option>
+          <option value="60">Last 60 days</option>
+          <option value="90">Last 90 days</option>
+          <option value="all">All time</option>
+        </select>
+      </div>
+      <button class="btn-reset" onclick="resetFilters()">Reset filters</button>
+    </div>
+
+    <div class="tabs">
+      <button class="tab active" onclick="switchTab('locations',this)">Per-location history</button>
+      <button class="tab" onclick="switchTab('failing',this)">Consistently failing</button>
+    </div>
+
+    <!-- Per-location tab -->
+    <div id="locations" class="tab-panel active">
+      <div class="card">
+        <div class="card-title">All locations — click any card to see full history</div>
+        <div class="inner-filter">
+          <select id="locSort" onchange="renderLocations()">
+            <option value="rate-asc">Worst first</option>
+            <option value="rate-desc">Best first</option>
+            <option value="alpha">A → Z</option>
+          </select>
+          <input type="text" id="locSearch" placeholder="Search location…" oninput="renderLocations()" style="width:190px;">
+        </div>
+        <div class="loc-grid" id="locGrid"></div>
+      </div>
+    </div>
+
+    <!-- Consistently failing tab -->
+    <div id="failing" class="tab-panel">
+      <div class="card">
+        <div class="card-title">Consistently failing locations</div>
+        <div class="inner-filter">
+          <label style="font-size:13px;color:var(--text2);">Show locations below</label>
+          <select id="failThreshold" onchange="renderFailing()">
+            <option value="80">80% completion</option>
+            <option value="60">60% completion</option>
+            <option value="50">50% completion</option>
+            <option value="40">40% completion</option>
+          </select>
+        </div>
+        <table>
+          <thead>
+            <tr>
+              <th>Location</th>
+              <th>Completion</th>
+              <th>Days failed</th>
+              <th>Last failure</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="failBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Location detail modal -->
+<div class="modal-overlay" id="modalOverlay" style="display:none;" onclick="closeModal(event)">
+  <div class="modal" onclick="event.stopPropagation()">
+    <div class="modal-header">
+      <div>
+        <div class="modal-title" id="modalTitle"></div>
+        <div class="modal-subtitle" id="modalSubtitle"></div>
+      </div>
+      <button class="modal-close" onclick="closeModal()">Close</button>
+    </div>
+    <div class="modal-stats" id="modalStats"></div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<script>
+const GITHUB_USER = 'AdityaNair46';
+const GITHUB_REPO = 'backupsync-dashboard';
+const CSV_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/backupsync_historic.csv`;
+
+let allRecords = [];
+let filteredRecords = [];
+let allDates = [];
+
+async function loadData() {
+  try {
+    const res = await fetch(CSV_URL + '?t=' + Date.now());
+    if (!res.ok) throw new Error(`HTTP ${res.status} — make sure the CSV has been pushed to GitHub.`);
+    const text = await res.text();
+    const parsed = Papa.parse(text, { header: true, skipEmptyLines: true });
+
+    allRecords = parsed.data.map(r => ({
+      date:      (r.date || '').trim(),
+      location:  (r.location || '').trim(),
+      completed: (r.completed || '').trim().toUpperCase() === 'TRUE'
+    })).filter(r => r.date && r.location);
+
+    if (!allRecords.length) throw new Error('CSV is empty or malformed.');
+
+    allDates = [...new Set(allRecords.map(r => r.date))].sort();
+
+    // Default to last 30 days
+    applyQuickRange(true);
+
+    const last = allDates[allDates.length - 1] || '—';
+    document.getElementById('lastUpdated').textContent =
+      `Data through ${last} · ${allRecords.length.toLocaleString()} records`;
+
+    document.getElementById('loadingState').style.display = 'none';
+    document.getElementById('mainContent').style.display = 'block';
+
+  } catch (err) {
+    document.getElementById('loadingState').innerHTML =
+      `<p style="color:var(--red);font-size:14px;">Could not load data.<br><br><small>${err.message}</small></p>`;
+  }
+}
+
+// ── Filtering ─────────────────────────────────────────────────────────────────
+
+function applyQuickRange(silent) {
+  const val = document.getElementById('quickRange').value;
+  if (!val || val === 'all') {
+    document.getElementById('filterFrom').value = '';
+    document.getElementById('filterTo').value = '';
+  } else {
+    const days = parseInt(val);
+    const to   = new Date();
+    const from = new Date();
+    from.setDate(from.getDate() - days + 1);
+    document.getElementById('filterFrom').value = from.toISOString().slice(0,10);
+    document.getElementById('filterTo').value   = to.toISOString().slice(0,10);
+  }
+  if (!silent) applyFilters();
+  else applyFilters();
+}
+
+function applyFilters() {
+  document.getElementById('quickRange').value = '';
+  const from = document.getElementById('filterFrom').value;
+  const to   = document.getElementById('filterTo').value;
+  filteredRecords = allRecords.filter(r => {
+    if (from && r.date < from) return false;
+    if (to   && r.date > to)   return false;
+    return true;
+  });
+  renderMetrics();
+  renderLocations();
+  renderFailing();
+}
+
+function resetFilters() {
+  document.getElementById('filterFrom').value = '';
+  document.getElementById('filterTo').value   = '';
+  document.getElementById('quickRange').value = 'all';
+  filteredRecords = [...allRecords];
+  renderMetrics();
+  renderLocations();
+  renderFailing();
+}
+
+// ── Stats builder ─────────────────────────────────────────────────────────────
+
+function buildLocationStats(records) {
+  const stats = {};
+  for (const r of records) {
+    if (!stats[r.location]) stats[r.location] = { total:0, done:0, failDates:[], doneDates:[] };
+    stats[r.location].total++;
+    if (r.completed) { stats[r.location].done++; stats[r.location].doneDates.push(r.date); }
+    else stats[r.location].failDates.push(r.date);
+  }
+  return stats;
+}
+
+// ── Metrics ───────────────────────────────────────────────────────────────────
+
+function renderMetrics() {
+  const stats   = buildLocationStats(filteredRecords);
+  const locs    = Object.keys(stats);
+  const total   = filteredRecords.length;
+  const done    = filteredRecords.filter(r => r.completed).length;
+  const pct     = total ? Math.round(100 * done / total) : 0;
+  const dates   = [...new Set(filteredRecords.map(r => r.date))].sort();
+  const failing = locs.filter(l => stats[l].done / stats[l].total < 0.8).length;
+
+  const last  = dates[dates.length - 1] || '—';
+  const dayRecs = filteredRecords.filter(r => r.date === last);
+  const lastPct = dayRecs.length ? Math.round(100 * dayRecs.filter(r => r.completed).length / dayRecs.length) : 0;
+
+  document.getElementById('metricGrid').innerHTML = `
+    <div class="metric"><div class="metric-label">Overall completion</div><div class="metric-value ok">${pct}%</div></div>
+    <div class="metric"><div class="metric-label">Dates in range</div><div class="metric-value">${dates.length}</div></div>
+    <div class="metric"><div class="metric-label">Locations</div><div class="metric-value">${locs.length}</div></div>
+    <div class="metric"><div class="metric-label">Latest day (${last})</div><div class="metric-value ${lastPct >= 80 ? 'ok' : 'warn'}">${lastPct}%</div></div>
+    <div class="metric"><div class="metric-label">Below 80% threshold</div><div class="metric-value warn">${failing}</div></div>
+  `;
+}
+
+// ── Per-location tab ──────────────────────────────────────────────────────────
+
+function renderLocations() {
+  const stats  = buildLocationStats(filteredRecords);
+  const sort   = document.getElementById('locSort').value;
+  const search = document.getElementById('locSearch').value.toLowerCase().trim();
+
+  let locs = Object.keys(stats).filter(l => !search || l.toLowerCase().includes(search));
+
+  if (sort === 'rate-asc')  locs.sort((a,b) => (stats[a].done/stats[a].total) - (stats[b].done/stats[b].total));
+  else if (sort === 'rate-desc') locs.sort((a,b) => (stats[b].done/stats[b].total) - (stats[a].done/stats[a].total));
+  else locs.sort((a,b) => a.localeCompare(b));
+
+  if (!locs.length) {
+    document.getElementById('locGrid').innerHTML = '<div class="empty">No locations match.</div>';
+    return;
+  }
+
+  document.getElementById('locGrid').innerHTML = locs.map(l => {
+    const s    = stats[l];
+    const pct  = Math.round(100 * s.done / s.total);
+    const tier = pct >= 80 ? 'high' : pct >= 50 ? 'mid' : 'low';
+    const fails = s.total - s.done;
+    const lastFail = s.failDates.sort().reverse()[0] || null;
+    return `<div class="loc-card" onclick="openModal('${l.replace(/'/g,"\\'")}')">
+      <div class="loc-card-top">
+        <span class="loc-name">${l}</span>
+        <span class="loc-pct ${tier}">${pct}%</span>
+      </div>
+      <div class="bar-bg"><div class="bar-fill ${tier}" style="width:${pct}%"></div></div>
+      <div class="loc-meta">${s.done}/${s.total} days synced${fails ? ' · last fail: ' + lastFail : ' · no failures'}</div>
+      <div class="loc-hint">Click to view full history</div>
+    </div>`;
+  }).join('');
+}
+
+// ── Failing tab ───────────────────────────────────────────────────────────────
+
+function renderFailing() {
+  const stats  = buildLocationStats(filteredRecords);
+  const thresh = parseInt(document.getElementById('failThreshold').value);
+
+  const rows = Object.entries(stats)
+    .map(([loc, s]) => ({
+      loc, pct: Math.round(100 * s.done / s.total),
+      fails: s.total - s.done, total: s.total,
+      lastFail: [...s.failDates].sort().reverse()[0] || '—'
+    }))
+    .filter(r => r.pct < thresh)
+    .sort((a,b) => a.pct - b.pct);
+
+  if (!rows.length) {
+    document.getElementById('failBody').innerHTML =
+      `<tr><td colspan="5" class="empty">No locations below ${thresh}% in this date range.</td></tr>`;
+    return;
+  }
+
+  document.getElementById('failBody').innerHTML = rows.map(r => {
+    const tier  = r.pct < 40 ? 'danger' : r.pct < 60 ? 'warn' : 'ok';
+    const label = r.pct < 40 ? 'Critical' : r.pct < 60 ? 'High risk' : 'At risk';
+    return `<tr class="clickable" onclick="openModal('${r.loc.replace(/'/g,"\\'")}')">
+      <td style="font-weight:500">${r.loc}</td>
+      <td><strong>${r.pct}%</strong> <span style="font-size:11px;color:var(--text3)">(${r.fails}/${r.total} days)</span></td>
+      <td>${r.fails}</td>
+      <td style="font-size:12px;color:var(--text3)">${r.lastFail}</td>
+      <td><span class="badge ${tier}">${label}</span></td>
+    </tr>`;
+  }).join('');
+}
+
+// ── Location detail modal ─────────────────────────────────────────────────────
+
+function openModal(locName) {
+  // Pull ALL records for this location (not just filtered range — full history)
+  const locRecords = allRecords
+    .filter(r => r.location === locName)
+    .sort((a,b) => b.date.localeCompare(a.date));  // newest first
+
+  const total  = locRecords.length;
+  const done   = locRecords.filter(r => r.completed).length;
+  const fails  = total - done;
+  const pct    = total ? Math.round(100 * done / total) : 0;
+  const streak = calcCurrentStreak(locRecords);
+
+  document.getElementById('modalTitle').textContent = locName;
+  document.getElementById('modalSubtitle').textContent =
+    `Full history · ${total} days tracked · showing all time data`;
+
+  const tier = pct >= 80 ? 'ok' : 'warn';
+  document.getElementById('modalStats').innerHTML = `
+    <div class="modal-stat"><div class="modal-stat-val ${tier}">${pct}%</div><div class="modal-stat-label">Completion rate</div></div>
+    <div class="modal-stat"><div class="modal-stat-val">${done}</div><div class="modal-stat-label">Days synced</div></div>
+    <div class="modal-stat"><div class="modal-stat-val ${fails > 0 ? 'warn' : 'ok'}">${fails}</div><div class="modal-stat-label">Days failed</div></div>
+  `;
+
+  // Group by year-month for readability
+  const byMonth = {};
+  for (const r of locRecords) {
+    const ym = r.date.slice(0, 7);
+    if (!byMonth[ym]) byMonth[ym] = [];
+    byMonth[ym].push(r);
+  }
+
+  const months = Object.keys(byMonth).sort().reverse();
+  let html = '';
+
+  if (streak.type) {
+    const streakColor = streak.type === 'success' ? 'var(--green)' : 'var(--red)';
+    const streakLabel = streak.type === 'success' ? '✓ Current success streak' : '✗ Current failure streak';
+    html += `<div style="background:var(--bg2);border-radius:var(--radius);padding:10px 14px;margin-bottom:1rem;font-size:13px;">
+      <span style="color:${streakColor};font-weight:500;">${streakLabel}: ${streak.count} day${streak.count !== 1 ? 's' : ''}</span>
+    </div>`;
+  }
+
+  for (const ym of months) {
+    const [year, month] = ym.split('-');
+    const monthName = new Date(year, month - 1).toLocaleString('default', { month: 'long', year: 'numeric' });
+    const recs = byMonth[ym];
+    const mDone = recs.filter(r => r.completed).length;
+    const mPct  = Math.round(100 * mDone / recs.length);
+
+    html += `<div class="modal-section-title">${monthName} — ${mDone}/${recs.length} days (${mPct}%)</div>`;
+    html += `<div class="date-grid">`;
+    for (const r of recs) {
+      const cls  = r.completed ? 'done' : 'fail';
+      const day  = new Date(r.date + 'T00:00:00').toLocaleDateString('default', { weekday:'short', day:'numeric' });
+      html += `<div class="date-pill ${cls}"><span class="dot"></span><span>${day}</span></div>`;
+    }
+    html += `</div>`;
+  }
+
+  document.getElementById('modalBody').innerHTML = html;
+  document.getElementById('modalOverlay').style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
+function calcCurrentStreak(records) {
+  if (!records.length) return { type: null, count: 0 };
+
+  // Sort newest → oldest
+  const sorted = [...records].sort((a,b) => b.date.localeCompare(a.date));
+  const type   = sorted[0].completed ? 'success' : 'failure';
+
+  let count = 0;
+  for (let i = 0; i < sorted.length; i++) {
+    const r = sorted[i];
+
+    // Must still match the streak type
+    const matchesType = (r.completed && type === 'success') || (!r.completed && type === 'failure');
+    if (!matchesType) break;
+
+    // From the second record onward, check the date is exactly 1 calendar day earlier
+    if (i > 0) {
+      const prevDate = new Date(sorted[i - 1].date + 'T00:00:00');
+      const thisDate = new Date(r.date + 'T00:00:00');
+      const diffDays = Math.round((prevDate - thisDate) / (1000 * 60 * 60 * 24));
+      if (diffDays !== 1) break;  // gap in dates — streak is broken
+    }
+
+    count++;
+  }
+
+  return { type, count };
+}
+
+function closeModal(event) {
+  if (event && event.target !== document.getElementById('modalOverlay')) return;
+  document.getElementById('modalOverlay').style.display = 'none';
+  document.body.style.overflow = '';
+}
+
+// close on Escape
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') { document.getElementById('modalOverlay').style.display = 'none'; document.body.style.overflow = ''; }
+});
+
+// ── Tabs ──────────────────────────────────────────────────────────────────────
+
+function switchTab(id, btn) {
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  btn.classList.add('active');
+}
+
+loadData();
+setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>
