@@ -1,57 +1,4 @@
 date,location,completed
-2026-06-16,13th St,FALSE
-2026-06-16,Asheville,TRUE
-2026-06-16,Boston,TRUE
-2026-06-16,Boynton Beach,TRUE
-2026-06-16,Chilton Family Eye Care,TRUE
-2026-06-16,Citrus Heights,TRUE
-2026-06-16,Colchester,TRUE
-2026-06-16,Dallas,TRUE
-2026-06-16,Downtown,TRUE
-2026-06-16,East Northport,TRUE
-2026-06-16,Essex,TRUE
-2026-06-16,Eye Care Associates Jefferson,TRUE
-2026-06-16,Eye Care Associates Panora,TRUE
-2026-06-16,Eye Care Associates Perry,TRUE
-2026-06-16,Eye Care Associates Stuart,TRUE
-2026-06-16,Eyecare of Great Bend,TRUE
-2026-06-16,Eyes on Eastern,TRUE
-2026-06-16,Fort Collins,TRUE
-2026-06-16,Glen Mills,TRUE
-2026-06-16,Grafton Family Eye Care,TRUE
-2026-06-16,Hebron,TRUE
-2026-06-16,Irving,TRUE
-2026-06-16,Lake Mills,TRUE
-2026-06-16,Lancaster,TRUE
-2026-06-16,Larned Eye Health,TRUE
-2026-06-16,Longmont,TRUE
-2026-06-16,Madison,TRUE
-2026-06-16,Maple Grove,TRUE
-2026-06-16,Mitchell,TRUE
-2026-06-16,New Holstein Family Eye Care,TRUE
-2026-06-16,Omaha,TRUE
-2026-06-16,Orange City,TRUE
-2026-06-16,Park Hills,TRUE
-2026-06-16,Prosper,TRUE
-2026-06-16,Sheboygan Family Eye Care,TRUE
-2026-06-16,Tooele,TRUE
-2026-06-16,Toronto Ontario Canada,TRUE
-2026-06-16,Tulsa,TRUE
-2026-06-16,Vision Source Atwood,TRUE
-2026-06-16,Vision Source Burlington,TRUE
-2026-06-16,Vision Source Colby,TRUE
-2026-06-16,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-16,Vision Source Eye Center of the Triad Oak Ridge,TRUE
-2026-06-16,Vision Source Goodland,TRUE
-2026-06-16,Vision Source Junction City,TRUE
-2026-06-16,Vision Source Manhattan,TRUE
-2026-06-16,Vision Source Oakley,TRUE
-2026-06-16,Vision Source St Francis,TRUE
-2026-06-16,Vision Source Wamego,TRUE
-2026-06-16,Vision Source Wray,TRUE
-2026-06-16,Vision Source Yuma,TRUE
-2026-06-16,WVEA,TRUE
-2026-06-16,Waupun,TRUE
 2026-06-17,13th St,FALSE
 2026-06-17,Asheville,TRUE
 2026-06-17,Boston,TRUE
@@ -158,3 +105,56 @@ date,location,completed
 2026-06-18,Vision Source Yuma,TRUE
 2026-06-18,WVEA,TRUE
 2026-06-18,Waupun,TRUE
+2026-06-19,13th St,TRUE
+2026-06-19,Asheville,TRUE
+2026-06-19,Boston,TRUE
+2026-06-19,Boynton Beach,TRUE
+2026-06-19,Chilton Family Eye Care,TRUE
+2026-06-19,Citrus Heights,TRUE
+2026-06-19,Colchester,TRUE
+2026-06-19,Dallas,TRUE
+2026-06-19,Downtown,TRUE
+2026-06-19,East Northport,TRUE
+2026-06-19,Essex,TRUE
+2026-06-19,Eye Care Associates Jefferson,TRUE
+2026-06-19,Eye Care Associates Panora,TRUE
+2026-06-19,Eye Care Associates Perry,TRUE
+2026-06-19,Eye Care Associates Stuart,TRUE
+2026-06-19,Eyecare of Great Bend,TRUE
+2026-06-19,Eyes on Eastern,TRUE
+2026-06-19,Fort Collins,FALSE
+2026-06-19,Glen Mills,TRUE
+2026-06-19,Grafton Family Eye Care,TRUE
+2026-06-19,Hebron,TRUE
+2026-06-19,Irving,TRUE
+2026-06-19,Lake Mills,TRUE
+2026-06-19,Lancaster,TRUE
+2026-06-19,Larned Eye Health,TRUE
+2026-06-19,Longmont,TRUE
+2026-06-19,Madison,TRUE
+2026-06-19,Maple Grove,TRUE
+2026-06-19,Mitchell,TRUE
+2026-06-19,New Holstein Family Eye Care,TRUE
+2026-06-19,Omaha,TRUE
+2026-06-19,Orange City,TRUE
+2026-06-19,Park Hills,TRUE
+2026-06-19,Prosper,TRUE
+2026-06-19,Sheboygan Family Eye Care,TRUE
+2026-06-19,Tooele,TRUE
+2026-06-19,Toronto Ontario Canada,FALSE
+2026-06-19,Tulsa,TRUE
+2026-06-19,Vision Source Atwood,TRUE
+2026-06-19,Vision Source Burlington,TRUE
+2026-06-19,Vision Source Colby,FALSE
+2026-06-19,Vision Source Eye Center of the Triad Greensboro,TRUE
+2026-06-19,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-19,Vision Source Goodland,TRUE
+2026-06-19,Vision Source Junction City,TRUE
+2026-06-19,Vision Source Manhattan,TRUE
+2026-06-19,Vision Source Oakley,TRUE
+2026-06-19,Vision Source St Francis,TRUE
+2026-06-19,Vision Source Wamego,TRUE
+2026-06-19,Vision Source Wray,TRUE
+2026-06-19,Vision Source Yuma,TRUE
+2026-06-19,WVEA,TRUE
+2026-06-19,Waupun,TRUE
