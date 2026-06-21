@@ -504,13 +504,30 @@ function openModal(locName) {
 
 function calcCurrentStreak(records) {
   if (!records.length) return { type: null, count: 0 };
+
+  // Sort newest → oldest
   const sorted = [...records].sort((a,b) => b.date.localeCompare(a.date));
   const type   = sorted[0].completed ? 'success' : 'failure';
+
   let count = 0;
-  for (const r of sorted) {
-    if ((r.completed && type === 'success') || (!r.completed && type === 'failure')) count++;
-    else break;
+  for (let i = 0; i < sorted.length; i++) {
+    const r = sorted[i];
+
+    // Must still match the streak type
+    const matchesType = (r.completed && type === 'success') || (!r.completed && type === 'failure');
+    if (!matchesType) break;
+
+    // From the second record onward, check the date is exactly 1 calendar day earlier
+    if (i > 0) {
+      const prevDate = new Date(sorted[i - 1].date + 'T00:00:00');
+      const thisDate = new Date(r.date + 'T00:00:00');
+      const diffDays = Math.round((prevDate - thisDate) / (1000 * 60 * 60 * 24));
+      if (diffDays !== 1) break;  // gap in dates — streak is broken
+    }
+
+    count++;
   }
+
   return { type, count };
 }
 
