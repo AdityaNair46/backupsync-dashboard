@@ -110,7 +110,7 @@ date,location,completed
 2026-06-19,Boston,TRUE
 2026-06-19,Boynton Beach,TRUE
 2026-06-19,Chilton Family Eye Care,TRUE
-2026-06-19,Citrus Heights,TRUE
+2026-06-19,Citrus Heights,FALSE
 2026-06-19,Colchester,TRUE
 2026-06-19,Dallas,TRUE
 2026-06-19,Downtown,TRUE
@@ -158,56 +158,3 @@ date,location,completed
 2026-06-19,Vision Source Yuma,TRUE
 2026-06-19,WVEA,TRUE
 2026-06-19,Waupun,TRUE
-2026-06-20,13th St,TRUE
-2026-06-20,Asheville,TRUE
-2026-06-20,Boston,TRUE
-2026-06-20,Boynton Beach,TRUE
-2026-06-20,Chilton Family Eye Care,TRUE
-2026-06-20,Citrus Heights,TRUE
-2026-06-20,Colchester,TRUE
-2026-06-20,Dallas,TRUE
-2026-06-20,Downtown,TRUE
-2026-06-20,East Northport,TRUE
-2026-06-20,Essex,TRUE
-2026-06-20,Eye Care Associates Jefferson,TRUE
-2026-06-20,Eye Care Associates Panora,TRUE
-2026-06-20,Eye Care Associates Perry,TRUE
-2026-06-20,Eye Care Associates Stuart,TRUE
-2026-06-20,Eyecare of Great Bend,TRUE
-2026-06-20,Eyes on Eastern,TRUE
-2026-06-20,Fort Collins,FALSE
-2026-06-20,Glen Mills,TRUE
-2026-06-20,Grafton Family Eye Care,TRUE
-2026-06-20,Hebron,TRUE
-2026-06-20,Irving,TRUE
-2026-06-20,Lake Mills,TRUE
-2026-06-20,Lancaster,TRUE
-2026-06-20,Larned Eye Health,TRUE
-2026-06-20,Longmont,TRUE
-2026-06-20,Madison,TRUE
-2026-06-20,Maple Grove,TRUE
-2026-06-20,Mitchell,TRUE
-2026-06-20,New Holstein Family Eye Care,TRUE
-2026-06-20,Omaha,TRUE
-2026-06-20,Orange City,TRUE
-2026-06-20,Park Hills,TRUE
-2026-06-20,Prosper,TRUE
-2026-06-20,Sheboygan Family Eye Care,TRUE
-2026-06-20,Tooele,TRUE
-2026-06-20,Toronto Ontario Canada,TRUE
-2026-06-20,Tulsa,TRUE
-2026-06-20,Vision Source Atwood,TRUE
-2026-06-20,Vision Source Burlington,TRUE
-2026-06-20,Vision Source Colby,FALSE
-2026-06-20,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-20,Vision Source Eye Center of the Triad Oak Ridge,TRUE
-2026-06-20,Vision Source Goodland,TRUE
-2026-06-20,Vision Source Junction City,TRUE
-2026-06-20,Vision Source Manhattan,TRUE
-2026-06-20,Vision Source Oakley,TRUE
-2026-06-20,Vision Source St Francis,TRUE
-2026-06-20,Vision Source Wamego,TRUE
-2026-06-20,Vision Source Wray,TRUE
-2026-06-20,Vision Source Yuma,TRUE
-2026-06-20,WVEA,TRUE
-2026-06-20,Waupun,TRUE
