@@ -1059,7 +1059,7 @@ date,location,completed
 2026-07-06,Vision Source Yuma,TRUE
 2026-07-06,WVEA,TRUE
 2026-07-06,Waupun,TRUE
-2026-07-07,13th St,TRUE
+2026-07-07,13th St,FALSE
 2026-07-07,Asheville,TRUE
 2026-07-07,Boston,TRUE
 2026-07-07,Boynton Beach,TRUE
@@ -1076,7 +1076,7 @@ date,location,completed
 2026-07-07,Eye Care Associates Stuart,TRUE
 2026-07-07,Eyecare of Great Bend,TRUE
 2026-07-07,Eyes on Eastern,TRUE
-2026-07-07,Fort Collins,TRUE
+2026-07-07,Fort Collins,FALSE
 2026-07-07,Glen Mills,TRUE
 2026-07-07,Grafton Family Eye Care,TRUE
 2026-07-07,Hebron,TRUE
