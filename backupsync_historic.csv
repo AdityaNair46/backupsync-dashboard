@@ -1324,7 +1324,7 @@ date,location,completed
 2026-07-11,Vision Source Yuma,TRUE
 2026-07-11,WVEA,FALSE
 2026-07-11,Waupun,TRUE
-2026-07-12,13th St,FALSE
+2026-07-12,13th St,TRUE
 2026-07-12,Asheville,TRUE
 2026-07-12,Boston,TRUE
 2026-07-12,Boynton Beach,TRUE
@@ -1341,7 +1341,7 @@ date,location,completed
 2026-07-12,Eye Care Associates Stuart,TRUE
 2026-07-12,Eyecare of Great Bend,TRUE
 2026-07-12,Eyes on Eastern,TRUE
-2026-07-12,Fort Collins,FALSE
+2026-07-12,Fort Collins,TRUE
 2026-07-12,Glen Mills,TRUE
 2026-07-12,Grafton Family Eye Care,TRUE
 2026-07-12,Hebron,TRUE
@@ -1353,14 +1353,14 @@ date,location,completed
 2026-07-12,Madison,TRUE
 2026-07-12,Maple Grove,TRUE
 2026-07-12,Mitchell,TRUE
-2026-07-12,New Holstein Family Eye Care,FALSE
+2026-07-12,New Holstein Family Eye Care,TRUE
 2026-07-12,Omaha,TRUE
 2026-07-12,Orange City,TRUE
 2026-07-12,Park Hills,TRUE
 2026-07-12,Prosper,TRUE
 2026-07-12,Sheboygan Family Eye Care,TRUE
 2026-07-12,Tooele,TRUE
-2026-07-12,Toronto Ontario Canada,FALSE
+2026-07-12,Toronto Ontario Canada,TRUE
 2026-07-12,Tulsa,TRUE
 2026-07-12,Vision Source Atwood,TRUE
 2026-07-12,Vision Source Burlington,TRUE
@@ -1371,7 +1371,7 @@ date,location,completed
 2026-07-12,Vision Source Junction City,TRUE
 2026-07-12,Vision Source Manhattan,TRUE
 2026-07-12,Vision Source Oakley,TRUE
-2026-07-12,Vision Source St Francis,FALSE
+2026-07-12,Vision Source St Francis,TRUE
 2026-07-12,Vision Source Wamego,TRUE
 2026-07-12,Vision Source Wray,TRUE
 2026-07-12,Vision Source Yuma,TRUE
