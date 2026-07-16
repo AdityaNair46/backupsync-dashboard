@@ -1505,7 +1505,7 @@ date,location,completed
 2026-07-15,Grafton Family Eye Care,TRUE
 2026-07-15,Hebron,TRUE
 2026-07-15,Irving,TRUE
-2026-07-15,Lake Mills,FALSE
+2026-07-15,Lake Mills,TRUE
 2026-07-15,Lancaster,TRUE
 2026-07-15,Larned Eye Health,TRUE
 2026-07-15,Longmont,TRUE
@@ -1521,7 +1521,7 @@ date,location,completed
 2026-07-15,Tooele,TRUE
 2026-07-15,Toronto Ontario Canada,FALSE
 2026-07-15,Tulsa,TRUE
-2026-07-15,Vision Source Atwood,FALSE
+2026-07-15,Vision Source Atwood,TRUE
 2026-07-15,Vision Source Burlington,TRUE
 2026-07-15,Vision Source Colby,TRUE
 2026-07-15,Vision Source Eye Center of the Triad Greensboro,TRUE
