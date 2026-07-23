@@ -1871,7 +1871,7 @@ date,location,completed
 2026-07-22,Eye Care Associates Stuart,TRUE
 2026-07-22,Eyecare of Great Bend,TRUE
 2026-07-22,Eyes on Eastern,TRUE
-2026-07-22,Fort Collins,TRUE
+2026-07-22,Fort Collins,FALSE
 2026-07-22,Glen Mills,TRUE
 2026-07-22,Grafton Family Eye Care,TRUE
 2026-07-22,Hebron,TRUE
@@ -1880,7 +1880,7 @@ date,location,completed
 2026-07-22,Lancaster,TRUE
 2026-07-22,Larned Eye Health,TRUE
 2026-07-22,Longmont,TRUE
-2026-07-22,Madison,TRUE
+2026-07-22,Madison,FALSE
 2026-07-22,Maple Grove,TRUE
 2026-07-22,Mitchell,TRUE
 2026-07-22,New Holstein Family Eye Care,TRUE
