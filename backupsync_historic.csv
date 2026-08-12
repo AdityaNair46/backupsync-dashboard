@@ -2926,7 +2926,7 @@ date,location,completed
 2026-08-11,East Northport,TRUE
 2026-08-11,Essex,TRUE
 2026-08-11,Eye Care Associates Jefferson,TRUE
-2026-08-11,Eye Care Associates Panora,TRUE
+2026-08-11,Eye Care Associates Panora,FALSE
 2026-08-11,Eye Care Associates Perry,TRUE
 2026-08-11,Eye Care Associates Stuart,TRUE
 2026-08-11,Eyecare of Great Bend,FALSE
@@ -2955,7 +2955,7 @@ date,location,completed
 2026-08-11,Vision Source Atwood,TRUE
 2026-08-11,Vision Source Burlington,TRUE
 2026-08-11,Vision Source Colby,TRUE
-2026-08-11,Vision Source Eye Center of the Triad Greensboro,TRUE
+2026-08-11,Vision Source Eye Center of the Triad Greensboro,FALSE
 2026-08-11,Vision Source Eye Center of the Triad Oak Ridge,FALSE
 2026-08-11,Vision Source Goodland,TRUE
 2026-08-11,Vision Source Junction City,TRUE
@@ -2965,5 +2965,5 @@ date,location,completed
 2026-08-11,Vision Source Wamego,TRUE
 2026-08-11,Vision Source Wray,FALSE
 2026-08-11,Vision Source Yuma,TRUE
-2026-08-11,WVEA,TRUE
+2026-08-11,WVEA,FALSE
 2026-08-11,Waupun,TRUE
