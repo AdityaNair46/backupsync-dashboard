@@ -33,6 +33,7 @@ date,location,completed
 2026-06-17,New Holstein Family Eye Care,TRUE
 2026-06-17,Omaha,TRUE
 2026-06-17,Orange City,TRUE
+2026-06-17,Orrville,FALSE
 2026-06-17,Park Hills,TRUE
 2026-06-17,Princeton,FALSE
 2026-06-17,Prosper,TRUE
@@ -91,6 +92,7 @@ date,location,completed
 2026-06-18,New Holstein Family Eye Care,TRUE
 2026-06-18,Omaha,TRUE
 2026-06-18,Orange City,TRUE
+2026-06-18,Orrville,FALSE
 2026-06-18,Park Hills,TRUE
 2026-06-18,Princeton,FALSE
 2026-06-18,Prosper,TRUE
@@ -149,6 +151,7 @@ date,location,completed
 2026-06-19,New Holstein Family Eye Care,TRUE
 2026-06-19,Omaha,TRUE
 2026-06-19,Orange City,TRUE
+2026-06-19,Orrville,FALSE
 2026-06-19,Park Hills,TRUE
 2026-06-19,Princeton,FALSE
 2026-06-19,Prosper,TRUE
@@ -207,6 +210,7 @@ date,location,completed
 2026-06-20,New Holstein Family Eye Care,TRUE
 2026-06-20,Omaha,TRUE
 2026-06-20,Orange City,TRUE
+2026-06-20,Orrville,FALSE
 2026-06-20,Park Hills,TRUE
 2026-06-20,Princeton,FALSE
 2026-06-20,Prosper,TRUE
@@ -265,6 +269,7 @@ date,location,completed
 2026-06-21,New Holstein Family Eye Care,TRUE
 2026-06-21,Omaha,TRUE
 2026-06-21,Orange City,TRUE
+2026-06-21,Orrville,FALSE
 2026-06-21,Park Hills,TRUE
 2026-06-21,Princeton,FALSE
 2026-06-21,Prosper,TRUE
@@ -323,6 +328,7 @@ date,location,completed
 2026-06-22,New Holstein Family Eye Care,TRUE
 2026-06-22,Omaha,TRUE
 2026-06-22,Orange City,TRUE
+2026-06-22,Orrville,FALSE
 2026-06-22,Park Hills,TRUE
 2026-06-22,Princeton,FALSE
 2026-06-22,Prosper,TRUE
@@ -381,6 +387,7 @@ date,location,completed
 2026-06-23,New Holstein Family Eye Care,TRUE
 2026-06-23,Omaha,TRUE
 2026-06-23,Orange City,TRUE
+2026-06-23,Orrville,FALSE
 2026-06-23,Park Hills,TRUE
 2026-06-23,Princeton,FALSE
 2026-06-23,Prosper,TRUE
@@ -439,6 +446,7 @@ date,location,completed
 2026-06-24,New Holstein Family Eye Care,TRUE
 2026-06-24,Omaha,TRUE
 2026-06-24,Orange City,TRUE
+2026-06-24,Orrville,FALSE
 2026-06-24,Park Hills,TRUE
 2026-06-24,Princeton,FALSE
 2026-06-24,Prosper,TRUE
@@ -497,6 +505,7 @@ date,location,completed
 2026-06-25,New Holstein Family Eye Care,TRUE
 2026-06-25,Omaha,TRUE
 2026-06-25,Orange City,TRUE
+2026-06-25,Orrville,FALSE
 2026-06-25,Park Hills,TRUE
 2026-06-25,Princeton,FALSE
 2026-06-25,Prosper,FALSE
@@ -555,6 +564,7 @@ date,location,completed
 2026-06-26,New Holstein Family Eye Care,TRUE
 2026-06-26,Omaha,TRUE
 2026-06-26,Orange City,TRUE
+2026-06-26,Orrville,FALSE
 2026-06-26,Park Hills,TRUE
 2026-06-26,Princeton,FALSE
 2026-06-26,Prosper,TRUE
@@ -613,6 +623,7 @@ date,location,completed
 2026-06-27,New Holstein Family Eye Care,TRUE
 2026-06-27,Omaha,TRUE
 2026-06-27,Orange City,TRUE
+2026-06-27,Orrville,FALSE
 2026-06-27,Park Hills,TRUE
 2026-06-27,Princeton,FALSE
 2026-06-27,Prosper,TRUE
@@ -671,6 +682,7 @@ date,location,completed
 2026-06-28,New Holstein Family Eye Care,FALSE
 2026-06-28,Omaha,TRUE
 2026-06-28,Orange City,TRUE
+2026-06-28,Orrville,FALSE
 2026-06-28,Park Hills,TRUE
 2026-06-28,Princeton,FALSE
 2026-06-28,Prosper,TRUE
@@ -729,6 +741,7 @@ date,location,completed
 2026-06-29,New Holstein Family Eye Care,TRUE
 2026-06-29,Omaha,TRUE
 2026-06-29,Orange City,TRUE
+2026-06-29,Orrville,FALSE
 2026-06-29,Park Hills,TRUE
 2026-06-29,Princeton,FALSE
 2026-06-29,Prosper,TRUE
@@ -787,6 +800,7 @@ date,location,completed
 2026-06-30,New Holstein Family Eye Care,TRUE
 2026-06-30,Omaha,FALSE
 2026-06-30,Orange City,TRUE
+2026-06-30,Orrville,FALSE
 2026-06-30,Park Hills,TRUE
 2026-06-30,Princeton,FALSE
 2026-06-30,Prosper,TRUE
@@ -845,6 +859,7 @@ date,location,completed
 2026-07-01,New Holstein Family Eye Care,FALSE
 2026-07-01,Omaha,TRUE
 2026-07-01,Orange City,TRUE
+2026-07-01,Orrville,FALSE
 2026-07-01,Park Hills,FALSE
 2026-07-01,Princeton,FALSE
 2026-07-01,Prosper,FALSE
@@ -903,6 +918,7 @@ date,location,completed
 2026-07-02,New Holstein Family Eye Care,TRUE
 2026-07-02,Omaha,TRUE
 2026-07-02,Orange City,TRUE
+2026-07-02,Orrville,FALSE
 2026-07-02,Park Hills,TRUE
 2026-07-02,Princeton,FALSE
 2026-07-02,Prosper,TRUE
@@ -961,6 +977,7 @@ date,location,completed
 2026-07-03,New Holstein Family Eye Care,TRUE
 2026-07-03,Omaha,TRUE
 2026-07-03,Orange City,TRUE
+2026-07-03,Orrville,FALSE
 2026-07-03,Park Hills,TRUE
 2026-07-03,Princeton,FALSE
 2026-07-03,Prosper,TRUE
@@ -1019,6 +1036,7 @@ date,location,completed
 2026-07-04,New Holstein Family Eye Care,TRUE
 2026-07-04,Omaha,TRUE
 2026-07-04,Orange City,TRUE
+2026-07-04,Orrville,FALSE
 2026-07-04,Park Hills,TRUE
 2026-07-04,Princeton,FALSE
 2026-07-04,Prosper,TRUE
@@ -1077,6 +1095,7 @@ date,location,completed
 2026-07-05,New Holstein Family Eye Care,TRUE
 2026-07-05,Omaha,TRUE
 2026-07-05,Orange City,TRUE
+2026-07-05,Orrville,FALSE
 2026-07-05,Park Hills,TRUE
 2026-07-05,Princeton,FALSE
 2026-07-05,Prosper,TRUE
@@ -1135,6 +1154,7 @@ date,location,completed
 2026-07-06,New Holstein Family Eye Care,TRUE
 2026-07-06,Omaha,TRUE
 2026-07-06,Orange City,TRUE
+2026-07-06,Orrville,FALSE
 2026-07-06,Park Hills,TRUE
 2026-07-06,Princeton,FALSE
 2026-07-06,Prosper,TRUE
@@ -1193,6 +1213,7 @@ date,location,completed
 2026-07-07,New Holstein Family Eye Care,TRUE
 2026-07-07,Omaha,TRUE
 2026-07-07,Orange City,TRUE
+2026-07-07,Orrville,FALSE
 2026-07-07,Park Hills,TRUE
 2026-07-07,Princeton,FALSE
 2026-07-07,Prosper,TRUE
@@ -1251,6 +1272,7 @@ date,location,completed
 2026-07-08,New Holstein Family Eye Care,TRUE
 2026-07-08,Omaha,TRUE
 2026-07-08,Orange City,TRUE
+2026-07-08,Orrville,FALSE
 2026-07-08,Park Hills,TRUE
 2026-07-08,Princeton,FALSE
 2026-07-08,Prosper,TRUE
@@ -1309,6 +1331,7 @@ date,location,completed
 2026-07-09,New Holstein Family Eye Care,TRUE
 2026-07-09,Omaha,TRUE
 2026-07-09,Orange City,TRUE
+2026-07-09,Orrville,FALSE
 2026-07-09,Park Hills,TRUE
 2026-07-09,Princeton,FALSE
 2026-07-09,Prosper,TRUE
@@ -1367,6 +1390,7 @@ date,location,completed
 2026-07-10,New Holstein Family Eye Care,TRUE
 2026-07-10,Omaha,TRUE
 2026-07-10,Orange City,TRUE
+2026-07-10,Orrville,FALSE
 2026-07-10,Park Hills,TRUE
 2026-07-10,Princeton,FALSE
 2026-07-10,Prosper,TRUE
@@ -1425,6 +1449,7 @@ date,location,completed
 2026-07-11,New Holstein Family Eye Care,TRUE
 2026-07-11,Omaha,TRUE
 2026-07-11,Orange City,TRUE
+2026-07-11,Orrville,FALSE
 2026-07-11,Park Hills,TRUE
 2026-07-11,Princeton,FALSE
 2026-07-11,Prosper,TRUE
@@ -1483,6 +1508,7 @@ date,location,completed
 2026-07-12,New Holstein Family Eye Care,TRUE
 2026-07-12,Omaha,TRUE
 2026-07-12,Orange City,TRUE
+2026-07-12,Orrville,FALSE
 2026-07-12,Park Hills,TRUE
 2026-07-12,Princeton,FALSE
 2026-07-12,Prosper,TRUE
@@ -1541,6 +1567,7 @@ date,location,completed
 2026-07-13,New Holstein Family Eye Care,TRUE
 2026-07-13,Omaha,TRUE
 2026-07-13,Orange City,TRUE
+2026-07-13,Orrville,FALSE
 2026-07-13,Park Hills,TRUE
 2026-07-13,Princeton,FALSE
 2026-07-13,Prosper,TRUE
@@ -1599,6 +1626,7 @@ date,location,completed
 2026-07-14,New Holstein Family Eye Care,TRUE
 2026-07-14,Omaha,TRUE
 2026-07-14,Orange City,TRUE
+2026-07-14,Orrville,FALSE
 2026-07-14,Park Hills,TRUE
 2026-07-14,Princeton,FALSE
 2026-07-14,Prosper,TRUE
@@ -1657,6 +1685,7 @@ date,location,completed
 2026-07-15,New Holstein Family Eye Care,TRUE
 2026-07-15,Omaha,TRUE
 2026-07-15,Orange City,TRUE
+2026-07-15,Orrville,FALSE
 2026-07-15,Park Hills,TRUE
 2026-07-15,Princeton,FALSE
 2026-07-15,Prosper,TRUE
@@ -1715,6 +1744,7 @@ date,location,completed
 2026-07-16,New Holstein Family Eye Care,TRUE
 2026-07-16,Omaha,TRUE
 2026-07-16,Orange City,TRUE
+2026-07-16,Orrville,FALSE
 2026-07-16,Park Hills,TRUE
 2026-07-16,Princeton,FALSE
 2026-07-16,Prosper,TRUE
@@ -1773,6 +1803,7 @@ date,location,completed
 2026-07-17,New Holstein Family Eye Care,TRUE
 2026-07-17,Omaha,TRUE
 2026-07-17,Orange City,TRUE
+2026-07-17,Orrville,FALSE
 2026-07-17,Park Hills,TRUE
 2026-07-17,Princeton,FALSE
 2026-07-17,Prosper,TRUE
@@ -1831,6 +1862,7 @@ date,location,completed
 2026-07-18,New Holstein Family Eye Care,TRUE
 2026-07-18,Omaha,TRUE
 2026-07-18,Orange City,TRUE
+2026-07-18,Orrville,FALSE
 2026-07-18,Park Hills,TRUE
 2026-07-18,Princeton,FALSE
 2026-07-18,Prosper,TRUE
@@ -1889,6 +1921,7 @@ date,location,completed
 2026-07-19,New Holstein Family Eye Care,TRUE
 2026-07-19,Omaha,TRUE
 2026-07-19,Orange City,TRUE
+2026-07-19,Orrville,FALSE
 2026-07-19,Park Hills,TRUE
 2026-07-19,Princeton,FALSE
 2026-07-19,Prosper,TRUE
@@ -1947,6 +1980,7 @@ date,location,completed
 2026-07-20,New Holstein Family Eye Care,TRUE
 2026-07-20,Omaha,TRUE
 2026-07-20,Orange City,TRUE
+2026-07-20,Orrville,FALSE
 2026-07-20,Park Hills,TRUE
 2026-07-20,Princeton,FALSE
 2026-07-20,Prosper,TRUE
@@ -2005,6 +2039,7 @@ date,location,completed
 2026-07-21,New Holstein Family Eye Care,TRUE
 2026-07-21,Omaha,TRUE
 2026-07-21,Orange City,TRUE
+2026-07-21,Orrville,FALSE
 2026-07-21,Park Hills,TRUE
 2026-07-21,Princeton,FALSE
 2026-07-21,Prosper,TRUE
@@ -2063,6 +2098,7 @@ date,location,completed
 2026-07-22,New Holstein Family Eye Care,TRUE
 2026-07-22,Omaha,TRUE
 2026-07-22,Orange City,TRUE
+2026-07-22,Orrville,FALSE
 2026-07-22,Park Hills,TRUE
 2026-07-22,Princeton,FALSE
 2026-07-22,Prosper,TRUE
@@ -2121,6 +2157,7 @@ date,location,completed
 2026-07-23,New Holstein Family Eye Care,FALSE
 2026-07-23,Omaha,TRUE
 2026-07-23,Orange City,TRUE
+2026-07-23,Orrville,FALSE
 2026-07-23,Park Hills,TRUE
 2026-07-23,Princeton,FALSE
 2026-07-23,Prosper,TRUE
@@ -2179,6 +2216,7 @@ date,location,completed
 2026-07-24,New Holstein Family Eye Care,TRUE
 2026-07-24,Omaha,TRUE
 2026-07-24,Orange City,TRUE
+2026-07-24,Orrville,FALSE
 2026-07-24,Park Hills,TRUE
 2026-07-24,Princeton,FALSE
 2026-07-24,Prosper,TRUE
@@ -2237,6 +2275,7 @@ date,location,completed
 2026-07-25,New Holstein Family Eye Care,TRUE
 2026-07-25,Omaha,TRUE
 2026-07-25,Orange City,TRUE
+2026-07-25,Orrville,FALSE
 2026-07-25,Park Hills,TRUE
 2026-07-25,Princeton,FALSE
 2026-07-25,Prosper,TRUE
@@ -2295,6 +2334,7 @@ date,location,completed
 2026-07-26,New Holstein Family Eye Care,TRUE
 2026-07-26,Omaha,TRUE
 2026-07-26,Orange City,TRUE
+2026-07-26,Orrville,FALSE
 2026-07-26,Park Hills,TRUE
 2026-07-26,Princeton,FALSE
 2026-07-26,Prosper,TRUE
@@ -2353,6 +2393,7 @@ date,location,completed
 2026-07-27,New Holstein Family Eye Care,TRUE
 2026-07-27,Omaha,TRUE
 2026-07-27,Orange City,TRUE
+2026-07-27,Orrville,FALSE
 2026-07-27,Park Hills,FALSE
 2026-07-27,Princeton,FALSE
 2026-07-27,Prosper,TRUE
@@ -2411,6 +2452,7 @@ date,location,completed
 2026-07-28,New Holstein Family Eye Care,TRUE
 2026-07-28,Omaha,TRUE
 2026-07-28,Orange City,TRUE
+2026-07-28,Orrville,FALSE
 2026-07-28,Park Hills,TRUE
 2026-07-28,Princeton,FALSE
 2026-07-28,Prosper,TRUE
@@ -2469,6 +2511,7 @@ date,location,completed
 2026-07-29,New Holstein Family Eye Care,TRUE
 2026-07-29,Omaha,TRUE
 2026-07-29,Orange City,TRUE
+2026-07-29,Orrville,FALSE
 2026-07-29,Park Hills,TRUE
 2026-07-29,Princeton,FALSE
 2026-07-29,Prosper,TRUE
@@ -2527,6 +2570,7 @@ date,location,completed
 2026-07-30,New Holstein Family Eye Care,TRUE
 2026-07-30,Omaha,TRUE
 2026-07-30,Orange City,TRUE
+2026-07-30,Orrville,FALSE
 2026-07-30,Park Hills,TRUE
 2026-07-30,Princeton,FALSE
 2026-07-30,Prosper,TRUE
@@ -2585,6 +2629,7 @@ date,location,completed
 2026-07-31,New Holstein Family Eye Care,TRUE
 2026-07-31,Omaha,TRUE
 2026-07-31,Orange City,TRUE
+2026-07-31,Orrville,FALSE
 2026-07-31,Park Hills,TRUE
 2026-07-31,Princeton,FALSE
 2026-07-31,Prosper,TRUE
@@ -2643,6 +2688,7 @@ date,location,completed
 2026-08-01,New Holstein Family Eye Care,TRUE
 2026-08-01,Omaha,TRUE
 2026-08-01,Orange City,TRUE
+2026-08-01,Orrville,FALSE
 2026-08-01,Park Hills,TRUE
 2026-08-01,Princeton,FALSE
 2026-08-01,Prosper,TRUE
@@ -2701,6 +2747,7 @@ date,location,completed
 2026-08-02,New Holstein Family Eye Care,TRUE
 2026-08-02,Omaha,TRUE
 2026-08-02,Orange City,TRUE
+2026-08-02,Orrville,FALSE
 2026-08-02,Park Hills,TRUE
 2026-08-02,Princeton,FALSE
 2026-08-02,Prosper,TRUE
@@ -2759,6 +2806,7 @@ date,location,completed
 2026-08-03,New Holstein Family Eye Care,TRUE
 2026-08-03,Omaha,TRUE
 2026-08-03,Orange City,TRUE
+2026-08-03,Orrville,FALSE
 2026-08-03,Park Hills,TRUE
 2026-08-03,Princeton,FALSE
 2026-08-03,Prosper,TRUE
@@ -2817,6 +2865,7 @@ date,location,completed
 2026-08-04,New Holstein Family Eye Care,FALSE
 2026-08-04,Omaha,TRUE
 2026-08-04,Orange City,TRUE
+2026-08-04,Orrville,FALSE
 2026-08-04,Park Hills,TRUE
 2026-08-04,Princeton,FALSE
 2026-08-04,Prosper,TRUE
@@ -2875,6 +2924,7 @@ date,location,completed
 2026-08-05,New Holstein Family Eye Care,TRUE
 2026-08-05,Omaha,TRUE
 2026-08-05,Orange City,TRUE
+2026-08-05,Orrville,FALSE
 2026-08-05,Park Hills,TRUE
 2026-08-05,Princeton,FALSE
 2026-08-05,Prosper,TRUE
@@ -2933,6 +2983,7 @@ date,location,completed
 2026-08-06,New Holstein Family Eye Care,TRUE
 2026-08-06,Omaha,TRUE
 2026-08-06,Orange City,TRUE
+2026-08-06,Orrville,FALSE
 2026-08-06,Park Hills,TRUE
 2026-08-06,Princeton,FALSE
 2026-08-06,Prosper,TRUE
@@ -2991,6 +3042,7 @@ date,location,completed
 2026-08-07,New Holstein Family Eye Care,FALSE
 2026-08-07,Omaha,TRUE
 2026-08-07,Orange City,FALSE
+2026-08-07,Orrville,FALSE
 2026-08-07,Park Hills,FALSE
 2026-08-07,Princeton,FALSE
 2026-08-07,Prosper,FALSE
@@ -3049,6 +3101,7 @@ date,location,completed
 2026-08-08,New Holstein Family Eye Care,FALSE
 2026-08-08,Omaha,TRUE
 2026-08-08,Orange City,FALSE
+2026-08-08,Orrville,FALSE
 2026-08-08,Park Hills,FALSE
 2026-08-08,Princeton,FALSE
 2026-08-08,Prosper,FALSE
@@ -3107,6 +3160,7 @@ date,location,completed
 2026-08-09,New Holstein Family Eye Care,FALSE
 2026-08-09,Omaha,TRUE
 2026-08-09,Orange City,FALSE
+2026-08-09,Orrville,FALSE
 2026-08-09,Park Hills,FALSE
 2026-08-09,Princeton,FALSE
 2026-08-09,Prosper,FALSE
@@ -3165,6 +3219,7 @@ date,location,completed
 2026-08-10,New Holstein Family Eye Care,FALSE
 2026-08-10,Omaha,TRUE
 2026-08-10,Orange City,TRUE
+2026-08-10,Orrville,FALSE
 2026-08-10,Park Hills,FALSE
 2026-08-10,Princeton,FALSE
 2026-08-10,Prosper,FALSE
@@ -3223,6 +3278,7 @@ date,location,completed
 2026-08-11,New Holstein Family Eye Care,TRUE
 2026-08-11,Omaha,TRUE
 2026-08-11,Orange City,TRUE
+2026-08-11,Orrville,FALSE
 2026-08-11,Park Hills,TRUE
 2026-08-11,Princeton,FALSE
 2026-08-11,Prosper,TRUE
@@ -3281,6 +3337,7 @@ date,location,completed
 2026-08-12,New Holstein Family Eye Care,TRUE
 2026-08-12,Omaha,TRUE
 2026-08-12,Orange City,TRUE
+2026-08-12,Orrville,FALSE
 2026-08-12,Park Hills,TRUE
 2026-08-12,Princeton,FALSE
 2026-08-12,Prosper,TRUE
@@ -3339,6 +3396,7 @@ date,location,completed
 2026-08-13,New Holstein Family Eye Care,TRUE
 2026-08-13,Omaha,TRUE
 2026-08-13,Orange City,TRUE
+2026-08-13,Orrville,FALSE
 2026-08-13,Park Hills,TRUE
 2026-08-13,Princeton,FALSE
 2026-08-13,Prosper,TRUE
@@ -3397,6 +3455,7 @@ date,location,completed
 2026-08-14,New Holstein Family Eye Care,TRUE
 2026-08-14,Omaha,TRUE
 2026-08-14,Orange City,TRUE
+2026-08-14,Orrville,FALSE
 2026-08-14,Park Hills,TRUE
 2026-08-14,Princeton,FALSE
 2026-08-14,Prosper,TRUE
@@ -3455,6 +3514,7 @@ date,location,completed
 2026-08-15,New Holstein Family Eye Care,TRUE
 2026-08-15,Omaha,TRUE
 2026-08-15,Orange City,TRUE
+2026-08-15,Orrville,FALSE
 2026-08-15,Park Hills,TRUE
 2026-08-15,Princeton,FALSE
 2026-08-15,Prosper,TRUE
@@ -3513,6 +3573,7 @@ date,location,completed
 2026-08-16,New Holstein Family Eye Care,TRUE
 2026-08-16,Omaha,TRUE
 2026-08-16,Orange City,TRUE
+2026-08-16,Orrville,FALSE
 2026-08-16,Park Hills,TRUE
 2026-08-16,Princeton,FALSE
 2026-08-16,Prosper,TRUE
@@ -3571,6 +3632,7 @@ date,location,completed
 2026-08-17,New Holstein Family Eye Care,TRUE
 2026-08-17,Omaha,TRUE
 2026-08-17,Orange City,TRUE
+2026-08-17,Orrville,FALSE
 2026-08-17,Park Hills,TRUE
 2026-08-17,Princeton,FALSE
 2026-08-17,Prosper,TRUE
@@ -3629,6 +3691,7 @@ date,location,completed
 2026-08-18,New Holstein Family Eye Care,TRUE
 2026-08-18,Omaha,TRUE
 2026-08-18,Orange City,TRUE
+2026-08-18,Orrville,FALSE
 2026-08-18,Park Hills,TRUE
 2026-08-18,Princeton,FALSE
 2026-08-18,Prosper,TRUE
@@ -3687,6 +3750,7 @@ date,location,completed
 2026-08-19,New Holstein Family Eye Care,TRUE
 2026-08-19,Omaha,TRUE
 2026-08-19,Orange City,TRUE
+2026-08-19,Orrville,FALSE
 2026-08-19,Park Hills,TRUE
 2026-08-19,Princeton,FALSE
 2026-08-19,Prosper,TRUE
@@ -3745,6 +3809,7 @@ date,location,completed
 2026-08-20,New Holstein Family Eye Care,FALSE
 2026-08-20,Omaha,FALSE
 2026-08-20,Orange City,FALSE
+2026-08-20,Orrville,FALSE
 2026-08-20,Park Hills,FALSE
 2026-08-20,Princeton,FALSE
 2026-08-20,Prosper,FALSE
@@ -3803,6 +3868,7 @@ date,location,completed
 2026-08-21,New Holstein Family Eye Care,TRUE
 2026-08-21,Omaha,TRUE
 2026-08-21,Orange City,TRUE
+2026-08-21,Orrville,FALSE
 2026-08-21,Park Hills,TRUE
 2026-08-21,Princeton,FALSE
 2026-08-21,Prosper,TRUE
@@ -3861,6 +3927,7 @@ date,location,completed
 2026-08-22,New Holstein Family Eye Care,TRUE
 2026-08-22,Omaha,TRUE
 2026-08-22,Orange City,TRUE
+2026-08-22,Orrville,FALSE
 2026-08-22,Park Hills,TRUE
 2026-08-22,Princeton,FALSE
 2026-08-22,Prosper,TRUE
@@ -3919,6 +3986,7 @@ date,location,completed
 2026-08-23,New Holstein Family Eye Care,TRUE
 2026-08-23,Omaha,TRUE
 2026-08-23,Orange City,TRUE
+2026-08-23,Orrville,FALSE
 2026-08-23,Park Hills,TRUE
 2026-08-23,Princeton,FALSE
 2026-08-23,Prosper,TRUE
@@ -3977,6 +4045,7 @@ date,location,completed
 2026-08-24,New Holstein Family Eye Care,FALSE
 2026-08-24,Omaha,TRUE
 2026-08-24,Orange City,TRUE
+2026-08-24,Orrville,FALSE
 2026-08-24,Park Hills,TRUE
 2026-08-24,Princeton,FALSE
 2026-08-24,Prosper,TRUE
@@ -4035,6 +4104,7 @@ date,location,completed
 2026-08-25,New Holstein Family Eye Care,TRUE
 2026-08-25,Omaha,TRUE
 2026-08-25,Orange City,TRUE
+2026-08-25,Orrville,FALSE
 2026-08-25,Park Hills,TRUE
 2026-08-25,Princeton,FALSE
 2026-08-25,Prosper,TRUE
@@ -4093,6 +4163,7 @@ date,location,completed
 2026-08-26,New Holstein Family Eye Care,TRUE
 2026-08-26,Omaha,FALSE
 2026-08-26,Orange City,TRUE
+2026-08-26,Orrville,FALSE
 2026-08-26,Park Hills,TRUE
 2026-08-26,Princeton,FALSE
 2026-08-26,Prosper,FALSE
@@ -4151,6 +4222,7 @@ date,location,completed
 2026-08-27,New Holstein Family Eye Care,TRUE
 2026-08-27,Omaha,TRUE
 2026-08-27,Orange City,TRUE
+2026-08-27,Orrville,FALSE
 2026-08-27,Park Hills,TRUE
 2026-08-27,Princeton,TRUE
 2026-08-27,Prosper,TRUE
@@ -4209,6 +4281,7 @@ date,location,completed
 2026-08-28,New Holstein Family Eye Care,TRUE
 2026-08-28,Omaha,TRUE
 2026-08-28,Orange City,TRUE
+2026-08-28,Orrville,FALSE
 2026-08-28,Park Hills,TRUE
 2026-08-28,Princeton,TRUE
 2026-08-28,Prosper,TRUE
@@ -4267,6 +4340,7 @@ date,location,completed
 2026-08-29,New Holstein Family Eye Care,TRUE
 2026-08-29,Omaha,TRUE
 2026-08-29,Orange City,TRUE
+2026-08-29,Orrville,FALSE
 2026-08-29,Park Hills,TRUE
 2026-08-29,Princeton,TRUE
 2026-08-29,Prosper,TRUE
@@ -4325,6 +4399,7 @@ date,location,completed
 2026-08-30,New Holstein Family Eye Care,TRUE
 2026-08-30,Omaha,TRUE
 2026-08-30,Orange City,TRUE
+2026-08-30,Orrville,FALSE
 2026-08-30,Park Hills,TRUE
 2026-08-30,Princeton,TRUE
 2026-08-30,Prosper,TRUE
@@ -4383,6 +4458,7 @@ date,location,completed
 2026-08-31,New Holstein Family Eye Care,FALSE
 2026-08-31,Omaha,TRUE
 2026-08-31,Orange City,TRUE
+2026-08-31,Orrville,FALSE
 2026-08-31,Park Hills,TRUE
 2026-08-31,Princeton,TRUE
 2026-08-31,Prosper,FALSE
@@ -4441,6 +4517,7 @@ date,location,completed
 2026-09-01,New Holstein Family Eye Care,TRUE
 2026-09-01,Omaha,TRUE
 2026-09-01,Orange City,TRUE
+2026-09-01,Orrville,FALSE
 2026-09-01,Park Hills,TRUE
 2026-09-01,Princeton,TRUE
 2026-09-01,Prosper,TRUE
@@ -4499,6 +4576,7 @@ date,location,completed
 2026-09-02,New Holstein Family Eye Care,TRUE
 2026-09-02,Omaha,TRUE
 2026-09-02,Orange City,TRUE
+2026-09-02,Orrville,FALSE
 2026-09-02,Park Hills,TRUE
 2026-09-02,Princeton,TRUE
 2026-09-02,Prosper,TRUE
@@ -4557,6 +4635,7 @@ date,location,completed
 2026-09-03,New Holstein Family Eye Care,TRUE
 2026-09-03,Omaha,TRUE
 2026-09-03,Orange City,TRUE
+2026-09-03,Orrville,FALSE
 2026-09-03,Park Hills,TRUE
 2026-09-03,Princeton,TRUE
 2026-09-03,Prosper,TRUE
@@ -4615,6 +4694,7 @@ date,location,completed
 2026-09-04,New Holstein Family Eye Care,TRUE
 2026-09-04,Omaha,TRUE
 2026-09-04,Orange City,TRUE
+2026-09-04,Orrville,FALSE
 2026-09-04,Park Hills,TRUE
 2026-09-04,Princeton,TRUE
 2026-09-04,Prosper,TRUE
@@ -4673,6 +4753,7 @@ date,location,completed
 2026-09-05,New Holstein Family Eye Care,TRUE
 2026-09-05,Omaha,TRUE
 2026-09-05,Orange City,TRUE
+2026-09-05,Orrville,FALSE
 2026-09-05,Park Hills,TRUE
 2026-09-05,Princeton,TRUE
 2026-09-05,Prosper,TRUE
@@ -4731,6 +4812,7 @@ date,location,completed
 2026-09-06,New Holstein Family Eye Care,TRUE
 2026-09-06,Omaha,TRUE
 2026-09-06,Orange City,TRUE
+2026-09-06,Orrville,FALSE
 2026-09-06,Park Hills,TRUE
 2026-09-06,Princeton,TRUE
 2026-09-06,Prosper,TRUE
@@ -4789,6 +4871,7 @@ date,location,completed
 2026-09-07,New Holstein Family Eye Care,TRUE
 2026-09-07,Omaha,TRUE
 2026-09-07,Orange City,TRUE
+2026-09-07,Orrville,FALSE
 2026-09-07,Park Hills,TRUE
 2026-09-07,Princeton,TRUE
 2026-09-07,Prosper,TRUE
@@ -4847,6 +4930,7 @@ date,location,completed
 2026-09-08,New Holstein Family Eye Care,TRUE
 2026-09-08,Omaha,TRUE
 2026-09-08,Orange City,TRUE
+2026-09-08,Orrville,FALSE
 2026-09-08,Park Hills,TRUE
 2026-09-08,Princeton,TRUE
 2026-09-08,Prosper,TRUE
@@ -4905,6 +4989,7 @@ date,location,completed
 2026-09-09,New Holstein Family Eye Care,TRUE
 2026-09-09,Omaha,TRUE
 2026-09-09,Orange City,TRUE
+2026-09-09,Orrville,FALSE
 2026-09-09,Park Hills,TRUE
 2026-09-09,Princeton,TRUE
 2026-09-09,Prosper,TRUE
@@ -4929,3 +5014,62 @@ date,location,completed
 2026-09-09,Waupun,TRUE
 2026-09-09,Wheaton,TRUE
 2026-09-09,Woodridge,TRUE
+2026-09-10,13th St,TRUE
+2026-09-10,Asheville,TRUE
+2026-09-10,Boston,FALSE
+2026-09-10,Boynton Beach,TRUE
+2026-09-10,Chilton Family Eye Care,TRUE
+2026-09-10,Citrus Heights,TRUE
+2026-09-10,Colchester,TRUE
+2026-09-10,Dallas,TRUE
+2026-09-10,Downtown,TRUE
+2026-09-10,East Northport,TRUE
+2026-09-10,Essex,TRUE
+2026-09-10,Eye Care Associates Jefferson,TRUE
+2026-09-10,Eye Care Associates Panora,TRUE
+2026-09-10,Eye Care Associates Perry,TRUE
+2026-09-10,Eye Care Associates Stuart,TRUE
+2026-09-10,Eyecare of Great Bend,TRUE
+2026-09-10,Eyes on Eastern,TRUE
+2026-09-10,Fort Collins,TRUE
+2026-09-10,Geneva,TRUE
+2026-09-10,Glen Mills,TRUE
+2026-09-10,Grafton Family Eye Care,TRUE
+2026-09-10,Hebron,TRUE
+2026-09-10,Irving,TRUE
+2026-09-10,Lake Mills,TRUE
+2026-09-10,Lancaster,TRUE
+2026-09-10,Larned Eye Health,TRUE
+2026-09-10,Longmont,TRUE
+2026-09-10,Madison,TRUE
+2026-09-10,Maple Grove,TRUE
+2026-09-10,Mitchell,TRUE
+2026-09-10,Naperville,TRUE
+2026-09-10,New Holstein Family Eye Care,TRUE
+2026-09-10,Omaha,TRUE
+2026-09-10,Orange City,TRUE
+2026-09-10,Orrville,TRUE
+2026-09-10,Park Hills,TRUE
+2026-09-10,Princeton,TRUE
+2026-09-10,Prosper,TRUE
+2026-09-10,Sheboygan Family Eye Care,TRUE
+2026-09-10,Tooele,TRUE
+2026-09-10,Toronto Ontario Canada,TRUE
+2026-09-10,Tulsa,TRUE
+2026-09-10,Vision Source Atwood,TRUE
+2026-09-10,Vision Source Burlington,TRUE
+2026-09-10,Vision Source Colby,TRUE
+2026-09-10,Vision Source Eye Center of the Triad Greensboro,TRUE
+2026-09-10,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-10,Vision Source Goodland,TRUE
+2026-09-10,Vision Source Junction City,TRUE
+2026-09-10,Vision Source Manhattan,FALSE
+2026-09-10,Vision Source Oakley,TRUE
+2026-09-10,Vision Source St Francis,TRUE
+2026-09-10,Vision Source Wamego,TRUE
+2026-09-10,Vision Source Wray,TRUE
+2026-09-10,Vision Source Yuma,TRUE
+2026-09-10,WVEA,TRUE
+2026-09-10,Waupun,TRUE
+2026-09-10,Wheaton,TRUE
+2026-09-10,Woodridge,TRUE
