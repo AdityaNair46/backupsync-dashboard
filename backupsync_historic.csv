@@ -6571,14 +6571,14 @@ date,location,completed
 2026-10-06,Grafton Family Eye Care,TRUE
 2026-10-06,Hebron,TRUE
 2026-10-06,Irving,TRUE
-2026-10-06,Lake Mills,TRUE
+2026-10-06,Lake Mills,FALSE
 2026-10-06,Lancaster,TRUE
 2026-10-06,Larned Eye Health,TRUE
 2026-10-06,Longmont,TRUE
 2026-10-06,Madison,FALSE
 2026-10-06,Maple Grove,FALSE
 2026-10-06,Mitchell,TRUE
-2026-10-06,Naperville,TRUE
+2026-10-06,Naperville,FALSE
 2026-10-06,New Holstein Family Eye Care,TRUE
 2026-10-06,Omaha,TRUE
 2026-10-06,Orange City,TRUE
@@ -6604,6 +6604,6 @@ date,location,completed
 2026-10-06,Vision Source Wray,TRUE
 2026-10-06,Vision Source Yuma,TRUE
 2026-10-06,WVEA,TRUE
-2026-10-06,Waupun,TRUE
-2026-10-06,Wheaton,TRUE
+2026-10-06,Waupun,FALSE
+2026-10-06,Wheaton,FALSE
 2026-10-06,Woodridge,TRUE
