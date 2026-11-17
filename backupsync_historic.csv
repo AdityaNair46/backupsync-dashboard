@@ -28,6 +28,7 @@ date,location,completed
 2026-06-17,Longmont,TRUE
 2026-06-17,Madison,TRUE
 2026-06-17,Maple Grove,TRUE
+2026-06-17,McConnelsville,FALSE
 2026-06-17,Mitchell,TRUE
 2026-06-17,Naperville,FALSE
 2026-06-17,New Holstein Family Eye Care,TRUE
@@ -87,6 +88,7 @@ date,location,completed
 2026-06-18,Longmont,TRUE
 2026-06-18,Madison,TRUE
 2026-06-18,Maple Grove,TRUE
+2026-06-18,McConnelsville,FALSE
 2026-06-18,Mitchell,TRUE
 2026-06-18,Naperville,FALSE
 2026-06-18,New Holstein Family Eye Care,TRUE
@@ -146,6 +148,7 @@ date,location,completed
 2026-06-19,Longmont,TRUE
 2026-06-19,Madison,TRUE
 2026-06-19,Maple Grove,TRUE
+2026-06-19,McConnelsville,FALSE
 2026-06-19,Mitchell,TRUE
 2026-06-19,Naperville,FALSE
 2026-06-19,New Holstein Family Eye Care,TRUE
@@ -205,6 +208,7 @@ date,location,completed
 2026-06-20,Longmont,TRUE
 2026-06-20,Madison,TRUE
 2026-06-20,Maple Grove,TRUE
+2026-06-20,McConnelsville,FALSE
 2026-06-20,Mitchell,TRUE
 2026-06-20,Naperville,FALSE
 2026-06-20,New Holstein Family Eye Care,TRUE
@@ -264,6 +268,7 @@ date,location,completed
 2026-06-21,Longmont,TRUE
 2026-06-21,Madison,TRUE
 2026-06-21,Maple Grove,TRUE
+2026-06-21,McConnelsville,FALSE
 2026-06-21,Mitchell,TRUE
 2026-06-21,Naperville,FALSE
 2026-06-21,New Holstein Family Eye Care,TRUE
@@ -323,6 +328,7 @@ date,location,completed
 2026-06-22,Longmont,TRUE
 2026-06-22,Madison,TRUE
 2026-06-22,Maple Grove,TRUE
+2026-06-22,McConnelsville,FALSE
 2026-06-22,Mitchell,TRUE
 2026-06-22,Naperville,FALSE
 2026-06-22,New Holstein Family Eye Care,TRUE
@@ -382,6 +388,7 @@ date,location,completed
 2026-06-23,Longmont,TRUE
 2026-06-23,Madison,FALSE
 2026-06-23,Maple Grove,TRUE
+2026-06-23,McConnelsville,FALSE
 2026-06-23,Mitchell,TRUE
 2026-06-23,Naperville,FALSE
 2026-06-23,New Holstein Family Eye Care,TRUE
@@ -441,6 +448,7 @@ date,location,completed
 2026-06-24,Longmont,TRUE
 2026-06-24,Madison,TRUE
 2026-06-24,Maple Grove,TRUE
+2026-06-24,McConnelsville,FALSE
 2026-06-24,Mitchell,TRUE
 2026-06-24,Naperville,FALSE
 2026-06-24,New Holstein Family Eye Care,TRUE
@@ -500,6 +508,7 @@ date,location,completed
 2026-06-25,Longmont,TRUE
 2026-06-25,Madison,TRUE
 2026-06-25,Maple Grove,TRUE
+2026-06-25,McConnelsville,FALSE
 2026-06-25,Mitchell,TRUE
 2026-06-25,Naperville,FALSE
 2026-06-25,New Holstein Family Eye Care,TRUE
@@ -559,6 +568,7 @@ date,location,completed
 2026-06-26,Longmont,TRUE
 2026-06-26,Madison,TRUE
 2026-06-26,Maple Grove,TRUE
+2026-06-26,McConnelsville,FALSE
 2026-06-26,Mitchell,TRUE
 2026-06-26,Naperville,FALSE
 2026-06-26,New Holstein Family Eye Care,TRUE
@@ -618,6 +628,7 @@ date,location,completed
 2026-06-27,Longmont,TRUE
 2026-06-27,Madison,TRUE
 2026-06-27,Maple Grove,TRUE
+2026-06-27,McConnelsville,FALSE
 2026-06-27,Mitchell,TRUE
 2026-06-27,Naperville,FALSE
 2026-06-27,New Holstein Family Eye Care,TRUE
@@ -677,6 +688,7 @@ date,location,completed
 2026-06-28,Longmont,TRUE
 2026-06-28,Madison,TRUE
 2026-06-28,Maple Grove,TRUE
+2026-06-28,McConnelsville,FALSE
 2026-06-28,Mitchell,TRUE
 2026-06-28,Naperville,FALSE
 2026-06-28,New Holstein Family Eye Care,FALSE
@@ -736,6 +748,7 @@ date,location,completed
 2026-06-29,Longmont,TRUE
 2026-06-29,Madison,TRUE
 2026-06-29,Maple Grove,TRUE
+2026-06-29,McConnelsville,FALSE
 2026-06-29,Mitchell,TRUE
 2026-06-29,Naperville,FALSE
 2026-06-29,New Holstein Family Eye Care,TRUE
@@ -795,6 +808,7 @@ date,location,completed
 2026-06-30,Longmont,TRUE
 2026-06-30,Madison,TRUE
 2026-06-30,Maple Grove,TRUE
+2026-06-30,McConnelsville,FALSE
 2026-06-30,Mitchell,TRUE
 2026-06-30,Naperville,FALSE
 2026-06-30,New Holstein Family Eye Care,TRUE
@@ -854,6 +868,7 @@ date,location,completed
 2026-07-01,Longmont,TRUE
 2026-07-01,Madison,FALSE
 2026-07-01,Maple Grove,FALSE
+2026-07-01,McConnelsville,FALSE
 2026-07-01,Mitchell,FALSE
 2026-07-01,Naperville,FALSE
 2026-07-01,New Holstein Family Eye Care,FALSE
@@ -913,6 +928,7 @@ date,location,completed
 2026-07-02,Longmont,TRUE
 2026-07-02,Madison,TRUE
 2026-07-02,Maple Grove,TRUE
+2026-07-02,McConnelsville,FALSE
 2026-07-02,Mitchell,TRUE
 2026-07-02,Naperville,FALSE
 2026-07-02,New Holstein Family Eye Care,TRUE
@@ -972,6 +988,7 @@ date,location,completed
 2026-07-03,Longmont,TRUE
 2026-07-03,Madison,FALSE
 2026-07-03,Maple Grove,TRUE
+2026-07-03,McConnelsville,FALSE
 2026-07-03,Mitchell,TRUE
 2026-07-03,Naperville,FALSE
 2026-07-03,New Holstein Family Eye Care,TRUE
@@ -1031,6 +1048,7 @@ date,location,completed
 2026-07-04,Longmont,TRUE
 2026-07-04,Madison,TRUE
 2026-07-04,Maple Grove,TRUE
+2026-07-04,McConnelsville,FALSE
 2026-07-04,Mitchell,TRUE
 2026-07-04,Naperville,FALSE
 2026-07-04,New Holstein Family Eye Care,TRUE
@@ -1090,6 +1108,7 @@ date,location,completed
 2026-07-05,Longmont,TRUE
 2026-07-05,Madison,TRUE
 2026-07-05,Maple Grove,TRUE
+2026-07-05,McConnelsville,FALSE
 2026-07-05,Mitchell,TRUE
 2026-07-05,Naperville,FALSE
 2026-07-05,New Holstein Family Eye Care,TRUE
@@ -1149,6 +1168,7 @@ date,location,completed
 2026-07-06,Longmont,TRUE
 2026-07-06,Madison,TRUE
 2026-07-06,Maple Grove,TRUE
+2026-07-06,McConnelsville,FALSE
 2026-07-06,Mitchell,TRUE
 2026-07-06,Naperville,FALSE
 2026-07-06,New Holstein Family Eye Care,TRUE
@@ -1208,6 +1228,7 @@ date,location,completed
 2026-07-07,Longmont,TRUE
 2026-07-07,Madison,FALSE
 2026-07-07,Maple Grove,TRUE
+2026-07-07,McConnelsville,FALSE
 2026-07-07,Mitchell,TRUE
 2026-07-07,Naperville,FALSE
 2026-07-07,New Holstein Family Eye Care,TRUE
@@ -1267,6 +1288,7 @@ date,location,completed
 2026-07-08,Longmont,TRUE
 2026-07-08,Madison,TRUE
 2026-07-08,Maple Grove,TRUE
+2026-07-08,McConnelsville,FALSE
 2026-07-08,Mitchell,TRUE
 2026-07-08,Naperville,FALSE
 2026-07-08,New Holstein Family Eye Care,TRUE
@@ -1326,6 +1348,7 @@ date,location,completed
 2026-07-09,Longmont,TRUE
 2026-07-09,Madison,TRUE
 2026-07-09,Maple Grove,TRUE
+2026-07-09,McConnelsville,FALSE
 2026-07-09,Mitchell,TRUE
 2026-07-09,Naperville,FALSE
 2026-07-09,New Holstein Family Eye Care,TRUE
@@ -1385,6 +1408,7 @@ date,location,completed
 2026-07-10,Longmont,TRUE
 2026-07-10,Madison,TRUE
 2026-07-10,Maple Grove,TRUE
+2026-07-10,McConnelsville,FALSE
 2026-07-10,Mitchell,TRUE
 2026-07-10,Naperville,FALSE
 2026-07-10,New Holstein Family Eye Care,TRUE
@@ -1444,6 +1468,7 @@ date,location,completed
 2026-07-11,Longmont,TRUE
 2026-07-11,Madison,TRUE
 2026-07-11,Maple Grove,TRUE
+2026-07-11,McConnelsville,FALSE
 2026-07-11,Mitchell,TRUE
 2026-07-11,Naperville,FALSE
 2026-07-11,New Holstein Family Eye Care,TRUE
@@ -1503,6 +1528,7 @@ date,location,completed
 2026-07-12,Longmont,TRUE
 2026-07-12,Madison,TRUE
 2026-07-12,Maple Grove,TRUE
+2026-07-12,McConnelsville,FALSE
 2026-07-12,Mitchell,TRUE
 2026-07-12,Naperville,FALSE
 2026-07-12,New Holstein Family Eye Care,TRUE
@@ -1562,6 +1588,7 @@ date,location,completed
 2026-07-13,Longmont,TRUE
 2026-07-13,Madison,TRUE
 2026-07-13,Maple Grove,TRUE
+2026-07-13,McConnelsville,FALSE
 2026-07-13,Mitchell,TRUE
 2026-07-13,Naperville,FALSE
 2026-07-13,New Holstein Family Eye Care,TRUE
@@ -1621,6 +1648,7 @@ date,location,completed
 2026-07-14,Longmont,TRUE
 2026-07-14,Madison,TRUE
 2026-07-14,Maple Grove,TRUE
+2026-07-14,McConnelsville,FALSE
 2026-07-14,Mitchell,TRUE
 2026-07-14,Naperville,FALSE
 2026-07-14,New Holstein Family Eye Care,TRUE
@@ -1680,6 +1708,7 @@ date,location,completed
 2026-07-15,Longmont,TRUE
 2026-07-15,Madison,TRUE
 2026-07-15,Maple Grove,TRUE
+2026-07-15,McConnelsville,FALSE
 2026-07-15,Mitchell,TRUE
 2026-07-15,Naperville,FALSE
 2026-07-15,New Holstein Family Eye Care,TRUE
@@ -1739,6 +1768,7 @@ date,location,completed
 2026-07-16,Longmont,TRUE
 2026-07-16,Madison,FALSE
 2026-07-16,Maple Grove,TRUE
+2026-07-16,McConnelsville,FALSE
 2026-07-16,Mitchell,TRUE
 2026-07-16,Naperville,FALSE
 2026-07-16,New Holstein Family Eye Care,TRUE
@@ -1798,6 +1828,7 @@ date,location,completed
 2026-07-17,Longmont,TRUE
 2026-07-17,Madison,TRUE
 2026-07-17,Maple Grove,TRUE
+2026-07-17,McConnelsville,FALSE
 2026-07-17,Mitchell,TRUE
 2026-07-17,Naperville,FALSE
 2026-07-17,New Holstein Family Eye Care,TRUE
@@ -1857,6 +1888,7 @@ date,location,completed
 2026-07-18,Longmont,TRUE
 2026-07-18,Madison,TRUE
 2026-07-18,Maple Grove,TRUE
+2026-07-18,McConnelsville,FALSE
 2026-07-18,Mitchell,TRUE
 2026-07-18,Naperville,FALSE
 2026-07-18,New Holstein Family Eye Care,TRUE
@@ -1916,6 +1948,7 @@ date,location,completed
 2026-07-19,Longmont,TRUE
 2026-07-19,Madison,TRUE
 2026-07-19,Maple Grove,TRUE
+2026-07-19,McConnelsville,FALSE
 2026-07-19,Mitchell,TRUE
 2026-07-19,Naperville,FALSE
 2026-07-19,New Holstein Family Eye Care,TRUE
@@ -1975,6 +2008,7 @@ date,location,completed
 2026-07-20,Longmont,TRUE
 2026-07-20,Madison,FALSE
 2026-07-20,Maple Grove,TRUE
+2026-07-20,McConnelsville,FALSE
 2026-07-20,Mitchell,TRUE
 2026-07-20,Naperville,FALSE
 2026-07-20,New Holstein Family Eye Care,TRUE
@@ -2034,6 +2068,7 @@ date,location,completed
 2026-07-21,Longmont,TRUE
 2026-07-21,Madison,FALSE
 2026-07-21,Maple Grove,TRUE
+2026-07-21,McConnelsville,FALSE
 2026-07-21,Mitchell,TRUE
 2026-07-21,Naperville,FALSE
 2026-07-21,New Holstein Family Eye Care,TRUE
@@ -2093,6 +2128,7 @@ date,location,completed
 2026-07-22,Longmont,TRUE
 2026-07-22,Madison,TRUE
 2026-07-22,Maple Grove,TRUE
+2026-07-22,McConnelsville,FALSE
 2026-07-22,Mitchell,TRUE
 2026-07-22,Naperville,FALSE
 2026-07-22,New Holstein Family Eye Care,TRUE
@@ -2152,6 +2188,7 @@ date,location,completed
 2026-07-23,Longmont,TRUE
 2026-07-23,Madison,TRUE
 2026-07-23,Maple Grove,TRUE
+2026-07-23,McConnelsville,FALSE
 2026-07-23,Mitchell,TRUE
 2026-07-23,Naperville,FALSE
 2026-07-23,New Holstein Family Eye Care,FALSE
@@ -2211,6 +2248,7 @@ date,location,completed
 2026-07-24,Longmont,TRUE
 2026-07-24,Madison,TRUE
 2026-07-24,Maple Grove,TRUE
+2026-07-24,McConnelsville,FALSE
 2026-07-24,Mitchell,TRUE
 2026-07-24,Naperville,FALSE
 2026-07-24,New Holstein Family Eye Care,TRUE
@@ -2270,6 +2308,7 @@ date,location,completed
 2026-07-25,Longmont,TRUE
 2026-07-25,Madison,TRUE
 2026-07-25,Maple Grove,FALSE
+2026-07-25,McConnelsville,FALSE
 2026-07-25,Mitchell,TRUE
 2026-07-25,Naperville,FALSE
 2026-07-25,New Holstein Family Eye Care,TRUE
@@ -2329,6 +2368,7 @@ date,location,completed
 2026-07-26,Longmont,TRUE
 2026-07-26,Madison,FALSE
 2026-07-26,Maple Grove,FALSE
+2026-07-26,McConnelsville,FALSE
 2026-07-26,Mitchell,TRUE
 2026-07-26,Naperville,FALSE
 2026-07-26,New Holstein Family Eye Care,TRUE
@@ -2388,6 +2428,7 @@ date,location,completed
 2026-07-27,Longmont,TRUE
 2026-07-27,Madison,TRUE
 2026-07-27,Maple Grove,TRUE
+2026-07-27,McConnelsville,FALSE
 2026-07-27,Mitchell,TRUE
 2026-07-27,Naperville,FALSE
 2026-07-27,New Holstein Family Eye Care,TRUE
@@ -2447,6 +2488,7 @@ date,location,completed
 2026-07-28,Longmont,TRUE
 2026-07-28,Madison,TRUE
 2026-07-28,Maple Grove,TRUE
+2026-07-28,McConnelsville,FALSE
 2026-07-28,Mitchell,TRUE
 2026-07-28,Naperville,FALSE
 2026-07-28,New Holstein Family Eye Care,TRUE
@@ -2506,6 +2548,7 @@ date,location,completed
 2026-07-29,Longmont,TRUE
 2026-07-29,Madison,TRUE
 2026-07-29,Maple Grove,TRUE
+2026-07-29,McConnelsville,FALSE
 2026-07-29,Mitchell,TRUE
 2026-07-29,Naperville,FALSE
 2026-07-29,New Holstein Family Eye Care,TRUE
@@ -2565,6 +2608,7 @@ date,location,completed
 2026-07-30,Longmont,TRUE
 2026-07-30,Madison,TRUE
 2026-07-30,Maple Grove,TRUE
+2026-07-30,McConnelsville,FALSE
 2026-07-30,Mitchell,TRUE
 2026-07-30,Naperville,FALSE
 2026-07-30,New Holstein Family Eye Care,TRUE
@@ -2624,6 +2668,7 @@ date,location,completed
 2026-07-31,Longmont,TRUE
 2026-07-31,Madison,TRUE
 2026-07-31,Maple Grove,TRUE
+2026-07-31,McConnelsville,FALSE
 2026-07-31,Mitchell,TRUE
 2026-07-31,Naperville,FALSE
 2026-07-31,New Holstein Family Eye Care,TRUE
@@ -2683,6 +2728,7 @@ date,location,completed
 2026-08-01,Longmont,TRUE
 2026-08-01,Madison,TRUE
 2026-08-01,Maple Grove,TRUE
+2026-08-01,McConnelsville,FALSE
 2026-08-01,Mitchell,TRUE
 2026-08-01,Naperville,FALSE
 2026-08-01,New Holstein Family Eye Care,TRUE
@@ -2742,6 +2788,7 @@ date,location,completed
 2026-08-02,Longmont,TRUE
 2026-08-02,Madison,TRUE
 2026-08-02,Maple Grove,TRUE
+2026-08-02,McConnelsville,FALSE
 2026-08-02,Mitchell,TRUE
 2026-08-02,Naperville,FALSE
 2026-08-02,New Holstein Family Eye Care,TRUE
@@ -2801,6 +2848,7 @@ date,location,completed
 2026-08-03,Longmont,TRUE
 2026-08-03,Madison,FALSE
 2026-08-03,Maple Grove,TRUE
+2026-08-03,McConnelsville,FALSE
 2026-08-03,Mitchell,TRUE
 2026-08-03,Naperville,FALSE
 2026-08-03,New Holstein Family Eye Care,TRUE
@@ -2860,6 +2908,7 @@ date,location,completed
 2026-08-04,Longmont,TRUE
 2026-08-04,Madison,FALSE
 2026-08-04,Maple Grove,TRUE
+2026-08-04,McConnelsville,FALSE
 2026-08-04,Mitchell,TRUE
 2026-08-04,Naperville,FALSE
 2026-08-04,New Holstein Family Eye Care,FALSE
@@ -2919,6 +2968,7 @@ date,location,completed
 2026-08-05,Longmont,TRUE
 2026-08-05,Madison,FALSE
 2026-08-05,Maple Grove,TRUE
+2026-08-05,McConnelsville,FALSE
 2026-08-05,Mitchell,TRUE
 2026-08-05,Naperville,FALSE
 2026-08-05,New Holstein Family Eye Care,TRUE
@@ -2978,6 +3028,7 @@ date,location,completed
 2026-08-06,Longmont,TRUE
 2026-08-06,Madison,TRUE
 2026-08-06,Maple Grove,TRUE
+2026-08-06,McConnelsville,FALSE
 2026-08-06,Mitchell,TRUE
 2026-08-06,Naperville,FALSE
 2026-08-06,New Holstein Family Eye Care,TRUE
@@ -3037,6 +3088,7 @@ date,location,completed
 2026-08-07,Longmont,FALSE
 2026-08-07,Madison,FALSE
 2026-08-07,Maple Grove,FALSE
+2026-08-07,McConnelsville,FALSE
 2026-08-07,Mitchell,FALSE
 2026-08-07,Naperville,FALSE
 2026-08-07,New Holstein Family Eye Care,FALSE
@@ -3096,6 +3148,7 @@ date,location,completed
 2026-08-08,Longmont,FALSE
 2026-08-08,Madison,FALSE
 2026-08-08,Maple Grove,FALSE
+2026-08-08,McConnelsville,FALSE
 2026-08-08,Mitchell,FALSE
 2026-08-08,Naperville,FALSE
 2026-08-08,New Holstein Family Eye Care,FALSE
@@ -3155,6 +3208,7 @@ date,location,completed
 2026-08-09,Longmont,FALSE
 2026-08-09,Madison,FALSE
 2026-08-09,Maple Grove,FALSE
+2026-08-09,McConnelsville,FALSE
 2026-08-09,Mitchell,FALSE
 2026-08-09,Naperville,FALSE
 2026-08-09,New Holstein Family Eye Care,FALSE
@@ -3214,6 +3268,7 @@ date,location,completed
 2026-08-10,Longmont,FALSE
 2026-08-10,Madison,FALSE
 2026-08-10,Maple Grove,FALSE
+2026-08-10,McConnelsville,FALSE
 2026-08-10,Mitchell,FALSE
 2026-08-10,Naperville,FALSE
 2026-08-10,New Holstein Family Eye Care,FALSE
@@ -3273,6 +3328,7 @@ date,location,completed
 2026-08-11,Longmont,TRUE
 2026-08-11,Madison,TRUE
 2026-08-11,Maple Grove,TRUE
+2026-08-11,McConnelsville,FALSE
 2026-08-11,Mitchell,TRUE
 2026-08-11,Naperville,FALSE
 2026-08-11,New Holstein Family Eye Care,TRUE
@@ -3332,6 +3388,7 @@ date,location,completed
 2026-08-12,Longmont,TRUE
 2026-08-12,Madison,TRUE
 2026-08-12,Maple Grove,TRUE
+2026-08-12,McConnelsville,FALSE
 2026-08-12,Mitchell,TRUE
 2026-08-12,Naperville,FALSE
 2026-08-12,New Holstein Family Eye Care,TRUE
@@ -3391,6 +3448,7 @@ date,location,completed
 2026-08-13,Longmont,TRUE
 2026-08-13,Madison,FALSE
 2026-08-13,Maple Grove,TRUE
+2026-08-13,McConnelsville,FALSE
 2026-08-13,Mitchell,TRUE
 2026-08-13,Naperville,TRUE
 2026-08-13,New Holstein Family Eye Care,TRUE
@@ -3450,6 +3508,7 @@ date,location,completed
 2026-08-14,Longmont,TRUE
 2026-08-14,Madison,TRUE
 2026-08-14,Maple Grove,TRUE
+2026-08-14,McConnelsville,FALSE
 2026-08-14,Mitchell,TRUE
 2026-08-14,Naperville,TRUE
 2026-08-14,New Holstein Family Eye Care,TRUE
@@ -3509,6 +3568,7 @@ date,location,completed
 2026-08-15,Longmont,TRUE
 2026-08-15,Madison,TRUE
 2026-08-15,Maple Grove,TRUE
+2026-08-15,McConnelsville,FALSE
 2026-08-15,Mitchell,TRUE
 2026-08-15,Naperville,TRUE
 2026-08-15,New Holstein Family Eye Care,TRUE
@@ -3568,6 +3628,7 @@ date,location,completed
 2026-08-16,Longmont,TRUE
 2026-08-16,Madison,TRUE
 2026-08-16,Maple Grove,TRUE
+2026-08-16,McConnelsville,FALSE
 2026-08-16,Mitchell,TRUE
 2026-08-16,Naperville,TRUE
 2026-08-16,New Holstein Family Eye Care,TRUE
@@ -3627,6 +3688,7 @@ date,location,completed
 2026-08-17,Longmont,TRUE
 2026-08-17,Madison,TRUE
 2026-08-17,Maple Grove,TRUE
+2026-08-17,McConnelsville,FALSE
 2026-08-17,Mitchell,TRUE
 2026-08-17,Naperville,TRUE
 2026-08-17,New Holstein Family Eye Care,TRUE
@@ -3686,6 +3748,7 @@ date,location,completed
 2026-08-18,Longmont,TRUE
 2026-08-18,Madison,TRUE
 2026-08-18,Maple Grove,TRUE
+2026-08-18,McConnelsville,FALSE
 2026-08-18,Mitchell,TRUE
 2026-08-18,Naperville,TRUE
 2026-08-18,New Holstein Family Eye Care,TRUE
@@ -3745,6 +3808,7 @@ date,location,completed
 2026-08-19,Longmont,TRUE
 2026-08-19,Madison,TRUE
 2026-08-19,Maple Grove,TRUE
+2026-08-19,McConnelsville,FALSE
 2026-08-19,Mitchell,TRUE
 2026-08-19,Naperville,TRUE
 2026-08-19,New Holstein Family Eye Care,TRUE
@@ -3804,6 +3868,7 @@ date,location,completed
 2026-08-20,Longmont,FALSE
 2026-08-20,Madison,FALSE
 2026-08-20,Maple Grove,FALSE
+2026-08-20,McConnelsville,FALSE
 2026-08-20,Mitchell,FALSE
 2026-08-20,Naperville,FALSE
 2026-08-20,New Holstein Family Eye Care,FALSE
@@ -3863,6 +3928,7 @@ date,location,completed
 2026-08-21,Longmont,TRUE
 2026-08-21,Madison,TRUE
 2026-08-21,Maple Grove,TRUE
+2026-08-21,McConnelsville,FALSE
 2026-08-21,Mitchell,TRUE
 2026-08-21,Naperville,TRUE
 2026-08-21,New Holstein Family Eye Care,TRUE
@@ -3922,6 +3988,7 @@ date,location,completed
 2026-08-22,Longmont,TRUE
 2026-08-22,Madison,TRUE
 2026-08-22,Maple Grove,TRUE
+2026-08-22,McConnelsville,FALSE
 2026-08-22,Mitchell,TRUE
 2026-08-22,Naperville,TRUE
 2026-08-22,New Holstein Family Eye Care,TRUE
@@ -3981,6 +4048,7 @@ date,location,completed
 2026-08-23,Longmont,TRUE
 2026-08-23,Madison,TRUE
 2026-08-23,Maple Grove,TRUE
+2026-08-23,McConnelsville,FALSE
 2026-08-23,Mitchell,TRUE
 2026-08-23,Naperville,TRUE
 2026-08-23,New Holstein Family Eye Care,TRUE
@@ -4040,6 +4108,7 @@ date,location,completed
 2026-08-24,Longmont,TRUE
 2026-08-24,Madison,TRUE
 2026-08-24,Maple Grove,TRUE
+2026-08-24,McConnelsville,FALSE
 2026-08-24,Mitchell,TRUE
 2026-08-24,Naperville,TRUE
 2026-08-24,New Holstein Family Eye Care,FALSE
@@ -4099,6 +4168,7 @@ date,location,completed
 2026-08-25,Longmont,TRUE
 2026-08-25,Madison,TRUE
 2026-08-25,Maple Grove,TRUE
+2026-08-25,McConnelsville,FALSE
 2026-08-25,Mitchell,TRUE
 2026-08-25,Naperville,TRUE
 2026-08-25,New Holstein Family Eye Care,TRUE
@@ -4158,6 +4228,7 @@ date,location,completed
 2026-08-26,Longmont,TRUE
 2026-08-26,Madison,FALSE
 2026-08-26,Maple Grove,FALSE
+2026-08-26,McConnelsville,FALSE
 2026-08-26,Mitchell,TRUE
 2026-08-26,Naperville,TRUE
 2026-08-26,New Holstein Family Eye Care,TRUE
@@ -4217,6 +4288,7 @@ date,location,completed
 2026-08-27,Longmont,TRUE
 2026-08-27,Madison,TRUE
 2026-08-27,Maple Grove,FALSE
+2026-08-27,McConnelsville,FALSE
 2026-08-27,Mitchell,TRUE
 2026-08-27,Naperville,TRUE
 2026-08-27,New Holstein Family Eye Care,TRUE
@@ -4276,6 +4348,7 @@ date,location,completed
 2026-08-28,Longmont,TRUE
 2026-08-28,Madison,TRUE
 2026-08-28,Maple Grove,FALSE
+2026-08-28,McConnelsville,FALSE
 2026-08-28,Mitchell,TRUE
 2026-08-28,Naperville,TRUE
 2026-08-28,New Holstein Family Eye Care,TRUE
@@ -4335,6 +4408,7 @@ date,location,completed
 2026-08-29,Longmont,TRUE
 2026-08-29,Madison,TRUE
 2026-08-29,Maple Grove,FALSE
+2026-08-29,McConnelsville,FALSE
 2026-08-29,Mitchell,TRUE
 2026-08-29,Naperville,TRUE
 2026-08-29,New Holstein Family Eye Care,TRUE
@@ -4394,6 +4468,7 @@ date,location,completed
 2026-08-30,Longmont,TRUE
 2026-08-30,Madison,TRUE
 2026-08-30,Maple Grove,FALSE
+2026-08-30,McConnelsville,FALSE
 2026-08-30,Mitchell,TRUE
 2026-08-30,Naperville,TRUE
 2026-08-30,New Holstein Family Eye Care,TRUE
@@ -4453,6 +4528,7 @@ date,location,completed
 2026-08-31,Longmont,TRUE
 2026-08-31,Madison,TRUE
 2026-08-31,Maple Grove,FALSE
+2026-08-31,McConnelsville,FALSE
 2026-08-31,Mitchell,TRUE
 2026-08-31,Naperville,TRUE
 2026-08-31,New Holstein Family Eye Care,FALSE
@@ -4512,6 +4588,7 @@ date,location,completed
 2026-09-01,Longmont,TRUE
 2026-09-01,Madison,TRUE
 2026-09-01,Maple Grove,TRUE
+2026-09-01,McConnelsville,FALSE
 2026-09-01,Mitchell,TRUE
 2026-09-01,Naperville,TRUE
 2026-09-01,New Holstein Family Eye Care,TRUE
@@ -4571,6 +4648,7 @@ date,location,completed
 2026-09-02,Longmont,TRUE
 2026-09-02,Madison,TRUE
 2026-09-02,Maple Grove,TRUE
+2026-09-02,McConnelsville,FALSE
 2026-09-02,Mitchell,TRUE
 2026-09-02,Naperville,TRUE
 2026-09-02,New Holstein Family Eye Care,TRUE
@@ -4630,6 +4708,7 @@ date,location,completed
 2026-09-03,Longmont,TRUE
 2026-09-03,Madison,TRUE
 2026-09-03,Maple Grove,TRUE
+2026-09-03,McConnelsville,FALSE
 2026-09-03,Mitchell,TRUE
 2026-09-03,Naperville,TRUE
 2026-09-03,New Holstein Family Eye Care,TRUE
@@ -4689,6 +4768,7 @@ date,location,completed
 2026-09-04,Longmont,TRUE
 2026-09-04,Madison,TRUE
 2026-09-04,Maple Grove,TRUE
+2026-09-04,McConnelsville,FALSE
 2026-09-04,Mitchell,TRUE
 2026-09-04,Naperville,TRUE
 2026-09-04,New Holstein Family Eye Care,TRUE
@@ -4748,6 +4828,7 @@ date,location,completed
 2026-09-05,Longmont,TRUE
 2026-09-05,Madison,TRUE
 2026-09-05,Maple Grove,TRUE
+2026-09-05,McConnelsville,FALSE
 2026-09-05,Mitchell,TRUE
 2026-09-05,Naperville,TRUE
 2026-09-05,New Holstein Family Eye Care,TRUE
@@ -4807,6 +4888,7 @@ date,location,completed
 2026-09-06,Longmont,TRUE
 2026-09-06,Madison,TRUE
 2026-09-06,Maple Grove,TRUE
+2026-09-06,McConnelsville,FALSE
 2026-09-06,Mitchell,TRUE
 2026-09-06,Naperville,TRUE
 2026-09-06,New Holstein Family Eye Care,TRUE
@@ -4866,6 +4948,7 @@ date,location,completed
 2026-09-07,Longmont,TRUE
 2026-09-07,Madison,TRUE
 2026-09-07,Maple Grove,TRUE
+2026-09-07,McConnelsville,FALSE
 2026-09-07,Mitchell,TRUE
 2026-09-07,Naperville,TRUE
 2026-09-07,New Holstein Family Eye Care,TRUE
@@ -4925,6 +5008,7 @@ date,location,completed
 2026-09-08,Longmont,TRUE
 2026-09-08,Madison,TRUE
 2026-09-08,Maple Grove,TRUE
+2026-09-08,McConnelsville,FALSE
 2026-09-08,Mitchell,TRUE
 2026-09-08,Naperville,TRUE
 2026-09-08,New Holstein Family Eye Care,TRUE
@@ -4984,6 +5068,7 @@ date,location,completed
 2026-09-09,Longmont,TRUE
 2026-09-09,Madison,TRUE
 2026-09-09,Maple Grove,TRUE
+2026-09-09,McConnelsville,FALSE
 2026-09-09,Mitchell,TRUE
 2026-09-09,Naperville,TRUE
 2026-09-09,New Holstein Family Eye Care,TRUE
@@ -5043,6 +5128,7 @@ date,location,completed
 2026-09-10,Longmont,TRUE
 2026-09-10,Madison,TRUE
 2026-09-10,Maple Grove,TRUE
+2026-09-10,McConnelsville,FALSE
 2026-09-10,Mitchell,TRUE
 2026-09-10,Naperville,TRUE
 2026-09-10,New Holstein Family Eye Care,TRUE
@@ -5102,6 +5188,7 @@ date,location,completed
 2026-09-11,Longmont,TRUE
 2026-09-11,Madison,TRUE
 2026-09-11,Maple Grove,TRUE
+2026-09-11,McConnelsville,FALSE
 2026-09-11,Mitchell,TRUE
 2026-09-11,Naperville,TRUE
 2026-09-11,New Holstein Family Eye Care,TRUE
@@ -5161,6 +5248,7 @@ date,location,completed
 2026-09-12,Longmont,TRUE
 2026-09-12,Madison,TRUE
 2026-09-12,Maple Grove,TRUE
+2026-09-12,McConnelsville,FALSE
 2026-09-12,Mitchell,TRUE
 2026-09-12,Naperville,TRUE
 2026-09-12,New Holstein Family Eye Care,FALSE
@@ -5220,6 +5308,7 @@ date,location,completed
 2026-09-13,Longmont,TRUE
 2026-09-13,Madison,TRUE
 2026-09-13,Maple Grove,TRUE
+2026-09-13,McConnelsville,FALSE
 2026-09-13,Mitchell,TRUE
 2026-09-13,Naperville,TRUE
 2026-09-13,New Holstein Family Eye Care,TRUE
@@ -5279,6 +5368,7 @@ date,location,completed
 2026-09-14,Longmont,TRUE
 2026-09-14,Madison,TRUE
 2026-09-14,Maple Grove,TRUE
+2026-09-14,McConnelsville,FALSE
 2026-09-14,Mitchell,TRUE
 2026-09-14,Naperville,TRUE
 2026-09-14,New Holstein Family Eye Care,FALSE
@@ -5338,6 +5428,7 @@ date,location,completed
 2026-09-15,Longmont,TRUE
 2026-09-15,Madison,TRUE
 2026-09-15,Maple Grove,TRUE
+2026-09-15,McConnelsville,FALSE
 2026-09-15,Mitchell,TRUE
 2026-09-15,Naperville,TRUE
 2026-09-15,New Holstein Family Eye Care,TRUE
@@ -5397,6 +5488,7 @@ date,location,completed
 2026-09-16,Longmont,TRUE
 2026-09-16,Madison,FALSE
 2026-09-16,Maple Grove,TRUE
+2026-09-16,McConnelsville,FALSE
 2026-09-16,Mitchell,TRUE
 2026-09-16,Naperville,TRUE
 2026-09-16,New Holstein Family Eye Care,TRUE
@@ -5456,6 +5548,7 @@ date,location,completed
 2026-09-17,Longmont,TRUE
 2026-09-17,Madison,FALSE
 2026-09-17,Maple Grove,TRUE
+2026-09-17,McConnelsville,FALSE
 2026-09-17,Mitchell,TRUE
 2026-09-17,Naperville,TRUE
 2026-09-17,New Holstein Family Eye Care,FALSE
@@ -5515,6 +5608,7 @@ date,location,completed
 2026-09-18,Longmont,TRUE
 2026-09-18,Madison,TRUE
 2026-09-18,Maple Grove,TRUE
+2026-09-18,McConnelsville,FALSE
 2026-09-18,Mitchell,TRUE
 2026-09-18,Naperville,TRUE
 2026-09-18,New Holstein Family Eye Care,TRUE
@@ -5574,6 +5668,7 @@ date,location,completed
 2026-09-19,Longmont,TRUE
 2026-09-19,Madison,TRUE
 2026-09-19,Maple Grove,TRUE
+2026-09-19,McConnelsville,FALSE
 2026-09-19,Mitchell,TRUE
 2026-09-19,Naperville,TRUE
 2026-09-19,New Holstein Family Eye Care,TRUE
@@ -5633,6 +5728,7 @@ date,location,completed
 2026-09-20,Longmont,TRUE
 2026-09-20,Madison,TRUE
 2026-09-20,Maple Grove,TRUE
+2026-09-20,McConnelsville,FALSE
 2026-09-20,Mitchell,TRUE
 2026-09-20,Naperville,TRUE
 2026-09-20,New Holstein Family Eye Care,TRUE
@@ -5692,6 +5788,7 @@ date,location,completed
 2026-09-21,Longmont,FALSE
 2026-09-21,Madison,FALSE
 2026-09-21,Maple Grove,TRUE
+2026-09-21,McConnelsville,FALSE
 2026-09-21,Mitchell,FALSE
 2026-09-21,Naperville,FALSE
 2026-09-21,New Holstein Family Eye Care,FALSE
@@ -5751,6 +5848,7 @@ date,location,completed
 2026-09-22,Longmont,FALSE
 2026-09-22,Madison,FALSE
 2026-09-22,Maple Grove,TRUE
+2026-09-22,McConnelsville,FALSE
 2026-09-22,Mitchell,FALSE
 2026-09-22,Naperville,FALSE
 2026-09-22,New Holstein Family Eye Care,FALSE
@@ -5810,6 +5908,7 @@ date,location,completed
 2026-09-23,Longmont,TRUE
 2026-09-23,Madison,TRUE
 2026-09-23,Maple Grove,TRUE
+2026-09-23,McConnelsville,FALSE
 2026-09-23,Mitchell,TRUE
 2026-09-23,Naperville,TRUE
 2026-09-23,New Holstein Family Eye Care,TRUE
@@ -5869,6 +5968,7 @@ date,location,completed
 2026-09-24,Longmont,TRUE
 2026-09-24,Madison,TRUE
 2026-09-24,Maple Grove,TRUE
+2026-09-24,McConnelsville,FALSE
 2026-09-24,Mitchell,TRUE
 2026-09-24,Naperville,TRUE
 2026-09-24,New Holstein Family Eye Care,TRUE
@@ -5928,6 +6028,7 @@ date,location,completed
 2026-09-25,Longmont,TRUE
 2026-09-25,Madison,TRUE
 2026-09-25,Maple Grove,TRUE
+2026-09-25,McConnelsville,FALSE
 2026-09-25,Mitchell,TRUE
 2026-09-25,Naperville,TRUE
 2026-09-25,New Holstein Family Eye Care,TRUE
@@ -5987,6 +6088,7 @@ date,location,completed
 2026-09-26,Longmont,TRUE
 2026-09-26,Madison,TRUE
 2026-09-26,Maple Grove,TRUE
+2026-09-26,McConnelsville,FALSE
 2026-09-26,Mitchell,TRUE
 2026-09-26,Naperville,TRUE
 2026-09-26,New Holstein Family Eye Care,TRUE
@@ -6046,6 +6148,7 @@ date,location,completed
 2026-09-27,Longmont,TRUE
 2026-09-27,Madison,TRUE
 2026-09-27,Maple Grove,TRUE
+2026-09-27,McConnelsville,FALSE
 2026-09-27,Mitchell,TRUE
 2026-09-27,Naperville,TRUE
 2026-09-27,New Holstein Family Eye Care,TRUE
@@ -6105,6 +6208,7 @@ date,location,completed
 2026-09-28,Longmont,TRUE
 2026-09-28,Madison,TRUE
 2026-09-28,Maple Grove,TRUE
+2026-09-28,McConnelsville,FALSE
 2026-09-28,Mitchell,TRUE
 2026-09-28,Naperville,TRUE
 2026-09-28,New Holstein Family Eye Care,TRUE
@@ -6164,6 +6268,7 @@ date,location,completed
 2026-09-29,Longmont,TRUE
 2026-09-29,Madison,TRUE
 2026-09-29,Maple Grove,TRUE
+2026-09-29,McConnelsville,FALSE
 2026-09-29,Mitchell,TRUE
 2026-09-29,Naperville,TRUE
 2026-09-29,New Holstein Family Eye Care,TRUE
@@ -6223,6 +6328,7 @@ date,location,completed
 2026-09-30,Longmont,TRUE
 2026-09-30,Madison,TRUE
 2026-09-30,Maple Grove,TRUE
+2026-09-30,McConnelsville,FALSE
 2026-09-30,Mitchell,TRUE
 2026-09-30,Naperville,TRUE
 2026-09-30,New Holstein Family Eye Care,TRUE
@@ -6282,6 +6388,7 @@ date,location,completed
 2026-10-01,Longmont,TRUE
 2026-10-01,Madison,TRUE
 2026-10-01,Maple Grove,TRUE
+2026-10-01,McConnelsville,FALSE
 2026-10-01,Mitchell,TRUE
 2026-10-01,Naperville,TRUE
 2026-10-01,New Holstein Family Eye Care,FALSE
@@ -6341,6 +6448,7 @@ date,location,completed
 2026-10-02,Longmont,TRUE
 2026-10-02,Madison,TRUE
 2026-10-02,Maple Grove,TRUE
+2026-10-02,McConnelsville,FALSE
 2026-10-02,Mitchell,TRUE
 2026-10-02,Naperville,FALSE
 2026-10-02,New Holstein Family Eye Care,TRUE
@@ -6400,6 +6508,7 @@ date,location,completed
 2026-10-03,Longmont,TRUE
 2026-10-03,Madison,TRUE
 2026-10-03,Maple Grove,TRUE
+2026-10-03,McConnelsville,FALSE
 2026-10-03,Mitchell,TRUE
 2026-10-03,Naperville,TRUE
 2026-10-03,New Holstein Family Eye Care,TRUE
@@ -6459,6 +6568,7 @@ date,location,completed
 2026-10-04,Longmont,TRUE
 2026-10-04,Madison,FALSE
 2026-10-04,Maple Grove,TRUE
+2026-10-04,McConnelsville,FALSE
 2026-10-04,Mitchell,TRUE
 2026-10-04,Naperville,FALSE
 2026-10-04,New Holstein Family Eye Care,TRUE
@@ -6518,6 +6628,7 @@ date,location,completed
 2026-10-05,Longmont,TRUE
 2026-10-05,Madison,TRUE
 2026-10-05,Maple Grove,FALSE
+2026-10-05,McConnelsville,FALSE
 2026-10-05,Mitchell,FALSE
 2026-10-05,Naperville,FALSE
 2026-10-05,New Holstein Family Eye Care,TRUE
@@ -6577,6 +6688,7 @@ date,location,completed
 2026-10-06,Longmont,TRUE
 2026-10-06,Madison,FALSE
 2026-10-06,Maple Grove,FALSE
+2026-10-06,McConnelsville,FALSE
 2026-10-06,Mitchell,TRUE
 2026-10-06,Naperville,TRUE
 2026-10-06,New Holstein Family Eye Care,TRUE
@@ -6636,6 +6748,7 @@ date,location,completed
 2026-10-07,Longmont,TRUE
 2026-10-07,Madison,FALSE
 2026-10-07,Maple Grove,FALSE
+2026-10-07,McConnelsville,FALSE
 2026-10-07,Mitchell,TRUE
 2026-10-07,Naperville,TRUE
 2026-10-07,New Holstein Family Eye Care,TRUE
@@ -6695,6 +6808,7 @@ date,location,completed
 2026-10-08,Longmont,TRUE
 2026-10-08,Madison,TRUE
 2026-10-08,Maple Grove,FALSE
+2026-10-08,McConnelsville,FALSE
 2026-10-08,Mitchell,TRUE
 2026-10-08,Naperville,TRUE
 2026-10-08,New Holstein Family Eye Care,TRUE
@@ -6754,6 +6868,7 @@ date,location,completed
 2026-10-09,Longmont,TRUE
 2026-10-09,Madison,FALSE
 2026-10-09,Maple Grove,TRUE
+2026-10-09,McConnelsville,FALSE
 2026-10-09,Mitchell,TRUE
 2026-10-09,Naperville,TRUE
 2026-10-09,New Holstein Family Eye Care,TRUE
@@ -6813,6 +6928,7 @@ date,location,completed
 2026-10-10,Longmont,TRUE
 2026-10-10,Madison,TRUE
 2026-10-10,Maple Grove,TRUE
+2026-10-10,McConnelsville,FALSE
 2026-10-10,Mitchell,TRUE
 2026-10-10,Naperville,FALSE
 2026-10-10,New Holstein Family Eye Care,TRUE
@@ -6872,6 +6988,7 @@ date,location,completed
 2026-10-11,Longmont,TRUE
 2026-10-11,Madison,TRUE
 2026-10-11,Maple Grove,TRUE
+2026-10-11,McConnelsville,FALSE
 2026-10-11,Mitchell,TRUE
 2026-10-11,Naperville,TRUE
 2026-10-11,New Holstein Family Eye Care,TRUE
@@ -6931,6 +7048,7 @@ date,location,completed
 2026-10-12,Longmont,TRUE
 2026-10-12,Madison,TRUE
 2026-10-12,Maple Grove,TRUE
+2026-10-12,McConnelsville,FALSE
 2026-10-12,Mitchell,TRUE
 2026-10-12,Naperville,TRUE
 2026-10-12,New Holstein Family Eye Care,TRUE
@@ -6990,6 +7108,7 @@ date,location,completed
 2026-10-13,Longmont,TRUE
 2026-10-13,Madison,TRUE
 2026-10-13,Maple Grove,TRUE
+2026-10-13,McConnelsville,FALSE
 2026-10-13,Mitchell,TRUE
 2026-10-13,Naperville,TRUE
 2026-10-13,New Holstein Family Eye Care,TRUE
@@ -7049,6 +7168,7 @@ date,location,completed
 2026-10-14,Longmont,TRUE
 2026-10-14,Madison,TRUE
 2026-10-14,Maple Grove,TRUE
+2026-10-14,McConnelsville,FALSE
 2026-10-14,Mitchell,TRUE
 2026-10-14,Naperville,TRUE
 2026-10-14,New Holstein Family Eye Care,TRUE
@@ -7108,6 +7228,7 @@ date,location,completed
 2026-10-15,Longmont,TRUE
 2026-10-15,Madison,TRUE
 2026-10-15,Maple Grove,TRUE
+2026-10-15,McConnelsville,FALSE
 2026-10-15,Mitchell,TRUE
 2026-10-15,Naperville,TRUE
 2026-10-15,New Holstein Family Eye Care,TRUE
@@ -7167,6 +7288,7 @@ date,location,completed
 2026-10-16,Longmont,TRUE
 2026-10-16,Madison,TRUE
 2026-10-16,Maple Grove,TRUE
+2026-10-16,McConnelsville,FALSE
 2026-10-16,Mitchell,TRUE
 2026-10-16,Naperville,TRUE
 2026-10-16,New Holstein Family Eye Care,TRUE
@@ -7226,6 +7348,7 @@ date,location,completed
 2026-10-17,Longmont,TRUE
 2026-10-17,Madison,TRUE
 2026-10-17,Maple Grove,TRUE
+2026-10-17,McConnelsville,FALSE
 2026-10-17,Mitchell,TRUE
 2026-10-17,Naperville,TRUE
 2026-10-17,New Holstein Family Eye Care,TRUE
@@ -7285,6 +7408,7 @@ date,location,completed
 2026-10-18,Longmont,TRUE
 2026-10-18,Madison,TRUE
 2026-10-18,Maple Grove,TRUE
+2026-10-18,McConnelsville,FALSE
 2026-10-18,Mitchell,TRUE
 2026-10-18,Naperville,TRUE
 2026-10-18,New Holstein Family Eye Care,TRUE
@@ -7344,6 +7468,7 @@ date,location,completed
 2026-10-19,Longmont,TRUE
 2026-10-19,Madison,TRUE
 2026-10-19,Maple Grove,TRUE
+2026-10-19,McConnelsville,FALSE
 2026-10-19,Mitchell,TRUE
 2026-10-19,Naperville,TRUE
 2026-10-19,New Holstein Family Eye Care,TRUE
@@ -7403,6 +7528,7 @@ date,location,completed
 2026-10-20,Longmont,TRUE
 2026-10-20,Madison,FALSE
 2026-10-20,Maple Grove,TRUE
+2026-10-20,McConnelsville,FALSE
 2026-10-20,Mitchell,TRUE
 2026-10-20,Naperville,TRUE
 2026-10-20,New Holstein Family Eye Care,TRUE
@@ -7462,6 +7588,7 @@ date,location,completed
 2026-10-21,Longmont,TRUE
 2026-10-21,Madison,FALSE
 2026-10-21,Maple Grove,TRUE
+2026-10-21,McConnelsville,FALSE
 2026-10-21,Mitchell,TRUE
 2026-10-21,Naperville,TRUE
 2026-10-21,New Holstein Family Eye Care,TRUE
@@ -7521,6 +7648,7 @@ date,location,completed
 2026-10-22,Longmont,TRUE
 2026-10-22,Madison,TRUE
 2026-10-22,Maple Grove,TRUE
+2026-10-22,McConnelsville,FALSE
 2026-10-22,Mitchell,TRUE
 2026-10-22,Naperville,TRUE
 2026-10-22,New Holstein Family Eye Care,TRUE
@@ -7580,6 +7708,7 @@ date,location,completed
 2026-10-23,Longmont,TRUE
 2026-10-23,Madison,TRUE
 2026-10-23,Maple Grove,TRUE
+2026-10-23,McConnelsville,FALSE
 2026-10-23,Mitchell,TRUE
 2026-10-23,Naperville,TRUE
 2026-10-23,New Holstein Family Eye Care,TRUE
@@ -7639,6 +7768,7 @@ date,location,completed
 2026-10-24,Longmont,TRUE
 2026-10-24,Madison,TRUE
 2026-10-24,Maple Grove,TRUE
+2026-10-24,McConnelsville,FALSE
 2026-10-24,Mitchell,TRUE
 2026-10-24,Naperville,TRUE
 2026-10-24,New Holstein Family Eye Care,FALSE
@@ -7698,6 +7828,7 @@ date,location,completed
 2026-10-25,Longmont,TRUE
 2026-10-25,Madison,TRUE
 2026-10-25,Maple Grove,TRUE
+2026-10-25,McConnelsville,FALSE
 2026-10-25,Mitchell,TRUE
 2026-10-25,Naperville,TRUE
 2026-10-25,New Holstein Family Eye Care,TRUE
@@ -7757,6 +7888,7 @@ date,location,completed
 2026-10-26,Longmont,TRUE
 2026-10-26,Madison,TRUE
 2026-10-26,Maple Grove,TRUE
+2026-10-26,McConnelsville,FALSE
 2026-10-26,Mitchell,TRUE
 2026-10-26,Naperville,TRUE
 2026-10-26,New Holstein Family Eye Care,TRUE
@@ -7816,6 +7948,7 @@ date,location,completed
 2026-10-27,Longmont,TRUE
 2026-10-27,Madison,FALSE
 2026-10-27,Maple Grove,TRUE
+2026-10-27,McConnelsville,FALSE
 2026-10-27,Mitchell,TRUE
 2026-10-27,Naperville,TRUE
 2026-10-27,New Holstein Family Eye Care,TRUE
@@ -7875,6 +8008,7 @@ date,location,completed
 2026-10-28,Longmont,TRUE
 2026-10-28,Madison,FALSE
 2026-10-28,Maple Grove,TRUE
+2026-10-28,McConnelsville,FALSE
 2026-10-28,Mitchell,TRUE
 2026-10-28,Naperville,TRUE
 2026-10-28,New Holstein Family Eye Care,TRUE
@@ -7934,6 +8068,7 @@ date,location,completed
 2026-11-14,Longmont,TRUE
 2026-11-14,Madison,TRUE
 2026-11-14,Maple Grove,TRUE
+2026-11-14,McConnelsville,FALSE
 2026-11-14,Mitchell,TRUE
 2026-11-14,Naperville,TRUE
 2026-11-14,New Holstein Family Eye Care,TRUE
@@ -7993,6 +8128,7 @@ date,location,completed
 2026-11-15,Longmont,TRUE
 2026-11-15,Madison,FALSE
 2026-11-15,Maple Grove,TRUE
+2026-11-15,McConnelsville,FALSE
 2026-11-15,Mitchell,TRUE
 2026-11-15,Naperville,TRUE
 2026-11-15,New Holstein Family Eye Care,TRUE
@@ -8023,3 +8159,63 @@ date,location,completed
 2026-11-15,Waupun,TRUE
 2026-11-15,Wheaton,TRUE
 2026-11-15,Woodridge,TRUE
+2026-11-16,13th St,TRUE
+2026-11-16,Asheville,TRUE
+2026-11-16,Boston,TRUE
+2026-11-16,Boynton Beach,TRUE
+2026-11-16,Chilton Family Eye Care,TRUE
+2026-11-16,Citrus Heights,TRUE
+2026-11-16,Colchester,TRUE
+2026-11-16,Dallas,TRUE
+2026-11-16,Downtown,TRUE
+2026-11-16,East Northport,TRUE
+2026-11-16,Essex,TRUE
+2026-11-16,Eye Care Associates Jefferson,TRUE
+2026-11-16,Eye Care Associates Panora,TRUE
+2026-11-16,Eye Care Associates Perry,FALSE
+2026-11-16,Eye Care Associates Stuart,TRUE
+2026-11-16,Eyecare of Great Bend,TRUE
+2026-11-16,Eyes on Eastern,TRUE
+2026-11-16,Fort Collins,TRUE
+2026-11-16,Geneva,TRUE
+2026-11-16,Glen Mills,TRUE
+2026-11-16,Grafton Family Eye Care,TRUE
+2026-11-16,Hebron,TRUE
+2026-11-16,Irving,TRUE
+2026-11-16,Lake Mills,TRUE
+2026-11-16,Lancaster,TRUE
+2026-11-16,Larned Eye Health,TRUE
+2026-11-16,Longmont,TRUE
+2026-11-16,Madison,TRUE
+2026-11-16,Maple Grove,TRUE
+2026-11-16,McConnelsville,TRUE
+2026-11-16,Mitchell,TRUE
+2026-11-16,Naperville,TRUE
+2026-11-16,New Holstein Family Eye Care,TRUE
+2026-11-16,Omaha,TRUE
+2026-11-16,Orange City,TRUE
+2026-11-16,Orrville,TRUE
+2026-11-16,Park Hills,TRUE
+2026-11-16,Princeton,FALSE
+2026-11-16,Prosper,TRUE
+2026-11-16,Sheboygan Family Eye Care,TRUE
+2026-11-16,Tooele,TRUE
+2026-11-16,Toronto Ontario Canada,FALSE
+2026-11-16,Tulsa,TRUE
+2026-11-16,Vision Source Atwood,FALSE
+2026-11-16,Vision Source Burlington,FALSE
+2026-11-16,Vision Source Colby,FALSE
+2026-11-16,Vision Source Eye Center of the Triad Greensboro,TRUE
+2026-11-16,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-11-16,Vision Source Goodland,FALSE
+2026-11-16,Vision Source Junction City,TRUE
+2026-11-16,Vision Source Manhattan,FALSE
+2026-11-16,Vision Source Oakley,FALSE
+2026-11-16,Vision Source St Francis,FALSE
+2026-11-16,Vision Source Wamego,TRUE
+2026-11-16,Vision Source Wray,FALSE
+2026-11-16,Vision Source Yuma,FALSE
+2026-11-16,WVEA,TRUE
+2026-11-16,Waupun,TRUE
+2026-11-16,Wheaton,TRUE
+2026-11-16,Woodridge,TRUE
