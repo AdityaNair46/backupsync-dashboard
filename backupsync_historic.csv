@@ -45,11 +45,12 @@ date,location,completed
 2026-06-17,Vision Source Atwood,TRUE
 2026-06-17,Vision Source Burlington,TRUE
 2026-06-17,Vision Source Colby,TRUE
-2026-06-17,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-17,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-17,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-17,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-17,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-17,Vision Source Goodland,FALSE
 2026-06-17,Vision Source Junction City,TRUE
-2026-06-17,Vision Source Manhattan,TRUE
+2026-06-17,Vision Source Manhattan (Churned),TRUE
 2026-06-17,Vision Source Oakley,TRUE
 2026-06-17,Vision Source St Francis,TRUE
 2026-06-17,Vision Source Wamego,TRUE
@@ -105,11 +106,12 @@ date,location,completed
 2026-06-18,Vision Source Atwood,TRUE
 2026-06-18,Vision Source Burlington,TRUE
 2026-06-18,Vision Source Colby,TRUE
-2026-06-18,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-18,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-18,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-18,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-18,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-18,Vision Source Goodland,TRUE
 2026-06-18,Vision Source Junction City,TRUE
-2026-06-18,Vision Source Manhattan,TRUE
+2026-06-18,Vision Source Manhattan (Churned),TRUE
 2026-06-18,Vision Source Oakley,TRUE
 2026-06-18,Vision Source St Francis,TRUE
 2026-06-18,Vision Source Wamego,TRUE
@@ -165,11 +167,12 @@ date,location,completed
 2026-06-19,Vision Source Atwood,TRUE
 2026-06-19,Vision Source Burlington,TRUE
 2026-06-19,Vision Source Colby,FALSE
-2026-06-19,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-19,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-19,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-19,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-19,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-19,Vision Source Goodland,TRUE
 2026-06-19,Vision Source Junction City,TRUE
-2026-06-19,Vision Source Manhattan,TRUE
+2026-06-19,Vision Source Manhattan (Churned),TRUE
 2026-06-19,Vision Source Oakley,TRUE
 2026-06-19,Vision Source St Francis,TRUE
 2026-06-19,Vision Source Wamego,TRUE
@@ -225,11 +228,12 @@ date,location,completed
 2026-06-20,Vision Source Atwood,TRUE
 2026-06-20,Vision Source Burlington,TRUE
 2026-06-20,Vision Source Colby,FALSE
-2026-06-20,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-20,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-20,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-20,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-20,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-20,Vision Source Goodland,TRUE
 2026-06-20,Vision Source Junction City,TRUE
-2026-06-20,Vision Source Manhattan,TRUE
+2026-06-20,Vision Source Manhattan (Churned),TRUE
 2026-06-20,Vision Source Oakley,TRUE
 2026-06-20,Vision Source St Francis,TRUE
 2026-06-20,Vision Source Wamego,TRUE
@@ -285,11 +289,12 @@ date,location,completed
 2026-06-21,Vision Source Atwood,TRUE
 2026-06-21,Vision Source Burlington,TRUE
 2026-06-21,Vision Source Colby,TRUE
-2026-06-21,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-21,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-21,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-21,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-21,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-21,Vision Source Goodland,TRUE
 2026-06-21,Vision Source Junction City,TRUE
-2026-06-21,Vision Source Manhattan,TRUE
+2026-06-21,Vision Source Manhattan (Churned),TRUE
 2026-06-21,Vision Source Oakley,TRUE
 2026-06-21,Vision Source St Francis,FALSE
 2026-06-21,Vision Source Wamego,TRUE
@@ -345,11 +350,12 @@ date,location,completed
 2026-06-22,Vision Source Atwood,TRUE
 2026-06-22,Vision Source Burlington,TRUE
 2026-06-22,Vision Source Colby,TRUE
-2026-06-22,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-22,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-22,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-22,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-22,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-22,Vision Source Goodland,TRUE
 2026-06-22,Vision Source Junction City,TRUE
-2026-06-22,Vision Source Manhattan,TRUE
+2026-06-22,Vision Source Manhattan (Churned),TRUE
 2026-06-22,Vision Source Oakley,TRUE
 2026-06-22,Vision Source St Francis,TRUE
 2026-06-22,Vision Source Wamego,TRUE
@@ -405,11 +411,12 @@ date,location,completed
 2026-06-23,Vision Source Atwood,TRUE
 2026-06-23,Vision Source Burlington,TRUE
 2026-06-23,Vision Source Colby,TRUE
-2026-06-23,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-23,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-23,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-23,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-23,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-23,Vision Source Goodland,TRUE
 2026-06-23,Vision Source Junction City,TRUE
-2026-06-23,Vision Source Manhattan,TRUE
+2026-06-23,Vision Source Manhattan (Churned),TRUE
 2026-06-23,Vision Source Oakley,TRUE
 2026-06-23,Vision Source St Francis,TRUE
 2026-06-23,Vision Source Wamego,TRUE
@@ -465,11 +472,12 @@ date,location,completed
 2026-06-24,Vision Source Atwood,TRUE
 2026-06-24,Vision Source Burlington,TRUE
 2026-06-24,Vision Source Colby,TRUE
-2026-06-24,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-24,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-24,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-24,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-24,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-24,Vision Source Goodland,TRUE
 2026-06-24,Vision Source Junction City,TRUE
-2026-06-24,Vision Source Manhattan,TRUE
+2026-06-24,Vision Source Manhattan (Churned),TRUE
 2026-06-24,Vision Source Oakley,TRUE
 2026-06-24,Vision Source St Francis,TRUE
 2026-06-24,Vision Source Wamego,TRUE
@@ -525,11 +533,12 @@ date,location,completed
 2026-06-25,Vision Source Atwood,TRUE
 2026-06-25,Vision Source Burlington,TRUE
 2026-06-25,Vision Source Colby,TRUE
-2026-06-25,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-25,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-25,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-25,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-25,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-25,Vision Source Goodland,TRUE
 2026-06-25,Vision Source Junction City,TRUE
-2026-06-25,Vision Source Manhattan,TRUE
+2026-06-25,Vision Source Manhattan (Churned),TRUE
 2026-06-25,Vision Source Oakley,TRUE
 2026-06-25,Vision Source St Francis,TRUE
 2026-06-25,Vision Source Wamego,TRUE
@@ -585,11 +594,12 @@ date,location,completed
 2026-06-26,Vision Source Atwood,TRUE
 2026-06-26,Vision Source Burlington,TRUE
 2026-06-26,Vision Source Colby,TRUE
-2026-06-26,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-26,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-26,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-26,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-26,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-26,Vision Source Goodland,TRUE
 2026-06-26,Vision Source Junction City,TRUE
-2026-06-26,Vision Source Manhattan,TRUE
+2026-06-26,Vision Source Manhattan (Churned),TRUE
 2026-06-26,Vision Source Oakley,TRUE
 2026-06-26,Vision Source St Francis,TRUE
 2026-06-26,Vision Source Wamego,TRUE
@@ -645,11 +655,12 @@ date,location,completed
 2026-06-27,Vision Source Atwood,TRUE
 2026-06-27,Vision Source Burlington,FALSE
 2026-06-27,Vision Source Colby,TRUE
-2026-06-27,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-27,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-27,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-27,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-27,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-27,Vision Source Goodland,TRUE
 2026-06-27,Vision Source Junction City,TRUE
-2026-06-27,Vision Source Manhattan,TRUE
+2026-06-27,Vision Source Manhattan (Churned),TRUE
 2026-06-27,Vision Source Oakley,TRUE
 2026-06-27,Vision Source St Francis,TRUE
 2026-06-27,Vision Source Wamego,TRUE
@@ -705,11 +716,12 @@ date,location,completed
 2026-06-28,Vision Source Atwood,TRUE
 2026-06-28,Vision Source Burlington,TRUE
 2026-06-28,Vision Source Colby,TRUE
-2026-06-28,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-28,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-28,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-28,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-28,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-28,Vision Source Goodland,TRUE
 2026-06-28,Vision Source Junction City,TRUE
-2026-06-28,Vision Source Manhattan,TRUE
+2026-06-28,Vision Source Manhattan (Churned),TRUE
 2026-06-28,Vision Source Oakley,TRUE
 2026-06-28,Vision Source St Francis,TRUE
 2026-06-28,Vision Source Wamego,TRUE
@@ -765,11 +777,12 @@ date,location,completed
 2026-06-29,Vision Source Atwood,TRUE
 2026-06-29,Vision Source Burlington,TRUE
 2026-06-29,Vision Source Colby,TRUE
-2026-06-29,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-29,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-29,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-29,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-29,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-29,Vision Source Goodland,TRUE
 2026-06-29,Vision Source Junction City,TRUE
-2026-06-29,Vision Source Manhattan,TRUE
+2026-06-29,Vision Source Manhattan (Churned),TRUE
 2026-06-29,Vision Source Oakley,TRUE
 2026-06-29,Vision Source St Francis,TRUE
 2026-06-29,Vision Source Wamego,TRUE
@@ -825,11 +838,12 @@ date,location,completed
 2026-06-30,Vision Source Atwood,TRUE
 2026-06-30,Vision Source Burlington,TRUE
 2026-06-30,Vision Source Colby,TRUE
-2026-06-30,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-06-30,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-06-30,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-06-30,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-06-30,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-06-30,Vision Source Goodland,TRUE
 2026-06-30,Vision Source Junction City,TRUE
-2026-06-30,Vision Source Manhattan,TRUE
+2026-06-30,Vision Source Manhattan (Churned),TRUE
 2026-06-30,Vision Source Oakley,TRUE
 2026-06-30,Vision Source St Francis,TRUE
 2026-06-30,Vision Source Wamego,TRUE
@@ -885,11 +899,12 @@ date,location,completed
 2026-07-01,Vision Source Atwood,FALSE
 2026-07-01,Vision Source Burlington,TRUE
 2026-07-01,Vision Source Colby,FALSE
-2026-07-01,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-07-01,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-01,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-01,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-07-01,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-01,Vision Source Goodland,TRUE
 2026-07-01,Vision Source Junction City,FALSE
-2026-07-01,Vision Source Manhattan,TRUE
+2026-07-01,Vision Source Manhattan (Churned),TRUE
 2026-07-01,Vision Source Oakley,FALSE
 2026-07-01,Vision Source St Francis,FALSE
 2026-07-01,Vision Source Wamego,TRUE
@@ -945,11 +960,12 @@ date,location,completed
 2026-07-02,Vision Source Atwood,TRUE
 2026-07-02,Vision Source Burlington,TRUE
 2026-07-02,Vision Source Colby,TRUE
-2026-07-02,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-02,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-02,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-02,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-02,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-02,Vision Source Goodland,TRUE
 2026-07-02,Vision Source Junction City,TRUE
-2026-07-02,Vision Source Manhattan,TRUE
+2026-07-02,Vision Source Manhattan (Churned),TRUE
 2026-07-02,Vision Source Oakley,TRUE
 2026-07-02,Vision Source St Francis,TRUE
 2026-07-02,Vision Source Wamego,TRUE
@@ -1005,11 +1021,12 @@ date,location,completed
 2026-07-03,Vision Source Atwood,TRUE
 2026-07-03,Vision Source Burlington,TRUE
 2026-07-03,Vision Source Colby,TRUE
-2026-07-03,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-03,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-03,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-03,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-03,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-03,Vision Source Goodland,TRUE
 2026-07-03,Vision Source Junction City,TRUE
-2026-07-03,Vision Source Manhattan,TRUE
+2026-07-03,Vision Source Manhattan (Churned),TRUE
 2026-07-03,Vision Source Oakley,TRUE
 2026-07-03,Vision Source St Francis,TRUE
 2026-07-03,Vision Source Wamego,TRUE
@@ -1065,11 +1082,12 @@ date,location,completed
 2026-07-04,Vision Source Atwood,TRUE
 2026-07-04,Vision Source Burlington,FALSE
 2026-07-04,Vision Source Colby,FALSE
-2026-07-04,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-04,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-04,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-04,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-04,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-04,Vision Source Goodland,TRUE
 2026-07-04,Vision Source Junction City,TRUE
-2026-07-04,Vision Source Manhattan,TRUE
+2026-07-04,Vision Source Manhattan (Churned),TRUE
 2026-07-04,Vision Source Oakley,TRUE
 2026-07-04,Vision Source St Francis,TRUE
 2026-07-04,Vision Source Wamego,TRUE
@@ -1125,11 +1143,12 @@ date,location,completed
 2026-07-05,Vision Source Atwood,TRUE
 2026-07-05,Vision Source Burlington,FALSE
 2026-07-05,Vision Source Colby,TRUE
-2026-07-05,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-05,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-05,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-05,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-05,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-05,Vision Source Goodland,TRUE
 2026-07-05,Vision Source Junction City,TRUE
-2026-07-05,Vision Source Manhattan,TRUE
+2026-07-05,Vision Source Manhattan (Churned),TRUE
 2026-07-05,Vision Source Oakley,TRUE
 2026-07-05,Vision Source St Francis,TRUE
 2026-07-05,Vision Source Wamego,TRUE
@@ -1185,11 +1204,12 @@ date,location,completed
 2026-07-06,Vision Source Atwood,TRUE
 2026-07-06,Vision Source Burlington,TRUE
 2026-07-06,Vision Source Colby,TRUE
-2026-07-06,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-06,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-06,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-06,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-06,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-06,Vision Source Goodland,TRUE
 2026-07-06,Vision Source Junction City,TRUE
-2026-07-06,Vision Source Manhattan,TRUE
+2026-07-06,Vision Source Manhattan (Churned),TRUE
 2026-07-06,Vision Source Oakley,TRUE
 2026-07-06,Vision Source St Francis,TRUE
 2026-07-06,Vision Source Wamego,TRUE
@@ -1245,11 +1265,12 @@ date,location,completed
 2026-07-07,Vision Source Atwood,TRUE
 2026-07-07,Vision Source Burlington,TRUE
 2026-07-07,Vision Source Colby,TRUE
-2026-07-07,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-07,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-07,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-07,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-07,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-07,Vision Source Goodland,TRUE
 2026-07-07,Vision Source Junction City,TRUE
-2026-07-07,Vision Source Manhattan,TRUE
+2026-07-07,Vision Source Manhattan (Churned),TRUE
 2026-07-07,Vision Source Oakley,TRUE
 2026-07-07,Vision Source St Francis,TRUE
 2026-07-07,Vision Source Wamego,TRUE
@@ -1305,11 +1326,12 @@ date,location,completed
 2026-07-08,Vision Source Atwood,TRUE
 2026-07-08,Vision Source Burlington,TRUE
 2026-07-08,Vision Source Colby,TRUE
-2026-07-08,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-08,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-08,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-08,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-08,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-08,Vision Source Goodland,TRUE
 2026-07-08,Vision Source Junction City,TRUE
-2026-07-08,Vision Source Manhattan,TRUE
+2026-07-08,Vision Source Manhattan (Churned),TRUE
 2026-07-08,Vision Source Oakley,TRUE
 2026-07-08,Vision Source St Francis,TRUE
 2026-07-08,Vision Source Wamego,TRUE
@@ -1365,11 +1387,12 @@ date,location,completed
 2026-07-09,Vision Source Atwood,TRUE
 2026-07-09,Vision Source Burlington,TRUE
 2026-07-09,Vision Source Colby,TRUE
-2026-07-09,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-09,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-09,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-09,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-09,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-09,Vision Source Goodland,TRUE
 2026-07-09,Vision Source Junction City,TRUE
-2026-07-09,Vision Source Manhattan,TRUE
+2026-07-09,Vision Source Manhattan (Churned),TRUE
 2026-07-09,Vision Source Oakley,TRUE
 2026-07-09,Vision Source St Francis,TRUE
 2026-07-09,Vision Source Wamego,TRUE
@@ -1425,11 +1448,12 @@ date,location,completed
 2026-07-10,Vision Source Atwood,TRUE
 2026-07-10,Vision Source Burlington,TRUE
 2026-07-10,Vision Source Colby,TRUE
-2026-07-10,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-10,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-10,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-10,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-10,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-10,Vision Source Goodland,TRUE
 2026-07-10,Vision Source Junction City,TRUE
-2026-07-10,Vision Source Manhattan,TRUE
+2026-07-10,Vision Source Manhattan (Churned),TRUE
 2026-07-10,Vision Source Oakley,TRUE
 2026-07-10,Vision Source St Francis,TRUE
 2026-07-10,Vision Source Wamego,TRUE
@@ -1485,11 +1509,12 @@ date,location,completed
 2026-07-11,Vision Source Atwood,TRUE
 2026-07-11,Vision Source Burlington,TRUE
 2026-07-11,Vision Source Colby,TRUE
-2026-07-11,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-11,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-11,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-11,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-11,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-11,Vision Source Goodland,TRUE
 2026-07-11,Vision Source Junction City,TRUE
-2026-07-11,Vision Source Manhattan,TRUE
+2026-07-11,Vision Source Manhattan (Churned),TRUE
 2026-07-11,Vision Source Oakley,TRUE
 2026-07-11,Vision Source St Francis,FALSE
 2026-07-11,Vision Source Wamego,FALSE
@@ -1545,11 +1570,12 @@ date,location,completed
 2026-07-12,Vision Source Atwood,TRUE
 2026-07-12,Vision Source Burlington,TRUE
 2026-07-12,Vision Source Colby,TRUE
-2026-07-12,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-12,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-12,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-12,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-12,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-12,Vision Source Goodland,TRUE
 2026-07-12,Vision Source Junction City,TRUE
-2026-07-12,Vision Source Manhattan,TRUE
+2026-07-12,Vision Source Manhattan (Churned),TRUE
 2026-07-12,Vision Source Oakley,TRUE
 2026-07-12,Vision Source St Francis,TRUE
 2026-07-12,Vision Source Wamego,TRUE
@@ -1605,11 +1631,12 @@ date,location,completed
 2026-07-13,Vision Source Atwood,TRUE
 2026-07-13,Vision Source Burlington,TRUE
 2026-07-13,Vision Source Colby,TRUE
-2026-07-13,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-13,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-13,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-13,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-13,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-13,Vision Source Goodland,TRUE
 2026-07-13,Vision Source Junction City,TRUE
-2026-07-13,Vision Source Manhattan,TRUE
+2026-07-13,Vision Source Manhattan (Churned),TRUE
 2026-07-13,Vision Source Oakley,TRUE
 2026-07-13,Vision Source St Francis,TRUE
 2026-07-13,Vision Source Wamego,TRUE
@@ -1665,11 +1692,12 @@ date,location,completed
 2026-07-14,Vision Source Atwood,TRUE
 2026-07-14,Vision Source Burlington,TRUE
 2026-07-14,Vision Source Colby,TRUE
-2026-07-14,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-14,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-14,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-14,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-14,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-14,Vision Source Goodland,TRUE
 2026-07-14,Vision Source Junction City,TRUE
-2026-07-14,Vision Source Manhattan,TRUE
+2026-07-14,Vision Source Manhattan (Churned),TRUE
 2026-07-14,Vision Source Oakley,TRUE
 2026-07-14,Vision Source St Francis,TRUE
 2026-07-14,Vision Source Wamego,TRUE
@@ -1725,11 +1753,12 @@ date,location,completed
 2026-07-15,Vision Source Atwood,TRUE
 2026-07-15,Vision Source Burlington,TRUE
 2026-07-15,Vision Source Colby,TRUE
-2026-07-15,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-15,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-15,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-15,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-15,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-15,Vision Source Goodland,TRUE
 2026-07-15,Vision Source Junction City,TRUE
-2026-07-15,Vision Source Manhattan,TRUE
+2026-07-15,Vision Source Manhattan (Churned),TRUE
 2026-07-15,Vision Source Oakley,TRUE
 2026-07-15,Vision Source St Francis,TRUE
 2026-07-15,Vision Source Wamego,TRUE
@@ -1785,11 +1814,12 @@ date,location,completed
 2026-07-16,Vision Source Atwood,TRUE
 2026-07-16,Vision Source Burlington,TRUE
 2026-07-16,Vision Source Colby,TRUE
-2026-07-16,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-16,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-16,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-16,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-16,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-16,Vision Source Goodland,TRUE
 2026-07-16,Vision Source Junction City,TRUE
-2026-07-16,Vision Source Manhattan,TRUE
+2026-07-16,Vision Source Manhattan (Churned),TRUE
 2026-07-16,Vision Source Oakley,TRUE
 2026-07-16,Vision Source St Francis,TRUE
 2026-07-16,Vision Source Wamego,TRUE
@@ -1845,11 +1875,12 @@ date,location,completed
 2026-07-17,Vision Source Atwood,TRUE
 2026-07-17,Vision Source Burlington,TRUE
 2026-07-17,Vision Source Colby,TRUE
-2026-07-17,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-17,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-17,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-17,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-17,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-17,Vision Source Goodland,TRUE
 2026-07-17,Vision Source Junction City,TRUE
-2026-07-17,Vision Source Manhattan,TRUE
+2026-07-17,Vision Source Manhattan (Churned),TRUE
 2026-07-17,Vision Source Oakley,TRUE
 2026-07-17,Vision Source St Francis,TRUE
 2026-07-17,Vision Source Wamego,TRUE
@@ -1905,11 +1936,12 @@ date,location,completed
 2026-07-18,Vision Source Atwood,TRUE
 2026-07-18,Vision Source Burlington,TRUE
 2026-07-18,Vision Source Colby,TRUE
-2026-07-18,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-18,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-18,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-18,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-18,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-18,Vision Source Goodland,FALSE
 2026-07-18,Vision Source Junction City,TRUE
-2026-07-18,Vision Source Manhattan,TRUE
+2026-07-18,Vision Source Manhattan (Churned),TRUE
 2026-07-18,Vision Source Oakley,TRUE
 2026-07-18,Vision Source St Francis,TRUE
 2026-07-18,Vision Source Wamego,TRUE
@@ -1965,11 +1997,12 @@ date,location,completed
 2026-07-19,Vision Source Atwood,TRUE
 2026-07-19,Vision Source Burlington,TRUE
 2026-07-19,Vision Source Colby,TRUE
-2026-07-19,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-19,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-19,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-19,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-19,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-19,Vision Source Goodland,FALSE
 2026-07-19,Vision Source Junction City,TRUE
-2026-07-19,Vision Source Manhattan,TRUE
+2026-07-19,Vision Source Manhattan (Churned),TRUE
 2026-07-19,Vision Source Oakley,TRUE
 2026-07-19,Vision Source St Francis,TRUE
 2026-07-19,Vision Source Wamego,TRUE
@@ -2025,11 +2058,12 @@ date,location,completed
 2026-07-20,Vision Source Atwood,TRUE
 2026-07-20,Vision Source Burlington,TRUE
 2026-07-20,Vision Source Colby,TRUE
-2026-07-20,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-20,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-20,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-20,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-20,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-20,Vision Source Goodland,TRUE
 2026-07-20,Vision Source Junction City,TRUE
-2026-07-20,Vision Source Manhattan,FALSE
+2026-07-20,Vision Source Manhattan (Churned),FALSE
 2026-07-20,Vision Source Oakley,TRUE
 2026-07-20,Vision Source St Francis,TRUE
 2026-07-20,Vision Source Wamego,TRUE
@@ -2085,11 +2119,12 @@ date,location,completed
 2026-07-21,Vision Source Atwood,TRUE
 2026-07-21,Vision Source Burlington,TRUE
 2026-07-21,Vision Source Colby,TRUE
-2026-07-21,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-21,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-21,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-21,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-21,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-21,Vision Source Goodland,TRUE
 2026-07-21,Vision Source Junction City,TRUE
-2026-07-21,Vision Source Manhattan,TRUE
+2026-07-21,Vision Source Manhattan (Churned),TRUE
 2026-07-21,Vision Source Oakley,TRUE
 2026-07-21,Vision Source St Francis,TRUE
 2026-07-21,Vision Source Wamego,TRUE
@@ -2145,11 +2180,12 @@ date,location,completed
 2026-07-22,Vision Source Atwood,TRUE
 2026-07-22,Vision Source Burlington,TRUE
 2026-07-22,Vision Source Colby,FALSE
-2026-07-22,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-07-22,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-22,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-22,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-07-22,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-22,Vision Source Goodland,TRUE
 2026-07-22,Vision Source Junction City,TRUE
-2026-07-22,Vision Source Manhattan,TRUE
+2026-07-22,Vision Source Manhattan (Churned),TRUE
 2026-07-22,Vision Source Oakley,TRUE
 2026-07-22,Vision Source St Francis,TRUE
 2026-07-22,Vision Source Wamego,TRUE
@@ -2205,11 +2241,12 @@ date,location,completed
 2026-07-23,Vision Source Atwood,TRUE
 2026-07-23,Vision Source Burlington,TRUE
 2026-07-23,Vision Source Colby,TRUE
-2026-07-23,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-23,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-23,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-23,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-23,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-23,Vision Source Goodland,TRUE
 2026-07-23,Vision Source Junction City,TRUE
-2026-07-23,Vision Source Manhattan,TRUE
+2026-07-23,Vision Source Manhattan (Churned),TRUE
 2026-07-23,Vision Source Oakley,TRUE
 2026-07-23,Vision Source St Francis,TRUE
 2026-07-23,Vision Source Wamego,TRUE
@@ -2265,11 +2302,12 @@ date,location,completed
 2026-07-24,Vision Source Atwood,TRUE
 2026-07-24,Vision Source Burlington,TRUE
 2026-07-24,Vision Source Colby,TRUE
-2026-07-24,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-24,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-24,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-24,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-24,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-24,Vision Source Goodland,TRUE
 2026-07-24,Vision Source Junction City,TRUE
-2026-07-24,Vision Source Manhattan,TRUE
+2026-07-24,Vision Source Manhattan (Churned),TRUE
 2026-07-24,Vision Source Oakley,TRUE
 2026-07-24,Vision Source St Francis,TRUE
 2026-07-24,Vision Source Wamego,TRUE
@@ -2325,11 +2363,12 @@ date,location,completed
 2026-07-25,Vision Source Atwood,TRUE
 2026-07-25,Vision Source Burlington,TRUE
 2026-07-25,Vision Source Colby,TRUE
-2026-07-25,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-25,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-25,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-25,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-25,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-25,Vision Source Goodland,TRUE
 2026-07-25,Vision Source Junction City,TRUE
-2026-07-25,Vision Source Manhattan,TRUE
+2026-07-25,Vision Source Manhattan (Churned),TRUE
 2026-07-25,Vision Source Oakley,TRUE
 2026-07-25,Vision Source St Francis,TRUE
 2026-07-25,Vision Source Wamego,TRUE
@@ -2385,11 +2424,12 @@ date,location,completed
 2026-07-26,Vision Source Atwood,TRUE
 2026-07-26,Vision Source Burlington,TRUE
 2026-07-26,Vision Source Colby,TRUE
-2026-07-26,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-26,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-26,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-26,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-26,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-26,Vision Source Goodland,TRUE
 2026-07-26,Vision Source Junction City,TRUE
-2026-07-26,Vision Source Manhattan,TRUE
+2026-07-26,Vision Source Manhattan (Churned),TRUE
 2026-07-26,Vision Source Oakley,TRUE
 2026-07-26,Vision Source St Francis,TRUE
 2026-07-26,Vision Source Wamego,TRUE
@@ -2445,11 +2485,12 @@ date,location,completed
 2026-07-27,Vision Source Atwood,FALSE
 2026-07-27,Vision Source Burlington,FALSE
 2026-07-27,Vision Source Colby,FALSE
-2026-07-27,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-27,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-27,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-27,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-27,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-27,Vision Source Goodland,FALSE
 2026-07-27,Vision Source Junction City,TRUE
-2026-07-27,Vision Source Manhattan,TRUE
+2026-07-27,Vision Source Manhattan (Churned),TRUE
 2026-07-27,Vision Source Oakley,FALSE
 2026-07-27,Vision Source St Francis,FALSE
 2026-07-27,Vision Source Wamego,TRUE
@@ -2505,11 +2546,12 @@ date,location,completed
 2026-07-28,Vision Source Atwood,TRUE
 2026-07-28,Vision Source Burlington,TRUE
 2026-07-28,Vision Source Colby,TRUE
-2026-07-28,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-28,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-28,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-28,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-28,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-28,Vision Source Goodland,TRUE
 2026-07-28,Vision Source Junction City,TRUE
-2026-07-28,Vision Source Manhattan,TRUE
+2026-07-28,Vision Source Manhattan (Churned),TRUE
 2026-07-28,Vision Source Oakley,TRUE
 2026-07-28,Vision Source St Francis,TRUE
 2026-07-28,Vision Source Wamego,TRUE
@@ -2565,11 +2607,12 @@ date,location,completed
 2026-07-29,Vision Source Atwood,FALSE
 2026-07-29,Vision Source Burlington,FALSE
 2026-07-29,Vision Source Colby,TRUE
-2026-07-29,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-29,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-29,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-29,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-29,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-29,Vision Source Goodland,FALSE
 2026-07-29,Vision Source Junction City,TRUE
-2026-07-29,Vision Source Manhattan,TRUE
+2026-07-29,Vision Source Manhattan (Churned),TRUE
 2026-07-29,Vision Source Oakley,FALSE
 2026-07-29,Vision Source St Francis,TRUE
 2026-07-29,Vision Source Wamego,TRUE
@@ -2625,11 +2668,12 @@ date,location,completed
 2026-07-30,Vision Source Atwood,TRUE
 2026-07-30,Vision Source Burlington,TRUE
 2026-07-30,Vision Source Colby,TRUE
-2026-07-30,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-30,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-30,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-30,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-30,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-30,Vision Source Goodland,FALSE
 2026-07-30,Vision Source Junction City,TRUE
-2026-07-30,Vision Source Manhattan,TRUE
+2026-07-30,Vision Source Manhattan (Churned),TRUE
 2026-07-30,Vision Source Oakley,FALSE
 2026-07-30,Vision Source St Francis,TRUE
 2026-07-30,Vision Source Wamego,TRUE
@@ -2685,11 +2729,12 @@ date,location,completed
 2026-07-31,Vision Source Atwood,FALSE
 2026-07-31,Vision Source Burlington,FALSE
 2026-07-31,Vision Source Colby,TRUE
-2026-07-31,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-07-31,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-07-31,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-07-31,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-07-31,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-07-31,Vision Source Goodland,TRUE
 2026-07-31,Vision Source Junction City,TRUE
-2026-07-31,Vision Source Manhattan,TRUE
+2026-07-31,Vision Source Manhattan (Churned),TRUE
 2026-07-31,Vision Source Oakley,FALSE
 2026-07-31,Vision Source St Francis,TRUE
 2026-07-31,Vision Source Wamego,TRUE
@@ -2745,11 +2790,12 @@ date,location,completed
 2026-08-01,Vision Source Atwood,TRUE
 2026-08-01,Vision Source Burlington,TRUE
 2026-08-01,Vision Source Colby,FALSE
-2026-08-01,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-01,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-01,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-01,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-01,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-01,Vision Source Goodland,FALSE
 2026-08-01,Vision Source Junction City,TRUE
-2026-08-01,Vision Source Manhattan,TRUE
+2026-08-01,Vision Source Manhattan (Churned),TRUE
 2026-08-01,Vision Source Oakley,FALSE
 2026-08-01,Vision Source St Francis,TRUE
 2026-08-01,Vision Source Wamego,TRUE
@@ -2805,11 +2851,12 @@ date,location,completed
 2026-08-02,Vision Source Atwood,TRUE
 2026-08-02,Vision Source Burlington,TRUE
 2026-08-02,Vision Source Colby,TRUE
-2026-08-02,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-02,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-02,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-02,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-02,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-02,Vision Source Goodland,TRUE
 2026-08-02,Vision Source Junction City,TRUE
-2026-08-02,Vision Source Manhattan,TRUE
+2026-08-02,Vision Source Manhattan (Churned),TRUE
 2026-08-02,Vision Source Oakley,FALSE
 2026-08-02,Vision Source St Francis,TRUE
 2026-08-02,Vision Source Wamego,TRUE
@@ -2865,11 +2912,12 @@ date,location,completed
 2026-08-03,Vision Source Atwood,TRUE
 2026-08-03,Vision Source Burlington,FALSE
 2026-08-03,Vision Source Colby,TRUE
-2026-08-03,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-03,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-03,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-03,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-03,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-03,Vision Source Goodland,TRUE
 2026-08-03,Vision Source Junction City,TRUE
-2026-08-03,Vision Source Manhattan,TRUE
+2026-08-03,Vision Source Manhattan (Churned),TRUE
 2026-08-03,Vision Source Oakley,TRUE
 2026-08-03,Vision Source St Francis,TRUE
 2026-08-03,Vision Source Wamego,TRUE
@@ -2925,11 +2973,12 @@ date,location,completed
 2026-08-04,Vision Source Atwood,TRUE
 2026-08-04,Vision Source Burlington,TRUE
 2026-08-04,Vision Source Colby,TRUE
-2026-08-04,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-04,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-04,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-04,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-04,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-04,Vision Source Goodland,TRUE
 2026-08-04,Vision Source Junction City,TRUE
-2026-08-04,Vision Source Manhattan,TRUE
+2026-08-04,Vision Source Manhattan (Churned),TRUE
 2026-08-04,Vision Source Oakley,TRUE
 2026-08-04,Vision Source St Francis,TRUE
 2026-08-04,Vision Source Wamego,TRUE
@@ -2985,11 +3034,12 @@ date,location,completed
 2026-08-05,Vision Source Atwood,TRUE
 2026-08-05,Vision Source Burlington,FALSE
 2026-08-05,Vision Source Colby,TRUE
-2026-08-05,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-05,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-05,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-05,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-05,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-05,Vision Source Goodland,FALSE
 2026-08-05,Vision Source Junction City,TRUE
-2026-08-05,Vision Source Manhattan,TRUE
+2026-08-05,Vision Source Manhattan (Churned),TRUE
 2026-08-05,Vision Source Oakley,TRUE
 2026-08-05,Vision Source St Francis,TRUE
 2026-08-05,Vision Source Wamego,TRUE
@@ -3045,11 +3095,12 @@ date,location,completed
 2026-08-06,Vision Source Atwood,FALSE
 2026-08-06,Vision Source Burlington,FALSE
 2026-08-06,Vision Source Colby,TRUE
-2026-08-06,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-06,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-06,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-06,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-06,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-06,Vision Source Goodland,TRUE
 2026-08-06,Vision Source Junction City,TRUE
-2026-08-06,Vision Source Manhattan,TRUE
+2026-08-06,Vision Source Manhattan (Churned),TRUE
 2026-08-06,Vision Source Oakley,FALSE
 2026-08-06,Vision Source St Francis,TRUE
 2026-08-06,Vision Source Wamego,TRUE
@@ -3105,11 +3156,12 @@ date,location,completed
 2026-08-07,Vision Source Atwood,TRUE
 2026-08-07,Vision Source Burlington,FALSE
 2026-08-07,Vision Source Colby,FALSE
-2026-08-07,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-08-07,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-07,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-07,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-08-07,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-07,Vision Source Goodland,FALSE
 2026-08-07,Vision Source Junction City,FALSE
-2026-08-07,Vision Source Manhattan,FALSE
+2026-08-07,Vision Source Manhattan (Churned),FALSE
 2026-08-07,Vision Source Oakley,TRUE
 2026-08-07,Vision Source St Francis,TRUE
 2026-08-07,Vision Source Wamego,FALSE
@@ -3165,11 +3217,12 @@ date,location,completed
 2026-08-08,Vision Source Atwood,TRUE
 2026-08-08,Vision Source Burlington,FALSE
 2026-08-08,Vision Source Colby,FALSE
-2026-08-08,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-08-08,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-08,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-08,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-08-08,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-08,Vision Source Goodland,FALSE
 2026-08-08,Vision Source Junction City,FALSE
-2026-08-08,Vision Source Manhattan,FALSE
+2026-08-08,Vision Source Manhattan (Churned),FALSE
 2026-08-08,Vision Source Oakley,TRUE
 2026-08-08,Vision Source St Francis,TRUE
 2026-08-08,Vision Source Wamego,FALSE
@@ -3225,11 +3278,12 @@ date,location,completed
 2026-08-09,Vision Source Atwood,FALSE
 2026-08-09,Vision Source Burlington,FALSE
 2026-08-09,Vision Source Colby,FALSE
-2026-08-09,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-08-09,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-09,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-09,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-08-09,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-09,Vision Source Goodland,FALSE
 2026-08-09,Vision Source Junction City,FALSE
-2026-08-09,Vision Source Manhattan,FALSE
+2026-08-09,Vision Source Manhattan (Churned),FALSE
 2026-08-09,Vision Source Oakley,TRUE
 2026-08-09,Vision Source St Francis,TRUE
 2026-08-09,Vision Source Wamego,FALSE
@@ -3285,11 +3339,12 @@ date,location,completed
 2026-08-10,Vision Source Atwood,FALSE
 2026-08-10,Vision Source Burlington,FALSE
 2026-08-10,Vision Source Colby,FALSE
-2026-08-10,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-08-10,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-10,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-10,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-08-10,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-10,Vision Source Goodland,FALSE
 2026-08-10,Vision Source Junction City,FALSE
-2026-08-10,Vision Source Manhattan,FALSE
+2026-08-10,Vision Source Manhattan (Churned),FALSE
 2026-08-10,Vision Source Oakley,TRUE
 2026-08-10,Vision Source St Francis,TRUE
 2026-08-10,Vision Source Wamego,TRUE
@@ -3345,11 +3400,12 @@ date,location,completed
 2026-08-11,Vision Source Atwood,TRUE
 2026-08-11,Vision Source Burlington,TRUE
 2026-08-11,Vision Source Colby,TRUE
-2026-08-11,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-11,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-08-11,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-11,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-11,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-08-11,Vision Source Goodland,TRUE
 2026-08-11,Vision Source Junction City,TRUE
-2026-08-11,Vision Source Manhattan,FALSE
+2026-08-11,Vision Source Manhattan (Churned),FALSE
 2026-08-11,Vision Source Oakley,FALSE
 2026-08-11,Vision Source St Francis,FALSE
 2026-08-11,Vision Source Wamego,TRUE
@@ -3405,11 +3461,12 @@ date,location,completed
 2026-08-12,Vision Source Atwood,TRUE
 2026-08-12,Vision Source Burlington,TRUE
 2026-08-12,Vision Source Colby,TRUE
-2026-08-12,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-12,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-12,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-12,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-12,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-12,Vision Source Goodland,TRUE
 2026-08-12,Vision Source Junction City,TRUE
-2026-08-12,Vision Source Manhattan,FALSE
+2026-08-12,Vision Source Manhattan (Churned),FALSE
 2026-08-12,Vision Source Oakley,TRUE
 2026-08-12,Vision Source St Francis,TRUE
 2026-08-12,Vision Source Wamego,TRUE
@@ -3465,11 +3522,12 @@ date,location,completed
 2026-08-13,Vision Source Atwood,TRUE
 2026-08-13,Vision Source Burlington,TRUE
 2026-08-13,Vision Source Colby,TRUE
-2026-08-13,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-13,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-13,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-13,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-13,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-13,Vision Source Goodland,TRUE
 2026-08-13,Vision Source Junction City,TRUE
-2026-08-13,Vision Source Manhattan,FALSE
+2026-08-13,Vision Source Manhattan (Churned),FALSE
 2026-08-13,Vision Source Oakley,TRUE
 2026-08-13,Vision Source St Francis,TRUE
 2026-08-13,Vision Source Wamego,TRUE
@@ -3525,11 +3583,12 @@ date,location,completed
 2026-08-14,Vision Source Atwood,TRUE
 2026-08-14,Vision Source Burlington,TRUE
 2026-08-14,Vision Source Colby,TRUE
-2026-08-14,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-14,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-14,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-14,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-14,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-14,Vision Source Goodland,TRUE
 2026-08-14,Vision Source Junction City,TRUE
-2026-08-14,Vision Source Manhattan,FALSE
+2026-08-14,Vision Source Manhattan (Churned),FALSE
 2026-08-14,Vision Source Oakley,TRUE
 2026-08-14,Vision Source St Francis,TRUE
 2026-08-14,Vision Source Wamego,TRUE
@@ -3585,11 +3644,12 @@ date,location,completed
 2026-08-15,Vision Source Atwood,FALSE
 2026-08-15,Vision Source Burlington,TRUE
 2026-08-15,Vision Source Colby,TRUE
-2026-08-15,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-15,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-15,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-15,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-15,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-15,Vision Source Goodland,TRUE
 2026-08-15,Vision Source Junction City,TRUE
-2026-08-15,Vision Source Manhattan,FALSE
+2026-08-15,Vision Source Manhattan (Churned),FALSE
 2026-08-15,Vision Source Oakley,TRUE
 2026-08-15,Vision Source St Francis,TRUE
 2026-08-15,Vision Source Wamego,TRUE
@@ -3645,11 +3705,12 @@ date,location,completed
 2026-08-16,Vision Source Atwood,TRUE
 2026-08-16,Vision Source Burlington,TRUE
 2026-08-16,Vision Source Colby,TRUE
-2026-08-16,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-16,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-16,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-16,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-16,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-16,Vision Source Goodland,TRUE
 2026-08-16,Vision Source Junction City,TRUE
-2026-08-16,Vision Source Manhattan,FALSE
+2026-08-16,Vision Source Manhattan (Churned),FALSE
 2026-08-16,Vision Source Oakley,TRUE
 2026-08-16,Vision Source St Francis,TRUE
 2026-08-16,Vision Source Wamego,TRUE
@@ -3705,11 +3766,12 @@ date,location,completed
 2026-08-17,Vision Source Atwood,TRUE
 2026-08-17,Vision Source Burlington,TRUE
 2026-08-17,Vision Source Colby,TRUE
-2026-08-17,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-17,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-17,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-17,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-17,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-17,Vision Source Goodland,TRUE
 2026-08-17,Vision Source Junction City,TRUE
-2026-08-17,Vision Source Manhattan,FALSE
+2026-08-17,Vision Source Manhattan (Churned),FALSE
 2026-08-17,Vision Source Oakley,TRUE
 2026-08-17,Vision Source St Francis,TRUE
 2026-08-17,Vision Source Wamego,TRUE
@@ -3765,11 +3827,12 @@ date,location,completed
 2026-08-18,Vision Source Atwood,TRUE
 2026-08-18,Vision Source Burlington,TRUE
 2026-08-18,Vision Source Colby,TRUE
-2026-08-18,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-18,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-18,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-18,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-18,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-18,Vision Source Goodland,TRUE
 2026-08-18,Vision Source Junction City,TRUE
-2026-08-18,Vision Source Manhattan,FALSE
+2026-08-18,Vision Source Manhattan (Churned),FALSE
 2026-08-18,Vision Source Oakley,TRUE
 2026-08-18,Vision Source St Francis,TRUE
 2026-08-18,Vision Source Wamego,TRUE
@@ -3825,11 +3888,12 @@ date,location,completed
 2026-08-19,Vision Source Atwood,TRUE
 2026-08-19,Vision Source Burlington,TRUE
 2026-08-19,Vision Source Colby,TRUE
-2026-08-19,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-19,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-19,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-19,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-19,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-19,Vision Source Goodland,TRUE
 2026-08-19,Vision Source Junction City,TRUE
-2026-08-19,Vision Source Manhattan,FALSE
+2026-08-19,Vision Source Manhattan (Churned),FALSE
 2026-08-19,Vision Source Oakley,TRUE
 2026-08-19,Vision Source St Francis,TRUE
 2026-08-19,Vision Source Wamego,TRUE
@@ -3885,11 +3949,12 @@ date,location,completed
 2026-08-20,Vision Source Atwood,FALSE
 2026-08-20,Vision Source Burlington,FALSE
 2026-08-20,Vision Source Colby,FALSE
-2026-08-20,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-08-20,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-08-20,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-20,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-08-20,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-08-20,Vision Source Goodland,FALSE
 2026-08-20,Vision Source Junction City,FALSE
-2026-08-20,Vision Source Manhattan,FALSE
+2026-08-20,Vision Source Manhattan (Churned),FALSE
 2026-08-20,Vision Source Oakley,FALSE
 2026-08-20,Vision Source St Francis,FALSE
 2026-08-20,Vision Source Wamego,FALSE
@@ -3945,11 +4010,12 @@ date,location,completed
 2026-08-21,Vision Source Atwood,TRUE
 2026-08-21,Vision Source Burlington,TRUE
 2026-08-21,Vision Source Colby,TRUE
-2026-08-21,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-21,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-21,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-21,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-21,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-21,Vision Source Goodland,TRUE
 2026-08-21,Vision Source Junction City,TRUE
-2026-08-21,Vision Source Manhattan,FALSE
+2026-08-21,Vision Source Manhattan (Churned),FALSE
 2026-08-21,Vision Source Oakley,TRUE
 2026-08-21,Vision Source St Francis,TRUE
 2026-08-21,Vision Source Wamego,TRUE
@@ -4005,11 +4071,12 @@ date,location,completed
 2026-08-22,Vision Source Atwood,TRUE
 2026-08-22,Vision Source Burlington,TRUE
 2026-08-22,Vision Source Colby,FALSE
-2026-08-22,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-22,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-22,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-22,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-22,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-22,Vision Source Goodland,TRUE
 2026-08-22,Vision Source Junction City,TRUE
-2026-08-22,Vision Source Manhattan,FALSE
+2026-08-22,Vision Source Manhattan (Churned),FALSE
 2026-08-22,Vision Source Oakley,TRUE
 2026-08-22,Vision Source St Francis,TRUE
 2026-08-22,Vision Source Wamego,TRUE
@@ -4065,11 +4132,12 @@ date,location,completed
 2026-08-23,Vision Source Atwood,TRUE
 2026-08-23,Vision Source Burlington,TRUE
 2026-08-23,Vision Source Colby,TRUE
-2026-08-23,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-23,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-23,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-23,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-23,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-23,Vision Source Goodland,TRUE
 2026-08-23,Vision Source Junction City,TRUE
-2026-08-23,Vision Source Manhattan,FALSE
+2026-08-23,Vision Source Manhattan (Churned),FALSE
 2026-08-23,Vision Source Oakley,TRUE
 2026-08-23,Vision Source St Francis,TRUE
 2026-08-23,Vision Source Wamego,TRUE
@@ -4125,11 +4193,12 @@ date,location,completed
 2026-08-24,Vision Source Atwood,TRUE
 2026-08-24,Vision Source Burlington,TRUE
 2026-08-24,Vision Source Colby,TRUE
-2026-08-24,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-08-24,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-24,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-24,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-08-24,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-24,Vision Source Goodland,TRUE
 2026-08-24,Vision Source Junction City,TRUE
-2026-08-24,Vision Source Manhattan,FALSE
+2026-08-24,Vision Source Manhattan (Churned),FALSE
 2026-08-24,Vision Source Oakley,TRUE
 2026-08-24,Vision Source St Francis,TRUE
 2026-08-24,Vision Source Wamego,TRUE
@@ -4185,11 +4254,12 @@ date,location,completed
 2026-08-25,Vision Source Atwood,TRUE
 2026-08-25,Vision Source Burlington,TRUE
 2026-08-25,Vision Source Colby,TRUE
-2026-08-25,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-25,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-25,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-25,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-25,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-25,Vision Source Goodland,TRUE
 2026-08-25,Vision Source Junction City,TRUE
-2026-08-25,Vision Source Manhattan,FALSE
+2026-08-25,Vision Source Manhattan (Churned),FALSE
 2026-08-25,Vision Source Oakley,TRUE
 2026-08-25,Vision Source St Francis,TRUE
 2026-08-25,Vision Source Wamego,TRUE
@@ -4245,11 +4315,12 @@ date,location,completed
 2026-08-26,Vision Source Atwood,TRUE
 2026-08-26,Vision Source Burlington,TRUE
 2026-08-26,Vision Source Colby,TRUE
-2026-08-26,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-08-26,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-26,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-26,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-08-26,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-26,Vision Source Goodland,TRUE
 2026-08-26,Vision Source Junction City,TRUE
-2026-08-26,Vision Source Manhattan,FALSE
+2026-08-26,Vision Source Manhattan (Churned),FALSE
 2026-08-26,Vision Source Oakley,TRUE
 2026-08-26,Vision Source St Francis,TRUE
 2026-08-26,Vision Source Wamego,TRUE
@@ -4305,11 +4376,12 @@ date,location,completed
 2026-08-27,Vision Source Atwood,TRUE
 2026-08-27,Vision Source Burlington,TRUE
 2026-08-27,Vision Source Colby,TRUE
-2026-08-27,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-27,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-27,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-27,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-27,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-27,Vision Source Goodland,TRUE
 2026-08-27,Vision Source Junction City,TRUE
-2026-08-27,Vision Source Manhattan,FALSE
+2026-08-27,Vision Source Manhattan (Churned),FALSE
 2026-08-27,Vision Source Oakley,TRUE
 2026-08-27,Vision Source St Francis,TRUE
 2026-08-27,Vision Source Wamego,TRUE
@@ -4365,11 +4437,12 @@ date,location,completed
 2026-08-28,Vision Source Atwood,TRUE
 2026-08-28,Vision Source Burlington,TRUE
 2026-08-28,Vision Source Colby,TRUE
-2026-08-28,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-28,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-28,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-28,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-28,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-28,Vision Source Goodland,TRUE
 2026-08-28,Vision Source Junction City,TRUE
-2026-08-28,Vision Source Manhattan,FALSE
+2026-08-28,Vision Source Manhattan (Churned),FALSE
 2026-08-28,Vision Source Oakley,TRUE
 2026-08-28,Vision Source St Francis,TRUE
 2026-08-28,Vision Source Wamego,TRUE
@@ -4425,11 +4498,12 @@ date,location,completed
 2026-08-29,Vision Source Atwood,TRUE
 2026-08-29,Vision Source Burlington,TRUE
 2026-08-29,Vision Source Colby,TRUE
-2026-08-29,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-29,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-08-29,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-29,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-29,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-08-29,Vision Source Goodland,TRUE
 2026-08-29,Vision Source Junction City,TRUE
-2026-08-29,Vision Source Manhattan,FALSE
+2026-08-29,Vision Source Manhattan (Churned),FALSE
 2026-08-29,Vision Source Oakley,TRUE
 2026-08-29,Vision Source St Francis,TRUE
 2026-08-29,Vision Source Wamego,TRUE
@@ -4485,11 +4559,12 @@ date,location,completed
 2026-08-30,Vision Source Atwood,TRUE
 2026-08-30,Vision Source Burlington,TRUE
 2026-08-30,Vision Source Colby,TRUE
-2026-08-30,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-30,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-30,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-30,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-30,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-30,Vision Source Goodland,TRUE
 2026-08-30,Vision Source Junction City,TRUE
-2026-08-30,Vision Source Manhattan,FALSE
+2026-08-30,Vision Source Manhattan (Churned),FALSE
 2026-08-30,Vision Source Oakley,TRUE
 2026-08-30,Vision Source St Francis,TRUE
 2026-08-30,Vision Source Wamego,TRUE
@@ -4545,11 +4620,12 @@ date,location,completed
 2026-08-31,Vision Source Atwood,TRUE
 2026-08-31,Vision Source Burlington,TRUE
 2026-08-31,Vision Source Colby,TRUE
-2026-08-31,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-08-31,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-08-31,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-08-31,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-08-31,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-08-31,Vision Source Goodland,TRUE
 2026-08-31,Vision Source Junction City,TRUE
-2026-08-31,Vision Source Manhattan,FALSE
+2026-08-31,Vision Source Manhattan (Churned),FALSE
 2026-08-31,Vision Source Oakley,TRUE
 2026-08-31,Vision Source St Francis,TRUE
 2026-08-31,Vision Source Wamego,TRUE
@@ -4605,11 +4681,12 @@ date,location,completed
 2026-09-01,Vision Source Atwood,TRUE
 2026-09-01,Vision Source Burlington,TRUE
 2026-09-01,Vision Source Colby,TRUE
-2026-09-01,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-01,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-01,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-01,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-01,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-01,Vision Source Goodland,TRUE
 2026-09-01,Vision Source Junction City,TRUE
-2026-09-01,Vision Source Manhattan,FALSE
+2026-09-01,Vision Source Manhattan (Churned),FALSE
 2026-09-01,Vision Source Oakley,TRUE
 2026-09-01,Vision Source St Francis,TRUE
 2026-09-01,Vision Source Wamego,TRUE
@@ -4665,11 +4742,12 @@ date,location,completed
 2026-09-02,Vision Source Atwood,TRUE
 2026-09-02,Vision Source Burlington,TRUE
 2026-09-02,Vision Source Colby,TRUE
-2026-09-02,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-02,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-02,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-02,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-02,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-02,Vision Source Goodland,TRUE
 2026-09-02,Vision Source Junction City,TRUE
-2026-09-02,Vision Source Manhattan,FALSE
+2026-09-02,Vision Source Manhattan (Churned),FALSE
 2026-09-02,Vision Source Oakley,FALSE
 2026-09-02,Vision Source St Francis,TRUE
 2026-09-02,Vision Source Wamego,TRUE
@@ -4725,11 +4803,12 @@ date,location,completed
 2026-09-03,Vision Source Atwood,TRUE
 2026-09-03,Vision Source Burlington,TRUE
 2026-09-03,Vision Source Colby,TRUE
-2026-09-03,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-03,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-03,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-03,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-03,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-03,Vision Source Goodland,TRUE
 2026-09-03,Vision Source Junction City,TRUE
-2026-09-03,Vision Source Manhattan,FALSE
+2026-09-03,Vision Source Manhattan (Churned),FALSE
 2026-09-03,Vision Source Oakley,TRUE
 2026-09-03,Vision Source St Francis,TRUE
 2026-09-03,Vision Source Wamego,TRUE
@@ -4785,11 +4864,12 @@ date,location,completed
 2026-09-04,Vision Source Atwood,TRUE
 2026-09-04,Vision Source Burlington,TRUE
 2026-09-04,Vision Source Colby,FALSE
-2026-09-04,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-04,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-04,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-04,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-04,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-04,Vision Source Goodland,TRUE
 2026-09-04,Vision Source Junction City,TRUE
-2026-09-04,Vision Source Manhattan,FALSE
+2026-09-04,Vision Source Manhattan (Churned),FALSE
 2026-09-04,Vision Source Oakley,TRUE
 2026-09-04,Vision Source St Francis,TRUE
 2026-09-04,Vision Source Wamego,TRUE
@@ -4845,11 +4925,12 @@ date,location,completed
 2026-09-05,Vision Source Atwood,TRUE
 2026-09-05,Vision Source Burlington,FALSE
 2026-09-05,Vision Source Colby,TRUE
-2026-09-05,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-05,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-05,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-05,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-05,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-05,Vision Source Goodland,TRUE
 2026-09-05,Vision Source Junction City,TRUE
-2026-09-05,Vision Source Manhattan,FALSE
+2026-09-05,Vision Source Manhattan (Churned),FALSE
 2026-09-05,Vision Source Oakley,TRUE
 2026-09-05,Vision Source St Francis,TRUE
 2026-09-05,Vision Source Wamego,TRUE
@@ -4905,11 +4986,12 @@ date,location,completed
 2026-09-06,Vision Source Atwood,TRUE
 2026-09-06,Vision Source Burlington,FALSE
 2026-09-06,Vision Source Colby,TRUE
-2026-09-06,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-06,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-06,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-06,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-06,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-06,Vision Source Goodland,TRUE
 2026-09-06,Vision Source Junction City,TRUE
-2026-09-06,Vision Source Manhattan,FALSE
+2026-09-06,Vision Source Manhattan (Churned),FALSE
 2026-09-06,Vision Source Oakley,TRUE
 2026-09-06,Vision Source St Francis,TRUE
 2026-09-06,Vision Source Wamego,TRUE
@@ -4965,11 +5047,12 @@ date,location,completed
 2026-09-07,Vision Source Atwood,TRUE
 2026-09-07,Vision Source Burlington,TRUE
 2026-09-07,Vision Source Colby,TRUE
-2026-09-07,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-07,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-07,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-07,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-07,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-07,Vision Source Goodland,TRUE
 2026-09-07,Vision Source Junction City,TRUE
-2026-09-07,Vision Source Manhattan,FALSE
+2026-09-07,Vision Source Manhattan (Churned),FALSE
 2026-09-07,Vision Source Oakley,TRUE
 2026-09-07,Vision Source St Francis,TRUE
 2026-09-07,Vision Source Wamego,TRUE
@@ -5025,11 +5108,12 @@ date,location,completed
 2026-09-08,Vision Source Atwood,TRUE
 2026-09-08,Vision Source Burlington,TRUE
 2026-09-08,Vision Source Colby,TRUE
-2026-09-08,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-08,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-08,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-08,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-08,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-08,Vision Source Goodland,TRUE
 2026-09-08,Vision Source Junction City,TRUE
-2026-09-08,Vision Source Manhattan,FALSE
+2026-09-08,Vision Source Manhattan (Churned),FALSE
 2026-09-08,Vision Source Oakley,TRUE
 2026-09-08,Vision Source St Francis,TRUE
 2026-09-08,Vision Source Wamego,TRUE
@@ -5085,11 +5169,12 @@ date,location,completed
 2026-09-09,Vision Source Atwood,TRUE
 2026-09-09,Vision Source Burlington,TRUE
 2026-09-09,Vision Source Colby,TRUE
-2026-09-09,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-09,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-09,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-09,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-09,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-09,Vision Source Goodland,TRUE
 2026-09-09,Vision Source Junction City,TRUE
-2026-09-09,Vision Source Manhattan,FALSE
+2026-09-09,Vision Source Manhattan (Churned),FALSE
 2026-09-09,Vision Source Oakley,TRUE
 2026-09-09,Vision Source St Francis,TRUE
 2026-09-09,Vision Source Wamego,TRUE
@@ -5145,11 +5230,12 @@ date,location,completed
 2026-09-10,Vision Source Atwood,TRUE
 2026-09-10,Vision Source Burlington,TRUE
 2026-09-10,Vision Source Colby,TRUE
-2026-09-10,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-10,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-10,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-10,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-10,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-10,Vision Source Goodland,TRUE
 2026-09-10,Vision Source Junction City,TRUE
-2026-09-10,Vision Source Manhattan,FALSE
+2026-09-10,Vision Source Manhattan (Churned),FALSE
 2026-09-10,Vision Source Oakley,TRUE
 2026-09-10,Vision Source St Francis,TRUE
 2026-09-10,Vision Source Wamego,TRUE
@@ -5205,11 +5291,12 @@ date,location,completed
 2026-09-11,Vision Source Atwood,FALSE
 2026-09-11,Vision Source Burlington,TRUE
 2026-09-11,Vision Source Colby,TRUE
-2026-09-11,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-09-11,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-11,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-11,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-09-11,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-11,Vision Source Goodland,TRUE
 2026-09-11,Vision Source Junction City,TRUE
-2026-09-11,Vision Source Manhattan,FALSE
+2026-09-11,Vision Source Manhattan (Churned),FALSE
 2026-09-11,Vision Source Oakley,TRUE
 2026-09-11,Vision Source St Francis,FALSE
 2026-09-11,Vision Source Wamego,TRUE
@@ -5265,11 +5352,12 @@ date,location,completed
 2026-09-12,Vision Source Atwood,TRUE
 2026-09-12,Vision Source Burlington,TRUE
 2026-09-12,Vision Source Colby,TRUE
-2026-09-12,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-12,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-12,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-12,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-12,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-12,Vision Source Goodland,TRUE
 2026-09-12,Vision Source Junction City,TRUE
-2026-09-12,Vision Source Manhattan,FALSE
+2026-09-12,Vision Source Manhattan (Churned),FALSE
 2026-09-12,Vision Source Oakley,FALSE
 2026-09-12,Vision Source St Francis,FALSE
 2026-09-12,Vision Source Wamego,TRUE
@@ -5325,11 +5413,12 @@ date,location,completed
 2026-09-13,Vision Source Atwood,FALSE
 2026-09-13,Vision Source Burlington,TRUE
 2026-09-13,Vision Source Colby,FALSE
-2026-09-13,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-13,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-13,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-13,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-13,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-13,Vision Source Goodland,TRUE
 2026-09-13,Vision Source Junction City,TRUE
-2026-09-13,Vision Source Manhattan,FALSE
+2026-09-13,Vision Source Manhattan (Churned),FALSE
 2026-09-13,Vision Source Oakley,TRUE
 2026-09-13,Vision Source St Francis,FALSE
 2026-09-13,Vision Source Wamego,TRUE
@@ -5385,11 +5474,12 @@ date,location,completed
 2026-09-14,Vision Source Atwood,TRUE
 2026-09-14,Vision Source Burlington,TRUE
 2026-09-14,Vision Source Colby,TRUE
-2026-09-14,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-14,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-14,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-14,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-14,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-14,Vision Source Goodland,TRUE
 2026-09-14,Vision Source Junction City,TRUE
-2026-09-14,Vision Source Manhattan,FALSE
+2026-09-14,Vision Source Manhattan (Churned),FALSE
 2026-09-14,Vision Source Oakley,TRUE
 2026-09-14,Vision Source St Francis,TRUE
 2026-09-14,Vision Source Wamego,TRUE
@@ -5445,11 +5535,12 @@ date,location,completed
 2026-09-15,Vision Source Atwood,FALSE
 2026-09-15,Vision Source Burlington,TRUE
 2026-09-15,Vision Source Colby,TRUE
-2026-09-15,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-15,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-15,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-15,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-15,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-15,Vision Source Goodland,TRUE
 2026-09-15,Vision Source Junction City,TRUE
-2026-09-15,Vision Source Manhattan,FALSE
+2026-09-15,Vision Source Manhattan (Churned),FALSE
 2026-09-15,Vision Source Oakley,TRUE
 2026-09-15,Vision Source St Francis,TRUE
 2026-09-15,Vision Source Wamego,TRUE
@@ -5505,11 +5596,12 @@ date,location,completed
 2026-09-16,Vision Source Atwood,TRUE
 2026-09-16,Vision Source Burlington,TRUE
 2026-09-16,Vision Source Colby,TRUE
-2026-09-16,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-16,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-16,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-16,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-16,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-16,Vision Source Goodland,TRUE
 2026-09-16,Vision Source Junction City,TRUE
-2026-09-16,Vision Source Manhattan,FALSE
+2026-09-16,Vision Source Manhattan (Churned),FALSE
 2026-09-16,Vision Source Oakley,TRUE
 2026-09-16,Vision Source St Francis,TRUE
 2026-09-16,Vision Source Wamego,TRUE
@@ -5565,11 +5657,12 @@ date,location,completed
 2026-09-17,Vision Source Atwood,TRUE
 2026-09-17,Vision Source Burlington,TRUE
 2026-09-17,Vision Source Colby,TRUE
-2026-09-17,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-17,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-17,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-17,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-17,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-17,Vision Source Goodland,TRUE
 2026-09-17,Vision Source Junction City,TRUE
-2026-09-17,Vision Source Manhattan,FALSE
+2026-09-17,Vision Source Manhattan (Churned),FALSE
 2026-09-17,Vision Source Oakley,TRUE
 2026-09-17,Vision Source St Francis,TRUE
 2026-09-17,Vision Source Wamego,TRUE
@@ -5625,11 +5718,12 @@ date,location,completed
 2026-09-18,Vision Source Atwood,TRUE
 2026-09-18,Vision Source Burlington,TRUE
 2026-09-18,Vision Source Colby,TRUE
-2026-09-18,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-18,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-18,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-18,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-18,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-18,Vision Source Goodland,TRUE
 2026-09-18,Vision Source Junction City,TRUE
-2026-09-18,Vision Source Manhattan,FALSE
+2026-09-18,Vision Source Manhattan (Churned),FALSE
 2026-09-18,Vision Source Oakley,TRUE
 2026-09-18,Vision Source St Francis,TRUE
 2026-09-18,Vision Source Wamego,TRUE
@@ -5685,11 +5779,12 @@ date,location,completed
 2026-09-19,Vision Source Atwood,TRUE
 2026-09-19,Vision Source Burlington,TRUE
 2026-09-19,Vision Source Colby,TRUE
-2026-09-19,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-19,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-19,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-19,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-19,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-19,Vision Source Goodland,FALSE
 2026-09-19,Vision Source Junction City,TRUE
-2026-09-19,Vision Source Manhattan,FALSE
+2026-09-19,Vision Source Manhattan (Churned),FALSE
 2026-09-19,Vision Source Oakley,TRUE
 2026-09-19,Vision Source St Francis,TRUE
 2026-09-19,Vision Source Wamego,TRUE
@@ -5745,11 +5840,12 @@ date,location,completed
 2026-09-20,Vision Source Atwood,TRUE
 2026-09-20,Vision Source Burlington,TRUE
 2026-09-20,Vision Source Colby,TRUE
-2026-09-20,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-20,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-20,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-20,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-20,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-20,Vision Source Goodland,FALSE
 2026-09-20,Vision Source Junction City,TRUE
-2026-09-20,Vision Source Manhattan,FALSE
+2026-09-20,Vision Source Manhattan (Churned),FALSE
 2026-09-20,Vision Source Oakley,TRUE
 2026-09-20,Vision Source St Francis,TRUE
 2026-09-20,Vision Source Wamego,TRUE
@@ -5805,11 +5901,12 @@ date,location,completed
 2026-09-21,Vision Source Atwood,FALSE
 2026-09-21,Vision Source Burlington,FALSE
 2026-09-21,Vision Source Colby,FALSE
-2026-09-21,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-09-21,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-09-21,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-21,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-09-21,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-09-21,Vision Source Goodland,TRUE
 2026-09-21,Vision Source Junction City,FALSE
-2026-09-21,Vision Source Manhattan,FALSE
+2026-09-21,Vision Source Manhattan (Churned),FALSE
 2026-09-21,Vision Source Oakley,FALSE
 2026-09-21,Vision Source St Francis,FALSE
 2026-09-21,Vision Source Wamego,FALSE
@@ -5865,11 +5962,12 @@ date,location,completed
 2026-09-22,Vision Source Atwood,TRUE
 2026-09-22,Vision Source Burlington,TRUE
 2026-09-22,Vision Source Colby,FALSE
-2026-09-22,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-22,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-09-22,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-22,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-22,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-09-22,Vision Source Goodland,TRUE
 2026-09-22,Vision Source Junction City,FALSE
-2026-09-22,Vision Source Manhattan,FALSE
+2026-09-22,Vision Source Manhattan (Churned),FALSE
 2026-09-22,Vision Source Oakley,TRUE
 2026-09-22,Vision Source St Francis,TRUE
 2026-09-22,Vision Source Wamego,TRUE
@@ -5925,11 +6023,12 @@ date,location,completed
 2026-09-23,Vision Source Atwood,TRUE
 2026-09-23,Vision Source Burlington,TRUE
 2026-09-23,Vision Source Colby,TRUE
-2026-09-23,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-23,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-23,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-23,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-23,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-23,Vision Source Goodland,TRUE
 2026-09-23,Vision Source Junction City,TRUE
-2026-09-23,Vision Source Manhattan,FALSE
+2026-09-23,Vision Source Manhattan (Churned),FALSE
 2026-09-23,Vision Source Oakley,TRUE
 2026-09-23,Vision Source St Francis,TRUE
 2026-09-23,Vision Source Wamego,TRUE
@@ -5985,11 +6084,12 @@ date,location,completed
 2026-09-24,Vision Source Atwood,TRUE
 2026-09-24,Vision Source Burlington,TRUE
 2026-09-24,Vision Source Colby,TRUE
-2026-09-24,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-24,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-24,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-24,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-24,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-24,Vision Source Goodland,TRUE
 2026-09-24,Vision Source Junction City,TRUE
-2026-09-24,Vision Source Manhattan,FALSE
+2026-09-24,Vision Source Manhattan (Churned),FALSE
 2026-09-24,Vision Source Oakley,TRUE
 2026-09-24,Vision Source St Francis,TRUE
 2026-09-24,Vision Source Wamego,TRUE
@@ -6045,11 +6145,12 @@ date,location,completed
 2026-09-25,Vision Source Atwood,TRUE
 2026-09-25,Vision Source Burlington,TRUE
 2026-09-25,Vision Source Colby,TRUE
-2026-09-25,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-25,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-25,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-25,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-25,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-25,Vision Source Goodland,TRUE
 2026-09-25,Vision Source Junction City,TRUE
-2026-09-25,Vision Source Manhattan,FALSE
+2026-09-25,Vision Source Manhattan (Churned),FALSE
 2026-09-25,Vision Source Oakley,TRUE
 2026-09-25,Vision Source St Francis,TRUE
 2026-09-25,Vision Source Wamego,TRUE
@@ -6105,11 +6206,12 @@ date,location,completed
 2026-09-26,Vision Source Atwood,TRUE
 2026-09-26,Vision Source Burlington,TRUE
 2026-09-26,Vision Source Colby,TRUE
-2026-09-26,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-26,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-26,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-26,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-26,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-26,Vision Source Goodland,TRUE
 2026-09-26,Vision Source Junction City,TRUE
-2026-09-26,Vision Source Manhattan,FALSE
+2026-09-26,Vision Source Manhattan (Churned),FALSE
 2026-09-26,Vision Source Oakley,TRUE
 2026-09-26,Vision Source St Francis,TRUE
 2026-09-26,Vision Source Wamego,TRUE
@@ -6165,11 +6267,12 @@ date,location,completed
 2026-09-27,Vision Source Atwood,TRUE
 2026-09-27,Vision Source Burlington,TRUE
 2026-09-27,Vision Source Colby,TRUE
-2026-09-27,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-27,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-27,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-27,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-27,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-27,Vision Source Goodland,TRUE
 2026-09-27,Vision Source Junction City,TRUE
-2026-09-27,Vision Source Manhattan,FALSE
+2026-09-27,Vision Source Manhattan (Churned),FALSE
 2026-09-27,Vision Source Oakley,TRUE
 2026-09-27,Vision Source St Francis,TRUE
 2026-09-27,Vision Source Wamego,TRUE
@@ -6225,11 +6328,12 @@ date,location,completed
 2026-09-28,Vision Source Atwood,TRUE
 2026-09-28,Vision Source Burlington,TRUE
 2026-09-28,Vision Source Colby,TRUE
-2026-09-28,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-28,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-28,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-28,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-28,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-28,Vision Source Goodland,TRUE
 2026-09-28,Vision Source Junction City,TRUE
-2026-09-28,Vision Source Manhattan,FALSE
+2026-09-28,Vision Source Manhattan (Churned),FALSE
 2026-09-28,Vision Source Oakley,TRUE
 2026-09-28,Vision Source St Francis,TRUE
 2026-09-28,Vision Source Wamego,TRUE
@@ -6285,11 +6389,12 @@ date,location,completed
 2026-09-29,Vision Source Atwood,TRUE
 2026-09-29,Vision Source Burlington,TRUE
 2026-09-29,Vision Source Colby,TRUE
-2026-09-29,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-29,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-29,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-29,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-29,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-29,Vision Source Goodland,TRUE
 2026-09-29,Vision Source Junction City,TRUE
-2026-09-29,Vision Source Manhattan,FALSE
+2026-09-29,Vision Source Manhattan (Churned),FALSE
 2026-09-29,Vision Source Oakley,TRUE
 2026-09-29,Vision Source St Francis,TRUE
 2026-09-29,Vision Source Wamego,TRUE
@@ -6345,11 +6450,12 @@ date,location,completed
 2026-09-30,Vision Source Atwood,TRUE
 2026-09-30,Vision Source Burlington,TRUE
 2026-09-30,Vision Source Colby,TRUE
-2026-09-30,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-09-30,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-09-30,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-09-30,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-09-30,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-09-30,Vision Source Goodland,TRUE
 2026-09-30,Vision Source Junction City,TRUE
-2026-09-30,Vision Source Manhattan,FALSE
+2026-09-30,Vision Source Manhattan (Churned),FALSE
 2026-09-30,Vision Source Oakley,TRUE
 2026-09-30,Vision Source St Francis,TRUE
 2026-09-30,Vision Source Wamego,TRUE
@@ -6405,11 +6511,12 @@ date,location,completed
 2026-10-01,Vision Source Atwood,FALSE
 2026-10-01,Vision Source Burlington,FALSE
 2026-10-01,Vision Source Colby,FALSE
-2026-10-01,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-01,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-01,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-01,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-01,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-01,Vision Source Goodland,FALSE
 2026-10-01,Vision Source Junction City,TRUE
-2026-10-01,Vision Source Manhattan,FALSE
+2026-10-01,Vision Source Manhattan (Churned),FALSE
 2026-10-01,Vision Source Oakley,FALSE
 2026-10-01,Vision Source St Francis,FALSE
 2026-10-01,Vision Source Wamego,TRUE
@@ -6465,11 +6572,12 @@ date,location,completed
 2026-10-02,Vision Source Atwood,FALSE
 2026-10-02,Vision Source Burlington,FALSE
 2026-10-02,Vision Source Colby,FALSE
-2026-10-02,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-02,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-02,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-02,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-02,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-02,Vision Source Goodland,TRUE
 2026-10-02,Vision Source Junction City,TRUE
-2026-10-02,Vision Source Manhattan,FALSE
+2026-10-02,Vision Source Manhattan (Churned),FALSE
 2026-10-02,Vision Source Oakley,FALSE
 2026-10-02,Vision Source St Francis,FALSE
 2026-10-02,Vision Source Wamego,TRUE
@@ -6525,11 +6633,12 @@ date,location,completed
 2026-10-03,Vision Source Atwood,FALSE
 2026-10-03,Vision Source Burlington,FALSE
 2026-10-03,Vision Source Colby,FALSE
-2026-10-03,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-03,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-03,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-03,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-03,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-03,Vision Source Goodland,TRUE
 2026-10-03,Vision Source Junction City,TRUE
-2026-10-03,Vision Source Manhattan,FALSE
+2026-10-03,Vision Source Manhattan (Churned),FALSE
 2026-10-03,Vision Source Oakley,FALSE
 2026-10-03,Vision Source St Francis,FALSE
 2026-10-03,Vision Source Wamego,TRUE
@@ -6585,11 +6694,12 @@ date,location,completed
 2026-10-04,Vision Source Atwood,FALSE
 2026-10-04,Vision Source Burlington,FALSE
 2026-10-04,Vision Source Colby,FALSE
-2026-10-04,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-04,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-04,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-04,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-04,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-04,Vision Source Goodland,TRUE
 2026-10-04,Vision Source Junction City,TRUE
-2026-10-04,Vision Source Manhattan,FALSE
+2026-10-04,Vision Source Manhattan (Churned),FALSE
 2026-10-04,Vision Source Oakley,FALSE
 2026-10-04,Vision Source St Francis,TRUE
 2026-10-04,Vision Source Wamego,TRUE
@@ -6645,11 +6755,12 @@ date,location,completed
 2026-10-05,Vision Source Atwood,FALSE
 2026-10-05,Vision Source Burlington,FALSE
 2026-10-05,Vision Source Colby,FALSE
-2026-10-05,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-05,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-05,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-05,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-05,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-05,Vision Source Goodland,FALSE
 2026-10-05,Vision Source Junction City,FALSE
-2026-10-05,Vision Source Manhattan,FALSE
+2026-10-05,Vision Source Manhattan (Churned),FALSE
 2026-10-05,Vision Source Oakley,FALSE
 2026-10-05,Vision Source St Francis,TRUE
 2026-10-05,Vision Source Wamego,TRUE
@@ -6705,11 +6816,12 @@ date,location,completed
 2026-10-06,Vision Source Atwood,TRUE
 2026-10-06,Vision Source Burlington,TRUE
 2026-10-06,Vision Source Colby,TRUE
-2026-10-06,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-06,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-06,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-06,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-06,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-06,Vision Source Goodland,TRUE
 2026-10-06,Vision Source Junction City,TRUE
-2026-10-06,Vision Source Manhattan,FALSE
+2026-10-06,Vision Source Manhattan (Churned),FALSE
 2026-10-06,Vision Source Oakley,TRUE
 2026-10-06,Vision Source St Francis,TRUE
 2026-10-06,Vision Source Wamego,TRUE
@@ -6765,11 +6877,12 @@ date,location,completed
 2026-10-07,Vision Source Atwood,TRUE
 2026-10-07,Vision Source Burlington,FALSE
 2026-10-07,Vision Source Colby,TRUE
-2026-10-07,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-07,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-07,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-07,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-07,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-07,Vision Source Goodland,TRUE
 2026-10-07,Vision Source Junction City,TRUE
-2026-10-07,Vision Source Manhattan,FALSE
+2026-10-07,Vision Source Manhattan (Churned),FALSE
 2026-10-07,Vision Source Oakley,TRUE
 2026-10-07,Vision Source St Francis,TRUE
 2026-10-07,Vision Source Wamego,TRUE
@@ -6825,11 +6938,12 @@ date,location,completed
 2026-10-08,Vision Source Atwood,FALSE
 2026-10-08,Vision Source Burlington,FALSE
 2026-10-08,Vision Source Colby,FALSE
-2026-10-08,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-08,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-08,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-08,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-08,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-08,Vision Source Goodland,TRUE
 2026-10-08,Vision Source Junction City,TRUE
-2026-10-08,Vision Source Manhattan,FALSE
+2026-10-08,Vision Source Manhattan (Churned),FALSE
 2026-10-08,Vision Source Oakley,FALSE
 2026-10-08,Vision Source St Francis,FALSE
 2026-10-08,Vision Source Wamego,TRUE
@@ -6885,11 +6999,12 @@ date,location,completed
 2026-10-09,Vision Source Atwood,TRUE
 2026-10-09,Vision Source Burlington,FALSE
 2026-10-09,Vision Source Colby,TRUE
-2026-10-09,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-09,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-09,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-09,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-09,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-09,Vision Source Goodland,TRUE
 2026-10-09,Vision Source Junction City,TRUE
-2026-10-09,Vision Source Manhattan,FALSE
+2026-10-09,Vision Source Manhattan (Churned),FALSE
 2026-10-09,Vision Source Oakley,TRUE
 2026-10-09,Vision Source St Francis,TRUE
 2026-10-09,Vision Source Wamego,TRUE
@@ -6945,11 +7060,12 @@ date,location,completed
 2026-10-10,Vision Source Atwood,FALSE
 2026-10-10,Vision Source Burlington,FALSE
 2026-10-10,Vision Source Colby,FALSE
-2026-10-10,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-10,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-10,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-10,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-10,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-10,Vision Source Goodland,FALSE
 2026-10-10,Vision Source Junction City,TRUE
-2026-10-10,Vision Source Manhattan,FALSE
+2026-10-10,Vision Source Manhattan (Churned),FALSE
 2026-10-10,Vision Source Oakley,FALSE
 2026-10-10,Vision Source St Francis,FALSE
 2026-10-10,Vision Source Wamego,TRUE
@@ -7005,11 +7121,12 @@ date,location,completed
 2026-10-11,Vision Source Atwood,FALSE
 2026-10-11,Vision Source Burlington,FALSE
 2026-10-11,Vision Source Colby,FALSE
-2026-10-11,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-11,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-11,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-11,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-11,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-11,Vision Source Goodland,FALSE
 2026-10-11,Vision Source Junction City,TRUE
-2026-10-11,Vision Source Manhattan,FALSE
+2026-10-11,Vision Source Manhattan (Churned),FALSE
 2026-10-11,Vision Source Oakley,FALSE
 2026-10-11,Vision Source St Francis,FALSE
 2026-10-11,Vision Source Wamego,TRUE
@@ -7065,11 +7182,12 @@ date,location,completed
 2026-10-12,Vision Source Atwood,FALSE
 2026-10-12,Vision Source Burlington,FALSE
 2026-10-12,Vision Source Colby,FALSE
-2026-10-12,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-12,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-12,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-12,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-12,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-12,Vision Source Goodland,FALSE
 2026-10-12,Vision Source Junction City,TRUE
-2026-10-12,Vision Source Manhattan,FALSE
+2026-10-12,Vision Source Manhattan (Churned),FALSE
 2026-10-12,Vision Source Oakley,FALSE
 2026-10-12,Vision Source St Francis,FALSE
 2026-10-12,Vision Source Wamego,TRUE
@@ -7125,11 +7243,12 @@ date,location,completed
 2026-10-13,Vision Source Atwood,FALSE
 2026-10-13,Vision Source Burlington,FALSE
 2026-10-13,Vision Source Colby,FALSE
-2026-10-13,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-13,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-13,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-13,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-13,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-13,Vision Source Goodland,FALSE
 2026-10-13,Vision Source Junction City,TRUE
-2026-10-13,Vision Source Manhattan,FALSE
+2026-10-13,Vision Source Manhattan (Churned),FALSE
 2026-10-13,Vision Source Oakley,FALSE
 2026-10-13,Vision Source St Francis,FALSE
 2026-10-13,Vision Source Wamego,TRUE
@@ -7185,11 +7304,12 @@ date,location,completed
 2026-10-14,Vision Source Atwood,FALSE
 2026-10-14,Vision Source Burlington,FALSE
 2026-10-14,Vision Source Colby,FALSE
-2026-10-14,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-14,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-14,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-14,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-14,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-14,Vision Source Goodland,FALSE
 2026-10-14,Vision Source Junction City,TRUE
-2026-10-14,Vision Source Manhattan,FALSE
+2026-10-14,Vision Source Manhattan (Churned),FALSE
 2026-10-14,Vision Source Oakley,FALSE
 2026-10-14,Vision Source St Francis,FALSE
 2026-10-14,Vision Source Wamego,TRUE
@@ -7245,11 +7365,12 @@ date,location,completed
 2026-10-15,Vision Source Atwood,FALSE
 2026-10-15,Vision Source Burlington,FALSE
 2026-10-15,Vision Source Colby,FALSE
-2026-10-15,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-15,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-15,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-15,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-15,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-15,Vision Source Goodland,FALSE
 2026-10-15,Vision Source Junction City,TRUE
-2026-10-15,Vision Source Manhattan,FALSE
+2026-10-15,Vision Source Manhattan (Churned),FALSE
 2026-10-15,Vision Source Oakley,FALSE
 2026-10-15,Vision Source St Francis,FALSE
 2026-10-15,Vision Source Wamego,TRUE
@@ -7305,11 +7426,12 @@ date,location,completed
 2026-10-16,Vision Source Atwood,FALSE
 2026-10-16,Vision Source Burlington,FALSE
 2026-10-16,Vision Source Colby,FALSE
-2026-10-16,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-16,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-16,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-16,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-16,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-16,Vision Source Goodland,FALSE
 2026-10-16,Vision Source Junction City,TRUE
-2026-10-16,Vision Source Manhattan,FALSE
+2026-10-16,Vision Source Manhattan (Churned),FALSE
 2026-10-16,Vision Source Oakley,FALSE
 2026-10-16,Vision Source St Francis,FALSE
 2026-10-16,Vision Source Wamego,TRUE
@@ -7365,11 +7487,12 @@ date,location,completed
 2026-10-17,Vision Source Atwood,FALSE
 2026-10-17,Vision Source Burlington,FALSE
 2026-10-17,Vision Source Colby,FALSE
-2026-10-17,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-17,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-17,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-17,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-17,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-17,Vision Source Goodland,FALSE
 2026-10-17,Vision Source Junction City,TRUE
-2026-10-17,Vision Source Manhattan,FALSE
+2026-10-17,Vision Source Manhattan (Churned),FALSE
 2026-10-17,Vision Source Oakley,FALSE
 2026-10-17,Vision Source St Francis,FALSE
 2026-10-17,Vision Source Wamego,TRUE
@@ -7425,11 +7548,12 @@ date,location,completed
 2026-10-18,Vision Source Atwood,FALSE
 2026-10-18,Vision Source Burlington,FALSE
 2026-10-18,Vision Source Colby,FALSE
-2026-10-18,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-18,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-18,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-18,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-18,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-18,Vision Source Goodland,FALSE
 2026-10-18,Vision Source Junction City,TRUE
-2026-10-18,Vision Source Manhattan,FALSE
+2026-10-18,Vision Source Manhattan (Churned),FALSE
 2026-10-18,Vision Source Oakley,FALSE
 2026-10-18,Vision Source St Francis,FALSE
 2026-10-18,Vision Source Wamego,TRUE
@@ -7485,11 +7609,12 @@ date,location,completed
 2026-10-19,Vision Source Atwood,FALSE
 2026-10-19,Vision Source Burlington,FALSE
 2026-10-19,Vision Source Colby,FALSE
-2026-10-19,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-19,Vision Source Eye Center of the Triad Oak Ridge,TRUE
+2026-10-19,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-19,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-19,Vision Source Eye Center of the Triad Oak Ridge (Churned),TRUE
 2026-10-19,Vision Source Goodland,FALSE
 2026-10-19,Vision Source Junction City,TRUE
-2026-10-19,Vision Source Manhattan,FALSE
+2026-10-19,Vision Source Manhattan (Churned),FALSE
 2026-10-19,Vision Source Oakley,FALSE
 2026-10-19,Vision Source St Francis,FALSE
 2026-10-19,Vision Source Wamego,TRUE
@@ -7545,11 +7670,12 @@ date,location,completed
 2026-10-20,Vision Source Atwood,FALSE
 2026-10-20,Vision Source Burlington,FALSE
 2026-10-20,Vision Source Colby,FALSE
-2026-10-20,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-20,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-10-20,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-20,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-20,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-10-20,Vision Source Goodland,FALSE
 2026-10-20,Vision Source Junction City,TRUE
-2026-10-20,Vision Source Manhattan,FALSE
+2026-10-20,Vision Source Manhattan (Churned),FALSE
 2026-10-20,Vision Source Oakley,FALSE
 2026-10-20,Vision Source St Francis,FALSE
 2026-10-20,Vision Source Wamego,TRUE
@@ -7605,11 +7731,12 @@ date,location,completed
 2026-10-21,Vision Source Atwood,FALSE
 2026-10-21,Vision Source Burlington,FALSE
 2026-10-21,Vision Source Colby,FALSE
-2026-10-21,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-21,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-10-21,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-21,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-21,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-10-21,Vision Source Goodland,FALSE
 2026-10-21,Vision Source Junction City,TRUE
-2026-10-21,Vision Source Manhattan,FALSE
+2026-10-21,Vision Source Manhattan (Churned),FALSE
 2026-10-21,Vision Source Oakley,FALSE
 2026-10-21,Vision Source St Francis,FALSE
 2026-10-21,Vision Source Wamego,TRUE
@@ -7665,11 +7792,12 @@ date,location,completed
 2026-10-22,Vision Source Atwood,FALSE
 2026-10-22,Vision Source Burlington,FALSE
 2026-10-22,Vision Source Colby,FALSE
-2026-10-22,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-22,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-10-22,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-22,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-22,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-10-22,Vision Source Goodland,FALSE
 2026-10-22,Vision Source Junction City,TRUE
-2026-10-22,Vision Source Manhattan,FALSE
+2026-10-22,Vision Source Manhattan (Churned),FALSE
 2026-10-22,Vision Source Oakley,FALSE
 2026-10-22,Vision Source St Francis,FALSE
 2026-10-22,Vision Source Wamego,TRUE
@@ -7725,11 +7853,12 @@ date,location,completed
 2026-10-23,Vision Source Atwood,FALSE
 2026-10-23,Vision Source Burlington,FALSE
 2026-10-23,Vision Source Colby,FALSE
-2026-10-23,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-23,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-10-23,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-23,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-23,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-10-23,Vision Source Goodland,FALSE
 2026-10-23,Vision Source Junction City,TRUE
-2026-10-23,Vision Source Manhattan,FALSE
+2026-10-23,Vision Source Manhattan (Churned),FALSE
 2026-10-23,Vision Source Oakley,FALSE
 2026-10-23,Vision Source St Francis,FALSE
 2026-10-23,Vision Source Wamego,TRUE
@@ -7785,11 +7914,12 @@ date,location,completed
 2026-10-24,Vision Source Atwood,FALSE
 2026-10-24,Vision Source Burlington,FALSE
 2026-10-24,Vision Source Colby,FALSE
-2026-10-24,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-24,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-10-24,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-24,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-24,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-10-24,Vision Source Goodland,FALSE
 2026-10-24,Vision Source Junction City,TRUE
-2026-10-24,Vision Source Manhattan,FALSE
+2026-10-24,Vision Source Manhattan (Churned),FALSE
 2026-10-24,Vision Source Oakley,FALSE
 2026-10-24,Vision Source St Francis,FALSE
 2026-10-24,Vision Source Wamego,TRUE
@@ -7845,11 +7975,12 @@ date,location,completed
 2026-10-25,Vision Source Atwood,FALSE
 2026-10-25,Vision Source Burlington,FALSE
 2026-10-25,Vision Source Colby,FALSE
-2026-10-25,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-25,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-10-25,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-25,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-25,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-10-25,Vision Source Goodland,FALSE
 2026-10-25,Vision Source Junction City,TRUE
-2026-10-25,Vision Source Manhattan,FALSE
+2026-10-25,Vision Source Manhattan (Churned),FALSE
 2026-10-25,Vision Source Oakley,FALSE
 2026-10-25,Vision Source St Francis,FALSE
 2026-10-25,Vision Source Wamego,TRUE
@@ -7905,11 +8036,12 @@ date,location,completed
 2026-10-26,Vision Source Atwood,FALSE
 2026-10-26,Vision Source Burlington,FALSE
 2026-10-26,Vision Source Colby,FALSE
-2026-10-26,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-10-26,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-10-26,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-26,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-10-26,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-10-26,Vision Source Goodland,FALSE
 2026-10-26,Vision Source Junction City,TRUE
-2026-10-26,Vision Source Manhattan,FALSE
+2026-10-26,Vision Source Manhattan (Churned),FALSE
 2026-10-26,Vision Source Oakley,FALSE
 2026-10-26,Vision Source St Francis,FALSE
 2026-10-26,Vision Source Wamego,TRUE
@@ -7965,11 +8097,12 @@ date,location,completed
 2026-10-27,Vision Source Atwood,FALSE
 2026-10-27,Vision Source Burlington,FALSE
 2026-10-27,Vision Source Colby,FALSE
-2026-10-27,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-10-27,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-10-27,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-27,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-10-27,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-10-27,Vision Source Goodland,FALSE
 2026-10-27,Vision Source Junction City,TRUE
-2026-10-27,Vision Source Manhattan,FALSE
+2026-10-27,Vision Source Manhattan (Churned),FALSE
 2026-10-27,Vision Source Oakley,FALSE
 2026-10-27,Vision Source St Francis,FALSE
 2026-10-27,Vision Source Wamego,TRUE
@@ -8025,11 +8158,12 @@ date,location,completed
 2026-10-28,Vision Source Atwood,FALSE
 2026-10-28,Vision Source Burlington,FALSE
 2026-10-28,Vision Source Colby,FALSE
-2026-10-28,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-10-28,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-10-28,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-10-28,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-10-28,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-10-28,Vision Source Goodland,FALSE
 2026-10-28,Vision Source Junction City,TRUE
-2026-10-28,Vision Source Manhattan,FALSE
+2026-10-28,Vision Source Manhattan (Churned),FALSE
 2026-10-28,Vision Source Oakley,FALSE
 2026-10-28,Vision Source St Francis,FALSE
 2026-10-28,Vision Source Wamego,TRUE
@@ -8085,11 +8219,12 @@ date,location,completed
 2026-11-14,Vision Source Atwood,FALSE
 2026-11-14,Vision Source Burlington,FALSE
 2026-11-14,Vision Source Colby,FALSE
-2026-11-14,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-11-14,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-11-14,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-11-14,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-11-14,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-11-14,Vision Source Goodland,FALSE
 2026-11-14,Vision Source Junction City,TRUE
-2026-11-14,Vision Source Manhattan,FALSE
+2026-11-14,Vision Source Manhattan (Churned),FALSE
 2026-11-14,Vision Source Oakley,FALSE
 2026-11-14,Vision Source St Francis,FALSE
 2026-11-14,Vision Source Wamego,TRUE
@@ -8145,11 +8280,12 @@ date,location,completed
 2026-11-15,Vision Source Atwood,FALSE
 2026-11-15,Vision Source Burlington,FALSE
 2026-11-15,Vision Source Colby,FALSE
-2026-11-15,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-11-15,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-11-15,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-11-15,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-11-15,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-11-15,Vision Source Goodland,FALSE
 2026-11-15,Vision Source Junction City,TRUE
-2026-11-15,Vision Source Manhattan,FALSE
+2026-11-15,Vision Source Manhattan (Churned),FALSE
 2026-11-15,Vision Source Oakley,FALSE
 2026-11-15,Vision Source St Francis,FALSE
 2026-11-15,Vision Source Wamego,TRUE
@@ -8205,11 +8341,12 @@ date,location,completed
 2026-11-16,Vision Source Atwood,FALSE
 2026-11-16,Vision Source Burlington,FALSE
 2026-11-16,Vision Source Colby,FALSE
-2026-11-16,Vision Source Eye Center of the Triad Greensboro,TRUE
-2026-11-16,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-11-16,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-11-16,Vision Source Eye Center of the Triad Greensboro (Churned),TRUE
+2026-11-16,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-11-16,Vision Source Goodland,FALSE
 2026-11-16,Vision Source Junction City,TRUE
-2026-11-16,Vision Source Manhattan,FALSE
+2026-11-16,Vision Source Manhattan (Churned),FALSE
 2026-11-16,Vision Source Oakley,FALSE
 2026-11-16,Vision Source St Francis,FALSE
 2026-11-16,Vision Source Wamego,TRUE
@@ -8265,11 +8402,12 @@ date,location,completed
 2026-11-17,Vision Source Atwood,FALSE
 2026-11-17,Vision Source Burlington,FALSE
 2026-11-17,Vision Source Colby,FALSE
-2026-11-17,Vision Source Eye Center of the Triad Greensboro,FALSE
-2026-11-17,Vision Source Eye Center of the Triad Oak Ridge,FALSE
+2026-11-17,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-11-17,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-11-17,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
 2026-11-17,Vision Source Goodland,FALSE
 2026-11-17,Vision Source Junction City,TRUE
-2026-11-17,Vision Source Manhattan,FALSE
+2026-11-17,Vision Source Manhattan (Churned),FALSE
 2026-11-17,Vision Source Oakley,FALSE
 2026-11-17,Vision Source St Francis,FALSE
 2026-11-17,Vision Source Wamego,TRUE
@@ -8279,3 +8417,64 @@ date,location,completed
 2026-11-17,Waupun,TRUE
 2026-11-17,Wheaton,TRUE
 2026-11-17,Woodridge,TRUE
+2026-11-18,13th St,TRUE
+2026-11-18,Asheville,TRUE
+2026-11-18,Boston,FALSE
+2026-11-18,Boynton Beach,TRUE
+2026-11-18,Chilton Family Eye Care,TRUE
+2026-11-18,Citrus Heights,TRUE
+2026-11-18,Colchester,FALSE
+2026-11-18,Dallas,FALSE
+2026-11-18,Downtown,TRUE
+2026-11-18,East Northport,TRUE
+2026-11-18,Essex,FALSE
+2026-11-18,Eye Care Associates Jefferson,TRUE
+2026-11-18,Eye Care Associates Panora,TRUE
+2026-11-18,Eye Care Associates Perry,FALSE
+2026-11-18,Eye Care Associates Stuart,TRUE
+2026-11-18,Eyecare of Great Bend,TRUE
+2026-11-18,Eyes on Eastern,FALSE
+2026-11-18,Fort Collins,TRUE
+2026-11-18,Geneva,TRUE
+2026-11-18,Glen Mills,TRUE
+2026-11-18,Grafton Family Eye Care,TRUE
+2026-11-18,Hebron,FALSE
+2026-11-18,Irving,TRUE
+2026-11-18,Lake Mills,FALSE
+2026-11-18,Lancaster,TRUE
+2026-11-18,Larned Eye Health,TRUE
+2026-11-18,Longmont,TRUE
+2026-11-18,Madison,FALSE
+2026-11-18,Maple Grove,TRUE
+2026-11-18,McConnelsville,TRUE
+2026-11-18,Mitchell,TRUE
+2026-11-18,Naperville,TRUE
+2026-11-18,New Holstein Family Eye Care,TRUE
+2026-11-18,Omaha,TRUE
+2026-11-18,Orange City,TRUE
+2026-11-18,Orrville,TRUE
+2026-11-18,Park Hills,TRUE
+2026-11-18,Princeton,TRUE
+2026-11-18,Prosper,TRUE
+2026-11-18,Sheboygan Family Eye Care,TRUE
+2026-11-18,Tooele,TRUE
+2026-11-18,Toronto Ontario Canada,FALSE
+2026-11-18,Tulsa,TRUE
+2026-11-18,Vision Source Atwood,FALSE
+2026-11-18,Vision Source Burlington,FALSE
+2026-11-18,Vision Source Colby,FALSE
+2026-11-18,Vision Source Eye Center of the Triad - Greensboro,FALSE
+2026-11-18,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-11-18,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
+2026-11-18,Vision Source Goodland,FALSE
+2026-11-18,Vision Source Junction City,TRUE
+2026-11-18,Vision Source Manhattan (Churned),FALSE
+2026-11-18,Vision Source Oakley,FALSE
+2026-11-18,Vision Source St Francis,FALSE
+2026-11-18,Vision Source Wamego,TRUE
+2026-11-18,Vision Source Wray,FALSE
+2026-11-18,Vision Source Yuma,FALSE
+2026-11-18,WVEA,TRUE
+2026-11-18,Waupun,FALSE
+2026-11-18,Wheaton,TRUE
+2026-11-18,Woodridge,TRUE
