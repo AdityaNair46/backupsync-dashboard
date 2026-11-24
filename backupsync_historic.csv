@@ -2,7 +2,7 @@ date,location,completed
 2026-06-17,13th St,FALSE
 2026-06-17,Asheville,TRUE
 2026-06-17,Boston,TRUE
-2026-06-17,Boynton Beach,TRUE
+2026-06-17,Boynton Beach (Churned),TRUE
 2026-06-17,CLEAR eye doctors,FALSE
 2026-06-17,Chilton Family Eye Care,TRUE
 2026-06-17,Citrus Heights,TRUE
@@ -62,7 +62,7 @@ date,location,completed
 2026-06-18,13th St,FALSE
 2026-06-18,Asheville,TRUE
 2026-06-18,Boston,TRUE
-2026-06-18,Boynton Beach,TRUE
+2026-06-18,Boynton Beach (Churned),TRUE
 2026-06-18,CLEAR eye doctors,TRUE
 2026-06-18,Chilton Family Eye Care,TRUE
 2026-06-18,Citrus Heights,TRUE
@@ -122,7 +122,7 @@ date,location,completed
 2026-06-19,13th St,TRUE
 2026-06-19,Asheville,TRUE
 2026-06-19,Boston,TRUE
-2026-06-19,Boynton Beach,TRUE
+2026-06-19,Boynton Beach (Churned),TRUE
 2026-06-19,CLEAR eye doctors,FALSE
 2026-06-19,Chilton Family Eye Care,TRUE
 2026-06-19,Citrus Heights,FALSE
@@ -182,7 +182,7 @@ date,location,completed
 2026-06-20,13th St,TRUE
 2026-06-20,Asheville,TRUE
 2026-06-20,Boston,TRUE
-2026-06-20,Boynton Beach,TRUE
+2026-06-20,Boynton Beach (Churned),TRUE
 2026-06-20,CLEAR eye doctors,TRUE
 2026-06-20,Chilton Family Eye Care,TRUE
 2026-06-20,Citrus Heights,TRUE
@@ -242,7 +242,7 @@ date,location,completed
 2026-06-21,13th St,TRUE
 2026-06-21,Asheville,TRUE
 2026-06-21,Boston,TRUE
-2026-06-21,Boynton Beach,TRUE
+2026-06-21,Boynton Beach (Churned),TRUE
 2026-06-21,CLEAR eye doctors,FALSE
 2026-06-21,Chilton Family Eye Care,TRUE
 2026-06-21,Citrus Heights,TRUE
@@ -302,7 +302,7 @@ date,location,completed
 2026-06-22,13th St,TRUE
 2026-06-22,Asheville,TRUE
 2026-06-22,Boston,TRUE
-2026-06-22,Boynton Beach,TRUE
+2026-06-22,Boynton Beach (Churned),TRUE
 2026-06-22,CLEAR eye doctors,TRUE
 2026-06-22,Chilton Family Eye Care,TRUE
 2026-06-22,Citrus Heights,TRUE
@@ -362,7 +362,7 @@ date,location,completed
 2026-06-23,13th St,TRUE
 2026-06-23,Asheville,TRUE
 2026-06-23,Boston,TRUE
-2026-06-23,Boynton Beach,TRUE
+2026-06-23,Boynton Beach (Churned),TRUE
 2026-06-23,CLEAR eye doctors,FALSE
 2026-06-23,Chilton Family Eye Care,TRUE
 2026-06-23,Citrus Heights,TRUE
@@ -422,7 +422,7 @@ date,location,completed
 2026-06-24,13th St,TRUE
 2026-06-24,Asheville,TRUE
 2026-06-24,Boston,TRUE
-2026-06-24,Boynton Beach,TRUE
+2026-06-24,Boynton Beach (Churned),TRUE
 2026-06-24,CLEAR eye doctors,FALSE
 2026-06-24,Chilton Family Eye Care,TRUE
 2026-06-24,Citrus Heights,TRUE
@@ -482,7 +482,7 @@ date,location,completed
 2026-06-25,13th St,TRUE
 2026-06-25,Asheville,TRUE
 2026-06-25,Boston,TRUE
-2026-06-25,Boynton Beach,TRUE
+2026-06-25,Boynton Beach (Churned),TRUE
 2026-06-25,CLEAR eye doctors,TRUE
 2026-06-25,Chilton Family Eye Care,TRUE
 2026-06-25,Citrus Heights,TRUE
@@ -542,7 +542,7 @@ date,location,completed
 2026-06-26,13th St,TRUE
 2026-06-26,Asheville,TRUE
 2026-06-26,Boston,TRUE
-2026-06-26,Boynton Beach,TRUE
+2026-06-26,Boynton Beach (Churned),TRUE
 2026-06-26,CLEAR eye doctors,TRUE
 2026-06-26,Chilton Family Eye Care,TRUE
 2026-06-26,Citrus Heights,TRUE
@@ -602,7 +602,7 @@ date,location,completed
 2026-06-27,13th St,TRUE
 2026-06-27,Asheville,TRUE
 2026-06-27,Boston,TRUE
-2026-06-27,Boynton Beach,TRUE
+2026-06-27,Boynton Beach (Churned),TRUE
 2026-06-27,CLEAR eye doctors,TRUE
 2026-06-27,Chilton Family Eye Care,TRUE
 2026-06-27,Citrus Heights,TRUE
@@ -662,7 +662,7 @@ date,location,completed
 2026-06-28,13th St,TRUE
 2026-06-28,Asheville,TRUE
 2026-06-28,Boston,TRUE
-2026-06-28,Boynton Beach,TRUE
+2026-06-28,Boynton Beach (Churned),TRUE
 2026-06-28,CLEAR eye doctors,FALSE
 2026-06-28,Chilton Family Eye Care,TRUE
 2026-06-28,Citrus Heights,TRUE
@@ -722,7 +722,7 @@ date,location,completed
 2026-06-29,13th St,TRUE
 2026-06-29,Asheville,TRUE
 2026-06-29,Boston,TRUE
-2026-06-29,Boynton Beach,TRUE
+2026-06-29,Boynton Beach (Churned),TRUE
 2026-06-29,CLEAR eye doctors,TRUE
 2026-06-29,Chilton Family Eye Care,TRUE
 2026-06-29,Citrus Heights,TRUE
@@ -782,7 +782,7 @@ date,location,completed
 2026-06-30,13th St,FALSE
 2026-06-30,Asheville,TRUE
 2026-06-30,Boston,TRUE
-2026-06-30,Boynton Beach,TRUE
+2026-06-30,Boynton Beach (Churned),TRUE
 2026-06-30,CLEAR eye doctors,TRUE
 2026-06-30,Chilton Family Eye Care,TRUE
 2026-06-30,Citrus Heights,TRUE
@@ -842,7 +842,7 @@ date,location,completed
 2026-07-01,13th St,TRUE
 2026-07-01,Asheville,FALSE
 2026-07-01,Boston,TRUE
-2026-07-01,Boynton Beach,TRUE
+2026-07-01,Boynton Beach (Churned),TRUE
 2026-07-01,CLEAR eye doctors,FALSE
 2026-07-01,Chilton Family Eye Care,FALSE
 2026-07-01,Citrus Heights,TRUE
@@ -902,7 +902,7 @@ date,location,completed
 2026-07-02,13th St,TRUE
 2026-07-02,Asheville,TRUE
 2026-07-02,Boston,FALSE
-2026-07-02,Boynton Beach,FALSE
+2026-07-02,Boynton Beach (Churned),FALSE
 2026-07-02,CLEAR eye doctors,TRUE
 2026-07-02,Chilton Family Eye Care,TRUE
 2026-07-02,Citrus Heights,TRUE
@@ -962,7 +962,7 @@ date,location,completed
 2026-07-03,13th St,FALSE
 2026-07-03,Asheville,TRUE
 2026-07-03,Boston,TRUE
-2026-07-03,Boynton Beach,TRUE
+2026-07-03,Boynton Beach (Churned),TRUE
 2026-07-03,CLEAR eye doctors,TRUE
 2026-07-03,Chilton Family Eye Care,TRUE
 2026-07-03,Citrus Heights,TRUE
@@ -1022,7 +1022,7 @@ date,location,completed
 2026-07-04,13th St,FALSE
 2026-07-04,Asheville,TRUE
 2026-07-04,Boston,TRUE
-2026-07-04,Boynton Beach,TRUE
+2026-07-04,Boynton Beach (Churned),TRUE
 2026-07-04,CLEAR eye doctors,FALSE
 2026-07-04,Chilton Family Eye Care,TRUE
 2026-07-04,Citrus Heights,TRUE
@@ -1082,7 +1082,7 @@ date,location,completed
 2026-07-05,13th St,FALSE
 2026-07-05,Asheville,TRUE
 2026-07-05,Boston,TRUE
-2026-07-05,Boynton Beach,TRUE
+2026-07-05,Boynton Beach (Churned),TRUE
 2026-07-05,CLEAR eye doctors,TRUE
 2026-07-05,Chilton Family Eye Care,TRUE
 2026-07-05,Citrus Heights,TRUE
@@ -1142,7 +1142,7 @@ date,location,completed
 2026-07-06,13th St,TRUE
 2026-07-06,Asheville,TRUE
 2026-07-06,Boston,TRUE
-2026-07-06,Boynton Beach,TRUE
+2026-07-06,Boynton Beach (Churned),TRUE
 2026-07-06,CLEAR eye doctors,FALSE
 2026-07-06,Chilton Family Eye Care,TRUE
 2026-07-06,Citrus Heights,TRUE
@@ -1202,7 +1202,7 @@ date,location,completed
 2026-07-07,13th St,TRUE
 2026-07-07,Asheville,TRUE
 2026-07-07,Boston,TRUE
-2026-07-07,Boynton Beach,TRUE
+2026-07-07,Boynton Beach (Churned),TRUE
 2026-07-07,CLEAR eye doctors,TRUE
 2026-07-07,Chilton Family Eye Care,TRUE
 2026-07-07,Citrus Heights,TRUE
@@ -1262,7 +1262,7 @@ date,location,completed
 2026-07-08,13th St,FALSE
 2026-07-08,Asheville,TRUE
 2026-07-08,Boston,TRUE
-2026-07-08,Boynton Beach,TRUE
+2026-07-08,Boynton Beach (Churned),TRUE
 2026-07-08,CLEAR eye doctors,FALSE
 2026-07-08,Chilton Family Eye Care,TRUE
 2026-07-08,Citrus Heights,TRUE
@@ -1322,7 +1322,7 @@ date,location,completed
 2026-07-09,13th St,TRUE
 2026-07-09,Asheville,TRUE
 2026-07-09,Boston,TRUE
-2026-07-09,Boynton Beach,TRUE
+2026-07-09,Boynton Beach (Churned),TRUE
 2026-07-09,CLEAR eye doctors,FALSE
 2026-07-09,Chilton Family Eye Care,TRUE
 2026-07-09,Citrus Heights,FALSE
@@ -1382,7 +1382,7 @@ date,location,completed
 2026-07-10,13th St,FALSE
 2026-07-10,Asheville,TRUE
 2026-07-10,Boston,TRUE
-2026-07-10,Boynton Beach,TRUE
+2026-07-10,Boynton Beach (Churned),TRUE
 2026-07-10,CLEAR eye doctors,TRUE
 2026-07-10,Chilton Family Eye Care,TRUE
 2026-07-10,Citrus Heights,TRUE
@@ -1442,7 +1442,7 @@ date,location,completed
 2026-07-11,13th St,TRUE
 2026-07-11,Asheville,TRUE
 2026-07-11,Boston,TRUE
-2026-07-11,Boynton Beach,TRUE
+2026-07-11,Boynton Beach (Churned),TRUE
 2026-07-11,CLEAR eye doctors,FALSE
 2026-07-11,Chilton Family Eye Care,TRUE
 2026-07-11,Citrus Heights,TRUE
@@ -1502,7 +1502,7 @@ date,location,completed
 2026-07-12,13th St,TRUE
 2026-07-12,Asheville,TRUE
 2026-07-12,Boston,TRUE
-2026-07-12,Boynton Beach,TRUE
+2026-07-12,Boynton Beach (Churned),TRUE
 2026-07-12,CLEAR eye doctors,TRUE
 2026-07-12,Chilton Family Eye Care,TRUE
 2026-07-12,Citrus Heights,TRUE
@@ -1562,7 +1562,7 @@ date,location,completed
 2026-07-13,13th St,TRUE
 2026-07-13,Asheville,TRUE
 2026-07-13,Boston,TRUE
-2026-07-13,Boynton Beach,TRUE
+2026-07-13,Boynton Beach (Churned),TRUE
 2026-07-13,CLEAR eye doctors,TRUE
 2026-07-13,Chilton Family Eye Care,TRUE
 2026-07-13,Citrus Heights,TRUE
@@ -1622,7 +1622,7 @@ date,location,completed
 2026-07-14,13th St,TRUE
 2026-07-14,Asheville,TRUE
 2026-07-14,Boston,TRUE
-2026-07-14,Boynton Beach,TRUE
+2026-07-14,Boynton Beach (Churned),TRUE
 2026-07-14,CLEAR eye doctors,TRUE
 2026-07-14,Chilton Family Eye Care,TRUE
 2026-07-14,Citrus Heights,TRUE
@@ -1682,7 +1682,7 @@ date,location,completed
 2026-07-15,13th St,TRUE
 2026-07-15,Asheville,TRUE
 2026-07-15,Boston,TRUE
-2026-07-15,Boynton Beach,TRUE
+2026-07-15,Boynton Beach (Churned),TRUE
 2026-07-15,CLEAR eye doctors,FALSE
 2026-07-15,Chilton Family Eye Care,TRUE
 2026-07-15,Citrus Heights,TRUE
@@ -1742,7 +1742,7 @@ date,location,completed
 2026-07-16,13th St,TRUE
 2026-07-16,Asheville,TRUE
 2026-07-16,Boston,TRUE
-2026-07-16,Boynton Beach,TRUE
+2026-07-16,Boynton Beach (Churned),TRUE
 2026-07-16,CLEAR eye doctors,TRUE
 2026-07-16,Chilton Family Eye Care,TRUE
 2026-07-16,Citrus Heights,TRUE
@@ -1802,7 +1802,7 @@ date,location,completed
 2026-07-17,13th St,TRUE
 2026-07-17,Asheville,TRUE
 2026-07-17,Boston,TRUE
-2026-07-17,Boynton Beach,TRUE
+2026-07-17,Boynton Beach (Churned),TRUE
 2026-07-17,CLEAR eye doctors,TRUE
 2026-07-17,Chilton Family Eye Care,TRUE
 2026-07-17,Citrus Heights,TRUE
@@ -1862,7 +1862,7 @@ date,location,completed
 2026-07-18,13th St,TRUE
 2026-07-18,Asheville,TRUE
 2026-07-18,Boston,TRUE
-2026-07-18,Boynton Beach,TRUE
+2026-07-18,Boynton Beach (Churned),TRUE
 2026-07-18,CLEAR eye doctors,TRUE
 2026-07-18,Chilton Family Eye Care,TRUE
 2026-07-18,Citrus Heights,TRUE
@@ -1922,7 +1922,7 @@ date,location,completed
 2026-07-19,13th St,TRUE
 2026-07-19,Asheville,TRUE
 2026-07-19,Boston,TRUE
-2026-07-19,Boynton Beach,TRUE
+2026-07-19,Boynton Beach (Churned),TRUE
 2026-07-19,CLEAR eye doctors,TRUE
 2026-07-19,Chilton Family Eye Care,TRUE
 2026-07-19,Citrus Heights,TRUE
@@ -1982,7 +1982,7 @@ date,location,completed
 2026-07-20,13th St,TRUE
 2026-07-20,Asheville,TRUE
 2026-07-20,Boston,TRUE
-2026-07-20,Boynton Beach,TRUE
+2026-07-20,Boynton Beach (Churned),TRUE
 2026-07-20,CLEAR eye doctors,TRUE
 2026-07-20,Chilton Family Eye Care,TRUE
 2026-07-20,Citrus Heights,TRUE
@@ -2042,7 +2042,7 @@ date,location,completed
 2026-07-21,13th St,TRUE
 2026-07-21,Asheville,TRUE
 2026-07-21,Boston,TRUE
-2026-07-21,Boynton Beach,TRUE
+2026-07-21,Boynton Beach (Churned),TRUE
 2026-07-21,CLEAR eye doctors,TRUE
 2026-07-21,Chilton Family Eye Care,TRUE
 2026-07-21,Citrus Heights,TRUE
@@ -2102,7 +2102,7 @@ date,location,completed
 2026-07-22,13th St,FALSE
 2026-07-22,Asheville,TRUE
 2026-07-22,Boston,TRUE
-2026-07-22,Boynton Beach,TRUE
+2026-07-22,Boynton Beach (Churned),TRUE
 2026-07-22,CLEAR eye doctors,FALSE
 2026-07-22,Chilton Family Eye Care,TRUE
 2026-07-22,Citrus Heights,TRUE
@@ -2162,7 +2162,7 @@ date,location,completed
 2026-07-23,13th St,TRUE
 2026-07-23,Asheville,TRUE
 2026-07-23,Boston,FALSE
-2026-07-23,Boynton Beach,TRUE
+2026-07-23,Boynton Beach (Churned),TRUE
 2026-07-23,CLEAR eye doctors,FALSE
 2026-07-23,Chilton Family Eye Care,TRUE
 2026-07-23,Citrus Heights,TRUE
@@ -2222,7 +2222,7 @@ date,location,completed
 2026-07-24,13th St,TRUE
 2026-07-24,Asheville,TRUE
 2026-07-24,Boston,FALSE
-2026-07-24,Boynton Beach,TRUE
+2026-07-24,Boynton Beach (Churned),TRUE
 2026-07-24,CLEAR eye doctors,FALSE
 2026-07-24,Chilton Family Eye Care,TRUE
 2026-07-24,Citrus Heights,TRUE
@@ -2282,7 +2282,7 @@ date,location,completed
 2026-07-25,13th St,TRUE
 2026-07-25,Asheville,TRUE
 2026-07-25,Boston,FALSE
-2026-07-25,Boynton Beach,TRUE
+2026-07-25,Boynton Beach (Churned),TRUE
 2026-07-25,CLEAR eye doctors,TRUE
 2026-07-25,Chilton Family Eye Care,TRUE
 2026-07-25,Citrus Heights,TRUE
@@ -2342,7 +2342,7 @@ date,location,completed
 2026-07-26,13th St,TRUE
 2026-07-26,Asheville,TRUE
 2026-07-26,Boston,FALSE
-2026-07-26,Boynton Beach,TRUE
+2026-07-26,Boynton Beach (Churned),TRUE
 2026-07-26,CLEAR eye doctors,FALSE
 2026-07-26,Chilton Family Eye Care,TRUE
 2026-07-26,Citrus Heights,TRUE
@@ -2402,7 +2402,7 @@ date,location,completed
 2026-07-27,13th St,TRUE
 2026-07-27,Asheville,TRUE
 2026-07-27,Boston,FALSE
-2026-07-27,Boynton Beach,TRUE
+2026-07-27,Boynton Beach (Churned),TRUE
 2026-07-27,CLEAR eye doctors,TRUE
 2026-07-27,Chilton Family Eye Care,TRUE
 2026-07-27,Citrus Heights,TRUE
@@ -2462,7 +2462,7 @@ date,location,completed
 2026-07-28,13th St,FALSE
 2026-07-28,Asheville,TRUE
 2026-07-28,Boston,FALSE
-2026-07-28,Boynton Beach,TRUE
+2026-07-28,Boynton Beach (Churned),TRUE
 2026-07-28,CLEAR eye doctors,TRUE
 2026-07-28,Chilton Family Eye Care,TRUE
 2026-07-28,Citrus Heights,TRUE
@@ -2522,7 +2522,7 @@ date,location,completed
 2026-07-29,13th St,TRUE
 2026-07-29,Asheville,TRUE
 2026-07-29,Boston,FALSE
-2026-07-29,Boynton Beach,TRUE
+2026-07-29,Boynton Beach (Churned),TRUE
 2026-07-29,CLEAR eye doctors,TRUE
 2026-07-29,Chilton Family Eye Care,TRUE
 2026-07-29,Citrus Heights,TRUE
@@ -2582,7 +2582,7 @@ date,location,completed
 2026-07-30,13th St,TRUE
 2026-07-30,Asheville,TRUE
 2026-07-30,Boston,TRUE
-2026-07-30,Boynton Beach,TRUE
+2026-07-30,Boynton Beach (Churned),TRUE
 2026-07-30,CLEAR eye doctors,TRUE
 2026-07-30,Chilton Family Eye Care,TRUE
 2026-07-30,Citrus Heights,TRUE
@@ -2642,7 +2642,7 @@ date,location,completed
 2026-07-31,13th St,TRUE
 2026-07-31,Asheville,TRUE
 2026-07-31,Boston,FALSE
-2026-07-31,Boynton Beach,TRUE
+2026-07-31,Boynton Beach (Churned),TRUE
 2026-07-31,CLEAR eye doctors,TRUE
 2026-07-31,Chilton Family Eye Care,TRUE
 2026-07-31,Citrus Heights,TRUE
@@ -2702,7 +2702,7 @@ date,location,completed
 2026-08-01,13th St,TRUE
 2026-08-01,Asheville,TRUE
 2026-08-01,Boston,TRUE
-2026-08-01,Boynton Beach,TRUE
+2026-08-01,Boynton Beach (Churned),TRUE
 2026-08-01,CLEAR eye doctors,TRUE
 2026-08-01,Chilton Family Eye Care,TRUE
 2026-08-01,Citrus Heights,TRUE
@@ -2762,7 +2762,7 @@ date,location,completed
 2026-08-02,13th St,TRUE
 2026-08-02,Asheville,TRUE
 2026-08-02,Boston,TRUE
-2026-08-02,Boynton Beach,TRUE
+2026-08-02,Boynton Beach (Churned),TRUE
 2026-08-02,CLEAR eye doctors,TRUE
 2026-08-02,Chilton Family Eye Care,TRUE
 2026-08-02,Citrus Heights,TRUE
@@ -2822,7 +2822,7 @@ date,location,completed
 2026-08-03,13th St,TRUE
 2026-08-03,Asheville,FALSE
 2026-08-03,Boston,TRUE
-2026-08-03,Boynton Beach,TRUE
+2026-08-03,Boynton Beach (Churned),TRUE
 2026-08-03,CLEAR eye doctors,TRUE
 2026-08-03,Chilton Family Eye Care,TRUE
 2026-08-03,Citrus Heights,TRUE
@@ -2882,7 +2882,7 @@ date,location,completed
 2026-08-04,13th St,FALSE
 2026-08-04,Asheville,TRUE
 2026-08-04,Boston,TRUE
-2026-08-04,Boynton Beach,TRUE
+2026-08-04,Boynton Beach (Churned),TRUE
 2026-08-04,CLEAR eye doctors,FALSE
 2026-08-04,Chilton Family Eye Care,FALSE
 2026-08-04,Citrus Heights,TRUE
@@ -2942,7 +2942,7 @@ date,location,completed
 2026-08-05,13th St,TRUE
 2026-08-05,Asheville,TRUE
 2026-08-05,Boston,TRUE
-2026-08-05,Boynton Beach,TRUE
+2026-08-05,Boynton Beach (Churned),TRUE
 2026-08-05,CLEAR eye doctors,TRUE
 2026-08-05,Chilton Family Eye Care,TRUE
 2026-08-05,Citrus Heights,TRUE
@@ -3002,7 +3002,7 @@ date,location,completed
 2026-08-06,13th St,FALSE
 2026-08-06,Asheville,TRUE
 2026-08-06,Boston,TRUE
-2026-08-06,Boynton Beach,TRUE
+2026-08-06,Boynton Beach (Churned),TRUE
 2026-08-06,CLEAR eye doctors,FALSE
 2026-08-06,Chilton Family Eye Care,TRUE
 2026-08-06,Citrus Heights,TRUE
@@ -3062,7 +3062,7 @@ date,location,completed
 2026-08-07,13th St,FALSE
 2026-08-07,Asheville,FALSE
 2026-08-07,Boston,FALSE
-2026-08-07,Boynton Beach,FALSE
+2026-08-07,Boynton Beach (Churned),FALSE
 2026-08-07,CLEAR eye doctors,TRUE
 2026-08-07,Chilton Family Eye Care,FALSE
 2026-08-07,Citrus Heights,FALSE
@@ -3122,7 +3122,7 @@ date,location,completed
 2026-08-08,13th St,FALSE
 2026-08-08,Asheville,FALSE
 2026-08-08,Boston,FALSE
-2026-08-08,Boynton Beach,FALSE
+2026-08-08,Boynton Beach (Churned),FALSE
 2026-08-08,CLEAR eye doctors,FALSE
 2026-08-08,Chilton Family Eye Care,FALSE
 2026-08-08,Citrus Heights,FALSE
@@ -3182,7 +3182,7 @@ date,location,completed
 2026-08-09,13th St,FALSE
 2026-08-09,Asheville,FALSE
 2026-08-09,Boston,FALSE
-2026-08-09,Boynton Beach,FALSE
+2026-08-09,Boynton Beach (Churned),FALSE
 2026-08-09,CLEAR eye doctors,TRUE
 2026-08-09,Chilton Family Eye Care,FALSE
 2026-08-09,Citrus Heights,FALSE
@@ -3242,7 +3242,7 @@ date,location,completed
 2026-08-10,13th St,FALSE
 2026-08-10,Asheville,FALSE
 2026-08-10,Boston,FALSE
-2026-08-10,Boynton Beach,FALSE
+2026-08-10,Boynton Beach (Churned),FALSE
 2026-08-10,CLEAR eye doctors,FALSE
 2026-08-10,Chilton Family Eye Care,FALSE
 2026-08-10,Citrus Heights,FALSE
@@ -3302,7 +3302,7 @@ date,location,completed
 2026-08-11,13th St,TRUE
 2026-08-11,Asheville,TRUE
 2026-08-11,Boston,TRUE
-2026-08-11,Boynton Beach,TRUE
+2026-08-11,Boynton Beach (Churned),TRUE
 2026-08-11,CLEAR eye doctors,TRUE
 2026-08-11,Chilton Family Eye Care,TRUE
 2026-08-11,Citrus Heights,TRUE
@@ -3362,7 +3362,7 @@ date,location,completed
 2026-08-12,13th St,TRUE
 2026-08-12,Asheville,TRUE
 2026-08-12,Boston,TRUE
-2026-08-12,Boynton Beach,TRUE
+2026-08-12,Boynton Beach (Churned),TRUE
 2026-08-12,CLEAR eye doctors,TRUE
 2026-08-12,Chilton Family Eye Care,TRUE
 2026-08-12,Citrus Heights,TRUE
@@ -3422,7 +3422,7 @@ date,location,completed
 2026-08-13,13th St,TRUE
 2026-08-13,Asheville,TRUE
 2026-08-13,Boston,TRUE
-2026-08-13,Boynton Beach,TRUE
+2026-08-13,Boynton Beach (Churned),TRUE
 2026-08-13,CLEAR eye doctors,TRUE
 2026-08-13,Chilton Family Eye Care,TRUE
 2026-08-13,Citrus Heights,TRUE
@@ -3482,7 +3482,7 @@ date,location,completed
 2026-08-14,13th St,TRUE
 2026-08-14,Asheville,TRUE
 2026-08-14,Boston,TRUE
-2026-08-14,Boynton Beach,TRUE
+2026-08-14,Boynton Beach (Churned),TRUE
 2026-08-14,CLEAR eye doctors,TRUE
 2026-08-14,Chilton Family Eye Care,TRUE
 2026-08-14,Citrus Heights,TRUE
@@ -3542,7 +3542,7 @@ date,location,completed
 2026-08-15,13th St,TRUE
 2026-08-15,Asheville,TRUE
 2026-08-15,Boston,TRUE
-2026-08-15,Boynton Beach,TRUE
+2026-08-15,Boynton Beach (Churned),TRUE
 2026-08-15,CLEAR eye doctors,TRUE
 2026-08-15,Chilton Family Eye Care,TRUE
 2026-08-15,Citrus Heights,TRUE
@@ -3602,7 +3602,7 @@ date,location,completed
 2026-08-16,13th St,TRUE
 2026-08-16,Asheville,TRUE
 2026-08-16,Boston,TRUE
-2026-08-16,Boynton Beach,TRUE
+2026-08-16,Boynton Beach (Churned),TRUE
 2026-08-16,CLEAR eye doctors,TRUE
 2026-08-16,Chilton Family Eye Care,TRUE
 2026-08-16,Citrus Heights,FALSE
@@ -3662,7 +3662,7 @@ date,location,completed
 2026-08-17,13th St,TRUE
 2026-08-17,Asheville,TRUE
 2026-08-17,Boston,TRUE
-2026-08-17,Boynton Beach,TRUE
+2026-08-17,Boynton Beach (Churned),TRUE
 2026-08-17,CLEAR eye doctors,TRUE
 2026-08-17,Chilton Family Eye Care,TRUE
 2026-08-17,Citrus Heights,TRUE
@@ -3722,7 +3722,7 @@ date,location,completed
 2026-08-18,13th St,TRUE
 2026-08-18,Asheville,TRUE
 2026-08-18,Boston,TRUE
-2026-08-18,Boynton Beach,TRUE
+2026-08-18,Boynton Beach (Churned),TRUE
 2026-08-18,CLEAR eye doctors,TRUE
 2026-08-18,Chilton Family Eye Care,TRUE
 2026-08-18,Citrus Heights,TRUE
@@ -3782,7 +3782,7 @@ date,location,completed
 2026-08-19,13th St,TRUE
 2026-08-19,Asheville,TRUE
 2026-08-19,Boston,TRUE
-2026-08-19,Boynton Beach,TRUE
+2026-08-19,Boynton Beach (Churned),TRUE
 2026-08-19,CLEAR eye doctors,TRUE
 2026-08-19,Chilton Family Eye Care,TRUE
 2026-08-19,Citrus Heights,TRUE
@@ -3842,7 +3842,7 @@ date,location,completed
 2026-08-20,13th St,FALSE
 2026-08-20,Asheville,FALSE
 2026-08-20,Boston,FALSE
-2026-08-20,Boynton Beach,FALSE
+2026-08-20,Boynton Beach (Churned),FALSE
 2026-08-20,CLEAR eye doctors,FALSE
 2026-08-20,Chilton Family Eye Care,FALSE
 2026-08-20,Citrus Heights,FALSE
@@ -3902,7 +3902,7 @@ date,location,completed
 2026-08-21,13th St,TRUE
 2026-08-21,Asheville,TRUE
 2026-08-21,Boston,TRUE
-2026-08-21,Boynton Beach,TRUE
+2026-08-21,Boynton Beach (Churned),TRUE
 2026-08-21,CLEAR eye doctors,TRUE
 2026-08-21,Chilton Family Eye Care,TRUE
 2026-08-21,Citrus Heights,TRUE
@@ -3962,7 +3962,7 @@ date,location,completed
 2026-08-22,13th St,TRUE
 2026-08-22,Asheville,TRUE
 2026-08-22,Boston,TRUE
-2026-08-22,Boynton Beach,TRUE
+2026-08-22,Boynton Beach (Churned),TRUE
 2026-08-22,CLEAR eye doctors,TRUE
 2026-08-22,Chilton Family Eye Care,TRUE
 2026-08-22,Citrus Heights,TRUE
@@ -4022,7 +4022,7 @@ date,location,completed
 2026-08-23,13th St,TRUE
 2026-08-23,Asheville,TRUE
 2026-08-23,Boston,TRUE
-2026-08-23,Boynton Beach,TRUE
+2026-08-23,Boynton Beach (Churned),TRUE
 2026-08-23,CLEAR eye doctors,TRUE
 2026-08-23,Chilton Family Eye Care,TRUE
 2026-08-23,Citrus Heights,TRUE
@@ -4082,7 +4082,7 @@ date,location,completed
 2026-08-24,13th St,TRUE
 2026-08-24,Asheville,TRUE
 2026-08-24,Boston,TRUE
-2026-08-24,Boynton Beach,TRUE
+2026-08-24,Boynton Beach (Churned),TRUE
 2026-08-24,CLEAR eye doctors,FALSE
 2026-08-24,Chilton Family Eye Care,TRUE
 2026-08-24,Citrus Heights,TRUE
@@ -4142,7 +4142,7 @@ date,location,completed
 2026-08-25,13th St,TRUE
 2026-08-25,Asheville,TRUE
 2026-08-25,Boston,TRUE
-2026-08-25,Boynton Beach,TRUE
+2026-08-25,Boynton Beach (Churned),TRUE
 2026-08-25,CLEAR eye doctors,TRUE
 2026-08-25,Chilton Family Eye Care,TRUE
 2026-08-25,Citrus Heights,TRUE
@@ -4202,7 +4202,7 @@ date,location,completed
 2026-08-26,13th St,FALSE
 2026-08-26,Asheville,TRUE
 2026-08-26,Boston,TRUE
-2026-08-26,Boynton Beach,TRUE
+2026-08-26,Boynton Beach (Churned),TRUE
 2026-08-26,CLEAR eye doctors,TRUE
 2026-08-26,Chilton Family Eye Care,TRUE
 2026-08-26,Citrus Heights,TRUE
@@ -4262,7 +4262,7 @@ date,location,completed
 2026-08-27,13th St,TRUE
 2026-08-27,Asheville,TRUE
 2026-08-27,Boston,TRUE
-2026-08-27,Boynton Beach,TRUE
+2026-08-27,Boynton Beach (Churned),TRUE
 2026-08-27,CLEAR eye doctors,TRUE
 2026-08-27,Chilton Family Eye Care,TRUE
 2026-08-27,Citrus Heights,TRUE
@@ -4322,7 +4322,7 @@ date,location,completed
 2026-08-28,13th St,FALSE
 2026-08-28,Asheville,TRUE
 2026-08-28,Boston,TRUE
-2026-08-28,Boynton Beach,TRUE
+2026-08-28,Boynton Beach (Churned),TRUE
 2026-08-28,CLEAR eye doctors,TRUE
 2026-08-28,Chilton Family Eye Care,TRUE
 2026-08-28,Citrus Heights,TRUE
@@ -4382,7 +4382,7 @@ date,location,completed
 2026-08-29,13th St,TRUE
 2026-08-29,Asheville,TRUE
 2026-08-29,Boston,TRUE
-2026-08-29,Boynton Beach,TRUE
+2026-08-29,Boynton Beach (Churned),TRUE
 2026-08-29,CLEAR eye doctors,TRUE
 2026-08-29,Chilton Family Eye Care,TRUE
 2026-08-29,Citrus Heights,TRUE
@@ -4442,7 +4442,7 @@ date,location,completed
 2026-08-30,13th St,TRUE
 2026-08-30,Asheville,TRUE
 2026-08-30,Boston,TRUE
-2026-08-30,Boynton Beach,TRUE
+2026-08-30,Boynton Beach (Churned),TRUE
 2026-08-30,CLEAR eye doctors,FALSE
 2026-08-30,Chilton Family Eye Care,TRUE
 2026-08-30,Citrus Heights,TRUE
@@ -4502,7 +4502,7 @@ date,location,completed
 2026-08-31,13th St,TRUE
 2026-08-31,Asheville,TRUE
 2026-08-31,Boston,TRUE
-2026-08-31,Boynton Beach,TRUE
+2026-08-31,Boynton Beach (Churned),TRUE
 2026-08-31,CLEAR eye doctors,TRUE
 2026-08-31,Chilton Family Eye Care,TRUE
 2026-08-31,Citrus Heights,TRUE
@@ -4562,7 +4562,7 @@ date,location,completed
 2026-09-01,13th St,FALSE
 2026-09-01,Asheville,TRUE
 2026-09-01,Boston,TRUE
-2026-09-01,Boynton Beach,TRUE
+2026-09-01,Boynton Beach (Churned),TRUE
 2026-09-01,CLEAR eye doctors,TRUE
 2026-09-01,Chilton Family Eye Care,TRUE
 2026-09-01,Citrus Heights,TRUE
@@ -4622,7 +4622,7 @@ date,location,completed
 2026-09-02,13th St,FALSE
 2026-09-02,Asheville,TRUE
 2026-09-02,Boston,TRUE
-2026-09-02,Boynton Beach,TRUE
+2026-09-02,Boynton Beach (Churned),TRUE
 2026-09-02,CLEAR eye doctors,TRUE
 2026-09-02,Chilton Family Eye Care,TRUE
 2026-09-02,Citrus Heights,TRUE
@@ -4682,7 +4682,7 @@ date,location,completed
 2026-09-03,13th St,TRUE
 2026-09-03,Asheville,TRUE
 2026-09-03,Boston,TRUE
-2026-09-03,Boynton Beach,TRUE
+2026-09-03,Boynton Beach (Churned),TRUE
 2026-09-03,CLEAR eye doctors,TRUE
 2026-09-03,Chilton Family Eye Care,TRUE
 2026-09-03,Citrus Heights,TRUE
@@ -4742,7 +4742,7 @@ date,location,completed
 2026-09-04,13th St,FALSE
 2026-09-04,Asheville,TRUE
 2026-09-04,Boston,TRUE
-2026-09-04,Boynton Beach,TRUE
+2026-09-04,Boynton Beach (Churned),TRUE
 2026-09-04,CLEAR eye doctors,TRUE
 2026-09-04,Chilton Family Eye Care,TRUE
 2026-09-04,Citrus Heights,TRUE
@@ -4802,7 +4802,7 @@ date,location,completed
 2026-09-05,13th St,TRUE
 2026-09-05,Asheville,TRUE
 2026-09-05,Boston,TRUE
-2026-09-05,Boynton Beach,TRUE
+2026-09-05,Boynton Beach (Churned),TRUE
 2026-09-05,CLEAR eye doctors,TRUE
 2026-09-05,Chilton Family Eye Care,TRUE
 2026-09-05,Citrus Heights,TRUE
@@ -4862,7 +4862,7 @@ date,location,completed
 2026-09-06,13th St,TRUE
 2026-09-06,Asheville,TRUE
 2026-09-06,Boston,TRUE
-2026-09-06,Boynton Beach,TRUE
+2026-09-06,Boynton Beach (Churned),TRUE
 2026-09-06,CLEAR eye doctors,TRUE
 2026-09-06,Chilton Family Eye Care,TRUE
 2026-09-06,Citrus Heights,TRUE
@@ -4922,7 +4922,7 @@ date,location,completed
 2026-09-07,13th St,TRUE
 2026-09-07,Asheville,TRUE
 2026-09-07,Boston,TRUE
-2026-09-07,Boynton Beach,TRUE
+2026-09-07,Boynton Beach (Churned),TRUE
 2026-09-07,CLEAR eye doctors,TRUE
 2026-09-07,Chilton Family Eye Care,TRUE
 2026-09-07,Citrus Heights,TRUE
@@ -4982,7 +4982,7 @@ date,location,completed
 2026-09-08,13th St,TRUE
 2026-09-08,Asheville,TRUE
 2026-09-08,Boston,TRUE
-2026-09-08,Boynton Beach,TRUE
+2026-09-08,Boynton Beach (Churned),TRUE
 2026-09-08,CLEAR eye doctors,TRUE
 2026-09-08,Chilton Family Eye Care,TRUE
 2026-09-08,Citrus Heights,TRUE
@@ -5042,7 +5042,7 @@ date,location,completed
 2026-09-09,13th St,FALSE
 2026-09-09,Asheville,TRUE
 2026-09-09,Boston,TRUE
-2026-09-09,Boynton Beach,FALSE
+2026-09-09,Boynton Beach (Churned),FALSE
 2026-09-09,CLEAR eye doctors,TRUE
 2026-09-09,Chilton Family Eye Care,TRUE
 2026-09-09,Citrus Heights,TRUE
@@ -5102,7 +5102,7 @@ date,location,completed
 2026-09-10,13th St,TRUE
 2026-09-10,Asheville,TRUE
 2026-09-10,Boston,FALSE
-2026-09-10,Boynton Beach,TRUE
+2026-09-10,Boynton Beach (Churned),TRUE
 2026-09-10,CLEAR eye doctors,TRUE
 2026-09-10,Chilton Family Eye Care,TRUE
 2026-09-10,Citrus Heights,TRUE
@@ -5162,7 +5162,7 @@ date,location,completed
 2026-09-11,13th St,TRUE
 2026-09-11,Asheville,TRUE
 2026-09-11,Boston,TRUE
-2026-09-11,Boynton Beach,TRUE
+2026-09-11,Boynton Beach (Churned),TRUE
 2026-09-11,CLEAR eye doctors,TRUE
 2026-09-11,Chilton Family Eye Care,TRUE
 2026-09-11,Citrus Heights,TRUE
@@ -5222,7 +5222,7 @@ date,location,completed
 2026-09-12,13th St,TRUE
 2026-09-12,Asheville,TRUE
 2026-09-12,Boston,FALSE
-2026-09-12,Boynton Beach,TRUE
+2026-09-12,Boynton Beach (Churned),TRUE
 2026-09-12,CLEAR eye doctors,TRUE
 2026-09-12,Chilton Family Eye Care,TRUE
 2026-09-12,Citrus Heights,TRUE
@@ -5282,7 +5282,7 @@ date,location,completed
 2026-09-13,13th St,TRUE
 2026-09-13,Asheville,TRUE
 2026-09-13,Boston,FALSE
-2026-09-13,Boynton Beach,TRUE
+2026-09-13,Boynton Beach (Churned),TRUE
 2026-09-13,CLEAR eye doctors,TRUE
 2026-09-13,Chilton Family Eye Care,TRUE
 2026-09-13,Citrus Heights,TRUE
@@ -5342,7 +5342,7 @@ date,location,completed
 2026-09-14,13th St,TRUE
 2026-09-14,Asheville,TRUE
 2026-09-14,Boston,FALSE
-2026-09-14,Boynton Beach,TRUE
+2026-09-14,Boynton Beach (Churned),TRUE
 2026-09-14,CLEAR eye doctors,TRUE
 2026-09-14,Chilton Family Eye Care,FALSE
 2026-09-14,Citrus Heights,TRUE
@@ -5402,7 +5402,7 @@ date,location,completed
 2026-09-15,13th St,TRUE
 2026-09-15,Asheville,TRUE
 2026-09-15,Boston,FALSE
-2026-09-15,Boynton Beach,TRUE
+2026-09-15,Boynton Beach (Churned),TRUE
 2026-09-15,CLEAR eye doctors,TRUE
 2026-09-15,Chilton Family Eye Care,TRUE
 2026-09-15,Citrus Heights,TRUE
@@ -5462,7 +5462,7 @@ date,location,completed
 2026-09-16,13th St,FALSE
 2026-09-16,Asheville,TRUE
 2026-09-16,Boston,TRUE
-2026-09-16,Boynton Beach,TRUE
+2026-09-16,Boynton Beach (Churned),TRUE
 2026-09-16,CLEAR eye doctors,TRUE
 2026-09-16,Chilton Family Eye Care,TRUE
 2026-09-16,Citrus Heights,TRUE
@@ -5522,7 +5522,7 @@ date,location,completed
 2026-09-17,13th St,TRUE
 2026-09-17,Asheville,TRUE
 2026-09-17,Boston,FALSE
-2026-09-17,Boynton Beach,TRUE
+2026-09-17,Boynton Beach (Churned),TRUE
 2026-09-17,CLEAR eye doctors,TRUE
 2026-09-17,Chilton Family Eye Care,TRUE
 2026-09-17,Citrus Heights,TRUE
@@ -5582,7 +5582,7 @@ date,location,completed
 2026-09-18,13th St,FALSE
 2026-09-18,Asheville,TRUE
 2026-09-18,Boston,TRUE
-2026-09-18,Boynton Beach,TRUE
+2026-09-18,Boynton Beach (Churned),TRUE
 2026-09-18,CLEAR eye doctors,TRUE
 2026-09-18,Chilton Family Eye Care,TRUE
 2026-09-18,Citrus Heights,TRUE
@@ -5642,7 +5642,7 @@ date,location,completed
 2026-09-19,13th St,TRUE
 2026-09-19,Asheville,TRUE
 2026-09-19,Boston,TRUE
-2026-09-19,Boynton Beach,TRUE
+2026-09-19,Boynton Beach (Churned),TRUE
 2026-09-19,CLEAR eye doctors,FALSE
 2026-09-19,Chilton Family Eye Care,TRUE
 2026-09-19,Citrus Heights,TRUE
@@ -5702,7 +5702,7 @@ date,location,completed
 2026-09-20,13th St,TRUE
 2026-09-20,Asheville,TRUE
 2026-09-20,Boston,TRUE
-2026-09-20,Boynton Beach,TRUE
+2026-09-20,Boynton Beach (Churned),TRUE
 2026-09-20,CLEAR eye doctors,TRUE
 2026-09-20,Chilton Family Eye Care,TRUE
 2026-09-20,Citrus Heights,TRUE
@@ -5762,7 +5762,7 @@ date,location,completed
 2026-09-21,13th St,TRUE
 2026-09-21,Asheville,FALSE
 2026-09-21,Boston,FALSE
-2026-09-21,Boynton Beach,FALSE
+2026-09-21,Boynton Beach (Churned),FALSE
 2026-09-21,CLEAR eye doctors,FALSE
 2026-09-21,Chilton Family Eye Care,FALSE
 2026-09-21,Citrus Heights,FALSE
@@ -5822,7 +5822,7 @@ date,location,completed
 2026-09-22,13th St,FALSE
 2026-09-22,Asheville,FALSE
 2026-09-22,Boston,FALSE
-2026-09-22,Boynton Beach,FALSE
+2026-09-22,Boynton Beach (Churned),FALSE
 2026-09-22,CLEAR eye doctors,TRUE
 2026-09-22,Chilton Family Eye Care,FALSE
 2026-09-22,Citrus Heights,TRUE
@@ -5882,7 +5882,7 @@ date,location,completed
 2026-09-23,13th St,TRUE
 2026-09-23,Asheville,TRUE
 2026-09-23,Boston,TRUE
-2026-09-23,Boynton Beach,TRUE
+2026-09-23,Boynton Beach (Churned),TRUE
 2026-09-23,CLEAR eye doctors,TRUE
 2026-09-23,Chilton Family Eye Care,TRUE
 2026-09-23,Citrus Heights,TRUE
@@ -5942,7 +5942,7 @@ date,location,completed
 2026-09-24,13th St,FALSE
 2026-09-24,Asheville,TRUE
 2026-09-24,Boston,TRUE
-2026-09-24,Boynton Beach,TRUE
+2026-09-24,Boynton Beach (Churned),TRUE
 2026-09-24,CLEAR eye doctors,TRUE
 2026-09-24,Chilton Family Eye Care,TRUE
 2026-09-24,Citrus Heights,TRUE
@@ -6002,7 +6002,7 @@ date,location,completed
 2026-09-25,13th St,TRUE
 2026-09-25,Asheville,TRUE
 2026-09-25,Boston,TRUE
-2026-09-25,Boynton Beach,TRUE
+2026-09-25,Boynton Beach (Churned),TRUE
 2026-09-25,CLEAR eye doctors,TRUE
 2026-09-25,Chilton Family Eye Care,TRUE
 2026-09-25,Citrus Heights,TRUE
@@ -6062,7 +6062,7 @@ date,location,completed
 2026-09-26,13th St,TRUE
 2026-09-26,Asheville,TRUE
 2026-09-26,Boston,TRUE
-2026-09-26,Boynton Beach,TRUE
+2026-09-26,Boynton Beach (Churned),TRUE
 2026-09-26,CLEAR eye doctors,TRUE
 2026-09-26,Chilton Family Eye Care,TRUE
 2026-09-26,Citrus Heights,TRUE
@@ -6122,7 +6122,7 @@ date,location,completed
 2026-09-27,13th St,TRUE
 2026-09-27,Asheville,TRUE
 2026-09-27,Boston,TRUE
-2026-09-27,Boynton Beach,TRUE
+2026-09-27,Boynton Beach (Churned),TRUE
 2026-09-27,CLEAR eye doctors,FALSE
 2026-09-27,Chilton Family Eye Care,TRUE
 2026-09-27,Citrus Heights,TRUE
@@ -6182,7 +6182,7 @@ date,location,completed
 2026-09-28,13th St,TRUE
 2026-09-28,Asheville,TRUE
 2026-09-28,Boston,TRUE
-2026-09-28,Boynton Beach,TRUE
+2026-09-28,Boynton Beach (Churned),TRUE
 2026-09-28,CLEAR eye doctors,TRUE
 2026-09-28,Chilton Family Eye Care,TRUE
 2026-09-28,Citrus Heights,TRUE
@@ -6242,7 +6242,7 @@ date,location,completed
 2026-09-29,13th St,TRUE
 2026-09-29,Asheville,TRUE
 2026-09-29,Boston,TRUE
-2026-09-29,Boynton Beach,TRUE
+2026-09-29,Boynton Beach (Churned),TRUE
 2026-09-29,CLEAR eye doctors,TRUE
 2026-09-29,Chilton Family Eye Care,TRUE
 2026-09-29,Citrus Heights,TRUE
@@ -6302,7 +6302,7 @@ date,location,completed
 2026-09-30,13th St,TRUE
 2026-09-30,Asheville,TRUE
 2026-09-30,Boston,TRUE
-2026-09-30,Boynton Beach,TRUE
+2026-09-30,Boynton Beach (Churned),TRUE
 2026-09-30,CLEAR eye doctors,TRUE
 2026-09-30,Chilton Family Eye Care,TRUE
 2026-09-30,Citrus Heights,TRUE
@@ -6362,7 +6362,7 @@ date,location,completed
 2026-10-01,13th St,TRUE
 2026-10-01,Asheville,TRUE
 2026-10-01,Boston,TRUE
-2026-10-01,Boynton Beach,TRUE
+2026-10-01,Boynton Beach (Churned),TRUE
 2026-10-01,CLEAR eye doctors,TRUE
 2026-10-01,Chilton Family Eye Care,TRUE
 2026-10-01,Citrus Heights,TRUE
@@ -6422,7 +6422,7 @@ date,location,completed
 2026-10-02,13th St,TRUE
 2026-10-02,Asheville,TRUE
 2026-10-02,Boston,TRUE
-2026-10-02,Boynton Beach,TRUE
+2026-10-02,Boynton Beach (Churned),TRUE
 2026-10-02,CLEAR eye doctors,TRUE
 2026-10-02,Chilton Family Eye Care,TRUE
 2026-10-02,Citrus Heights,TRUE
@@ -6482,7 +6482,7 @@ date,location,completed
 2026-10-03,13th St,TRUE
 2026-10-03,Asheville,TRUE
 2026-10-03,Boston,TRUE
-2026-10-03,Boynton Beach,TRUE
+2026-10-03,Boynton Beach (Churned),TRUE
 2026-10-03,CLEAR eye doctors,TRUE
 2026-10-03,Chilton Family Eye Care,TRUE
 2026-10-03,Citrus Heights,TRUE
@@ -6542,7 +6542,7 @@ date,location,completed
 2026-10-04,13th St,FALSE
 2026-10-04,Asheville,TRUE
 2026-10-04,Boston,TRUE
-2026-10-04,Boynton Beach,TRUE
+2026-10-04,Boynton Beach (Churned),TRUE
 2026-10-04,CLEAR eye doctors,TRUE
 2026-10-04,Chilton Family Eye Care,TRUE
 2026-10-04,Citrus Heights,TRUE
@@ -6602,7 +6602,7 @@ date,location,completed
 2026-10-05,13th St,FALSE
 2026-10-05,Asheville,TRUE
 2026-10-05,Boston,TRUE
-2026-10-05,Boynton Beach,TRUE
+2026-10-05,Boynton Beach (Churned),TRUE
 2026-10-05,CLEAR eye doctors,TRUE
 2026-10-05,Chilton Family Eye Care,TRUE
 2026-10-05,Citrus Heights,TRUE
@@ -6662,7 +6662,7 @@ date,location,completed
 2026-10-06,13th St,TRUE
 2026-10-06,Asheville,TRUE
 2026-10-06,Boston,TRUE
-2026-10-06,Boynton Beach,TRUE
+2026-10-06,Boynton Beach (Churned),TRUE
 2026-10-06,CLEAR eye doctors,TRUE
 2026-10-06,Chilton Family Eye Care,TRUE
 2026-10-06,Citrus Heights,TRUE
@@ -6722,7 +6722,7 @@ date,location,completed
 2026-10-07,13th St,TRUE
 2026-10-07,Asheville,TRUE
 2026-10-07,Boston,TRUE
-2026-10-07,Boynton Beach,TRUE
+2026-10-07,Boynton Beach (Churned),TRUE
 2026-10-07,CLEAR eye doctors,TRUE
 2026-10-07,Chilton Family Eye Care,TRUE
 2026-10-07,Citrus Heights,TRUE
@@ -6782,7 +6782,7 @@ date,location,completed
 2026-10-08,13th St,FALSE
 2026-10-08,Asheville,TRUE
 2026-10-08,Boston,TRUE
-2026-10-08,Boynton Beach,TRUE
+2026-10-08,Boynton Beach (Churned),TRUE
 2026-10-08,CLEAR eye doctors,TRUE
 2026-10-08,Chilton Family Eye Care,TRUE
 2026-10-08,Citrus Heights,TRUE
@@ -6842,7 +6842,7 @@ date,location,completed
 2026-10-09,13th St,TRUE
 2026-10-09,Asheville,TRUE
 2026-10-09,Boston,FALSE
-2026-10-09,Boynton Beach,TRUE
+2026-10-09,Boynton Beach (Churned),TRUE
 2026-10-09,CLEAR eye doctors,TRUE
 2026-10-09,Chilton Family Eye Care,TRUE
 2026-10-09,Citrus Heights,TRUE
@@ -6902,7 +6902,7 @@ date,location,completed
 2026-10-10,13th St,FALSE
 2026-10-10,Asheville,FALSE
 2026-10-10,Boston,TRUE
-2026-10-10,Boynton Beach,TRUE
+2026-10-10,Boynton Beach (Churned),TRUE
 2026-10-10,CLEAR eye doctors,TRUE
 2026-10-10,Chilton Family Eye Care,TRUE
 2026-10-10,Citrus Heights,TRUE
@@ -6962,7 +6962,7 @@ date,location,completed
 2026-10-11,13th St,TRUE
 2026-10-11,Asheville,TRUE
 2026-10-11,Boston,FALSE
-2026-10-11,Boynton Beach,TRUE
+2026-10-11,Boynton Beach (Churned),TRUE
 2026-10-11,CLEAR eye doctors,TRUE
 2026-10-11,Chilton Family Eye Care,TRUE
 2026-10-11,Citrus Heights,TRUE
@@ -7022,7 +7022,7 @@ date,location,completed
 2026-10-12,13th St,TRUE
 2026-10-12,Asheville,TRUE
 2026-10-12,Boston,TRUE
-2026-10-12,Boynton Beach,TRUE
+2026-10-12,Boynton Beach (Churned),TRUE
 2026-10-12,CLEAR eye doctors,TRUE
 2026-10-12,Chilton Family Eye Care,TRUE
 2026-10-12,Citrus Heights,TRUE
@@ -7082,7 +7082,7 @@ date,location,completed
 2026-10-13,13th St,TRUE
 2026-10-13,Asheville,TRUE
 2026-10-13,Boston,TRUE
-2026-10-13,Boynton Beach,TRUE
+2026-10-13,Boynton Beach (Churned),TRUE
 2026-10-13,CLEAR eye doctors,TRUE
 2026-10-13,Chilton Family Eye Care,TRUE
 2026-10-13,Citrus Heights,TRUE
@@ -7142,7 +7142,7 @@ date,location,completed
 2026-10-14,13th St,TRUE
 2026-10-14,Asheville,TRUE
 2026-10-14,Boston,TRUE
-2026-10-14,Boynton Beach,TRUE
+2026-10-14,Boynton Beach (Churned),TRUE
 2026-10-14,CLEAR eye doctors,TRUE
 2026-10-14,Chilton Family Eye Care,TRUE
 2026-10-14,Citrus Heights,TRUE
@@ -7202,7 +7202,7 @@ date,location,completed
 2026-10-15,13th St,TRUE
 2026-10-15,Asheville,TRUE
 2026-10-15,Boston,TRUE
-2026-10-15,Boynton Beach,TRUE
+2026-10-15,Boynton Beach (Churned),TRUE
 2026-10-15,CLEAR eye doctors,TRUE
 2026-10-15,Chilton Family Eye Care,TRUE
 2026-10-15,Citrus Heights,TRUE
@@ -7262,7 +7262,7 @@ date,location,completed
 2026-10-16,13th St,TRUE
 2026-10-16,Asheville,TRUE
 2026-10-16,Boston,TRUE
-2026-10-16,Boynton Beach,TRUE
+2026-10-16,Boynton Beach (Churned),TRUE
 2026-10-16,CLEAR eye doctors,TRUE
 2026-10-16,Chilton Family Eye Care,TRUE
 2026-10-16,Citrus Heights,TRUE
@@ -7322,7 +7322,7 @@ date,location,completed
 2026-10-17,13th St,TRUE
 2026-10-17,Asheville,TRUE
 2026-10-17,Boston,TRUE
-2026-10-17,Boynton Beach,TRUE
+2026-10-17,Boynton Beach (Churned),TRUE
 2026-10-17,CLEAR eye doctors,FALSE
 2026-10-17,Chilton Family Eye Care,TRUE
 2026-10-17,Citrus Heights,TRUE
@@ -7382,7 +7382,7 @@ date,location,completed
 2026-10-18,13th St,TRUE
 2026-10-18,Asheville,TRUE
 2026-10-18,Boston,TRUE
-2026-10-18,Boynton Beach,TRUE
+2026-10-18,Boynton Beach (Churned),TRUE
 2026-10-18,CLEAR eye doctors,TRUE
 2026-10-18,Chilton Family Eye Care,TRUE
 2026-10-18,Citrus Heights,TRUE
@@ -7442,7 +7442,7 @@ date,location,completed
 2026-10-19,13th St,TRUE
 2026-10-19,Asheville,TRUE
 2026-10-19,Boston,TRUE
-2026-10-19,Boynton Beach,TRUE
+2026-10-19,Boynton Beach (Churned),TRUE
 2026-10-19,CLEAR eye doctors,TRUE
 2026-10-19,Chilton Family Eye Care,TRUE
 2026-10-19,Citrus Heights,TRUE
@@ -7502,7 +7502,7 @@ date,location,completed
 2026-10-20,13th St,TRUE
 2026-10-20,Asheville,TRUE
 2026-10-20,Boston,TRUE
-2026-10-20,Boynton Beach,TRUE
+2026-10-20,Boynton Beach (Churned),TRUE
 2026-10-20,CLEAR eye doctors,TRUE
 2026-10-20,Chilton Family Eye Care,TRUE
 2026-10-20,Citrus Heights,TRUE
@@ -7562,7 +7562,7 @@ date,location,completed
 2026-10-21,13th St,TRUE
 2026-10-21,Asheville,TRUE
 2026-10-21,Boston,TRUE
-2026-10-21,Boynton Beach,TRUE
+2026-10-21,Boynton Beach (Churned),TRUE
 2026-10-21,CLEAR eye doctors,FALSE
 2026-10-21,Chilton Family Eye Care,TRUE
 2026-10-21,Citrus Heights,TRUE
@@ -7622,7 +7622,7 @@ date,location,completed
 2026-10-22,13th St,TRUE
 2026-10-22,Asheville,TRUE
 2026-10-22,Boston,TRUE
-2026-10-22,Boynton Beach,TRUE
+2026-10-22,Boynton Beach (Churned),TRUE
 2026-10-22,CLEAR eye doctors,TRUE
 2026-10-22,Chilton Family Eye Care,TRUE
 2026-10-22,Citrus Heights,TRUE
@@ -7682,7 +7682,7 @@ date,location,completed
 2026-10-23,13th St,TRUE
 2026-10-23,Asheville,TRUE
 2026-10-23,Boston,FALSE
-2026-10-23,Boynton Beach,TRUE
+2026-10-23,Boynton Beach (Churned),TRUE
 2026-10-23,CLEAR eye doctors,TRUE
 2026-10-23,Chilton Family Eye Care,TRUE
 2026-10-23,Citrus Heights,TRUE
@@ -7742,7 +7742,7 @@ date,location,completed
 2026-10-24,13th St,TRUE
 2026-10-24,Asheville,TRUE
 2026-10-24,Boston,FALSE
-2026-10-24,Boynton Beach,TRUE
+2026-10-24,Boynton Beach (Churned),TRUE
 2026-10-24,CLEAR eye doctors,FALSE
 2026-10-24,Chilton Family Eye Care,TRUE
 2026-10-24,Citrus Heights,TRUE
@@ -7802,7 +7802,7 @@ date,location,completed
 2026-10-25,13th St,TRUE
 2026-10-25,Asheville,TRUE
 2026-10-25,Boston,FALSE
-2026-10-25,Boynton Beach,TRUE
+2026-10-25,Boynton Beach (Churned),TRUE
 2026-10-25,CLEAR eye doctors,TRUE
 2026-10-25,Chilton Family Eye Care,TRUE
 2026-10-25,Citrus Heights,TRUE
@@ -7862,7 +7862,7 @@ date,location,completed
 2026-10-26,13th St,TRUE
 2026-10-26,Asheville,TRUE
 2026-10-26,Boston,TRUE
-2026-10-26,Boynton Beach,TRUE
+2026-10-26,Boynton Beach (Churned),TRUE
 2026-10-26,CLEAR eye doctors,TRUE
 2026-10-26,Chilton Family Eye Care,TRUE
 2026-10-26,Citrus Heights,TRUE
@@ -7922,7 +7922,7 @@ date,location,completed
 2026-10-27,13th St,TRUE
 2026-10-27,Asheville,FALSE
 2026-10-27,Boston,TRUE
-2026-10-27,Boynton Beach,TRUE
+2026-10-27,Boynton Beach (Churned),TRUE
 2026-10-27,CLEAR eye doctors,TRUE
 2026-10-27,Chilton Family Eye Care,TRUE
 2026-10-27,Citrus Heights,TRUE
@@ -7982,7 +7982,7 @@ date,location,completed
 2026-10-28,13th St,TRUE
 2026-10-28,Asheville,FALSE
 2026-10-28,Boston,TRUE
-2026-10-28,Boynton Beach,TRUE
+2026-10-28,Boynton Beach (Churned),TRUE
 2026-10-28,CLEAR eye doctors,FALSE
 2026-10-28,Chilton Family Eye Care,TRUE
 2026-10-28,Citrus Heights,TRUE
@@ -8042,7 +8042,7 @@ date,location,completed
 2026-11-14,13th St,TRUE
 2026-11-14,Asheville,TRUE
 2026-11-14,Boston,FALSE
-2026-11-14,Boynton Beach,TRUE
+2026-11-14,Boynton Beach (Churned),TRUE
 2026-11-14,CLEAR eye doctors,FALSE
 2026-11-14,Chilton Family Eye Care,TRUE
 2026-11-14,Citrus Heights,TRUE
@@ -8102,7 +8102,7 @@ date,location,completed
 2026-11-15,13th St,TRUE
 2026-11-15,Asheville,TRUE
 2026-11-15,Boston,TRUE
-2026-11-15,Boynton Beach,TRUE
+2026-11-15,Boynton Beach (Churned),TRUE
 2026-11-15,CLEAR eye doctors,FALSE
 2026-11-15,Chilton Family Eye Care,TRUE
 2026-11-15,Citrus Heights,TRUE
@@ -8162,7 +8162,7 @@ date,location,completed
 2026-11-16,13th St,TRUE
 2026-11-16,Asheville,TRUE
 2026-11-16,Boston,TRUE
-2026-11-16,Boynton Beach,TRUE
+2026-11-16,Boynton Beach (Churned),TRUE
 2026-11-16,CLEAR eye doctors,FALSE
 2026-11-16,Chilton Family Eye Care,TRUE
 2026-11-16,Citrus Heights,TRUE
@@ -8222,7 +8222,7 @@ date,location,completed
 2026-11-17,13th St,TRUE
 2026-11-17,Asheville,TRUE
 2026-11-17,Boston,TRUE
-2026-11-17,Boynton Beach,TRUE
+2026-11-17,Boynton Beach (Churned),TRUE
 2026-11-17,CLEAR eye doctors,FALSE
 2026-11-17,Chilton Family Eye Care,TRUE
 2026-11-17,Citrus Heights,TRUE
@@ -8282,7 +8282,7 @@ date,location,completed
 2026-11-18,13th St,TRUE
 2026-11-18,Asheville,TRUE
 2026-11-18,Boston,FALSE
-2026-11-18,Boynton Beach,TRUE
+2026-11-18,Boynton Beach (Churned),TRUE
 2026-11-18,CLEAR eye doctors,FALSE
 2026-11-18,Chilton Family Eye Care,TRUE
 2026-11-18,Citrus Heights,TRUE
@@ -8342,7 +8342,7 @@ date,location,completed
 2026-11-19,13th St,TRUE
 2026-11-19,Asheville,TRUE
 2026-11-19,Boston,FALSE
-2026-11-19,Boynton Beach,TRUE
+2026-11-19,Boynton Beach (Churned),TRUE
 2026-11-19,CLEAR eye doctors,TRUE
 2026-11-19,Chilton Family Eye Care,TRUE
 2026-11-19,Citrus Heights,TRUE
@@ -8402,7 +8402,7 @@ date,location,completed
 2026-11-20,13th St,TRUE
 2026-11-20,Asheville,TRUE
 2026-11-20,Boston,TRUE
-2026-11-20,Boynton Beach,TRUE
+2026-11-20,Boynton Beach (Churned),TRUE
 2026-11-20,CLEAR eye doctors,TRUE
 2026-11-20,Chilton Family Eye Care,TRUE
 2026-11-20,Citrus Heights,TRUE
@@ -8462,7 +8462,7 @@ date,location,completed
 2026-11-21,13th St,TRUE
 2026-11-21,Asheville,TRUE
 2026-11-21,Boston,TRUE
-2026-11-21,Boynton Beach,TRUE
+2026-11-21,Boynton Beach (Churned),TRUE
 2026-11-21,CLEAR eye doctors,TRUE
 2026-11-21,Chilton Family Eye Care,TRUE
 2026-11-21,Citrus Heights,TRUE
@@ -8522,7 +8522,7 @@ date,location,completed
 2026-11-22,13th St,TRUE
 2026-11-22,Asheville,TRUE
 2026-11-22,Boston,TRUE
-2026-11-22,Boynton Beach,TRUE
+2026-11-22,Boynton Beach (Churned),TRUE
 2026-11-22,CLEAR eye doctors,FALSE
 2026-11-22,Chilton Family Eye Care,TRUE
 2026-11-22,Citrus Heights,TRUE
@@ -8579,3 +8579,63 @@ date,location,completed
 2026-11-22,Waupun,TRUE
 2026-11-22,Wheaton,FALSE
 2026-11-22,Woodridge,TRUE
+2026-11-23,13th St,TRUE
+2026-11-23,Asheville,TRUE
+2026-11-23,Boston,TRUE
+2026-11-23,Boynton Beach (Churned),FALSE
+2026-11-23,CLEAR eye doctors,TRUE
+2026-11-23,Chilton Family Eye Care,TRUE
+2026-11-23,Citrus Heights,TRUE
+2026-11-23,Colchester,FALSE
+2026-11-23,Dallas,TRUE
+2026-11-23,Downtown,TRUE
+2026-11-23,East Northport,TRUE
+2026-11-23,Essex,FALSE
+2026-11-23,Eye Care Associates Jefferson,TRUE
+2026-11-23,Eye Care Associates Panora,TRUE
+2026-11-23,Eye Care Associates Perry,TRUE
+2026-11-23,Eye Care Associates Stuart,TRUE
+2026-11-23,Eyecare of Great Bend,TRUE
+2026-11-23,Eyes on Eastern,TRUE
+2026-11-23,Fort Collins,TRUE
+2026-11-23,Geneva,TRUE
+2026-11-23,Glen Mills,FALSE
+2026-11-23,Grafton Family Eye Care,TRUE
+2026-11-23,Hebron,FALSE
+2026-11-23,Irving,TRUE
+2026-11-23,Lake Mills,TRUE
+2026-11-23,Lancaster,TRUE
+2026-11-23,Larned Eye Health,TRUE
+2026-11-23,Longmont,TRUE
+2026-11-23,Madison,TRUE
+2026-11-23,Maple Grove,TRUE
+2026-11-23,McConnelsville,TRUE
+2026-11-23,Mitchell,TRUE
+2026-11-23,Naperville,TRUE
+2026-11-23,New Holstein Family Eye Care (Churned),FALSE
+2026-11-23,Omaha,TRUE
+2026-11-23,Orange City,TRUE
+2026-11-23,Orrville,TRUE
+2026-11-23,Park Hills,TRUE
+2026-11-23,Princeton,TRUE
+2026-11-23,Prosper,TRUE
+2026-11-23,Sheboygan Family Eye Care,TRUE
+2026-11-23,Tooele,TRUE
+2026-11-23,Tulsa,TRUE
+2026-11-23,Vision Source Atwood,FALSE
+2026-11-23,Vision Source Burlington,FALSE
+2026-11-23,Vision Source Colby,FALSE
+2026-11-23,Vision Source Eye Center of the Triad Greensboro (Churned),FALSE
+2026-11-23,Vision Source Eye Center of the Triad Oak Ridge (Churned),FALSE
+2026-11-23,Vision Source Goodland,FALSE
+2026-11-23,Vision Source Junction City,TRUE
+2026-11-23,Vision Source Manhattan (Churned),FALSE
+2026-11-23,Vision Source Oakley,FALSE
+2026-11-23,Vision Source St Francis,FALSE
+2026-11-23,Vision Source Wamego,TRUE
+2026-11-23,Vision Source Wray,FALSE
+2026-11-23,Vision Source Yuma,FALSE
+2026-11-23,WVEA,TRUE
+2026-11-23,Waupun,TRUE
+2026-11-23,Wheaton,TRUE
+2026-11-23,Woodridge,TRUE
